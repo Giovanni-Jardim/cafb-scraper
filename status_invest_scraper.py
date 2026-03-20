@@ -77,14 +77,24 @@ class StatusInvestScraper:
         
         print(f"🌐 Acessando {ticker} - {tipo.upper()}...")
         
-        await page.goto(url, wait_until="networkidle", timeout=30000)
+        await page.goto(url, wait_until="domcontentloaded", timeout=60000)
         
         # Aguarda carregamento inicial
-        await page.wait_for_selector("h1.title-ticker", timeout=10000)
+        await page.wait_for_selector("h1.title-ticker", timeout=20000)
         
         # Clica na aba de demonstrativos financeiros
-        await page.click('a[href="#financial-section"]')
-        await asyncio.sleep(1)
+        try:
+             await page.click('a[href="#financial-section"]', timeout=5000)
+             await asyncio.sleep(2)
+         except Exception as e:
+             print(f"⚠️ Não conseguiu clicar na seção financeira de {ticker}: {e}")
+             print(f"❌ Erro em {ticker}/{tipo}: {e}")
+             try:
+                 html_debug = await page.content()
+                 self._save_raw(html_debug, ticker, f"{tipo}_erro")
+             except:
+                 pass
+             continue
         
         # Seleciona o tipo de demonstrativo (BP, DRE, DFC)
         selector_map = {
@@ -99,15 +109,28 @@ class StatusInvestScraper:
         # Verifica se há dados históricos disponíveis
         # O Status Invest carrega via AJAX, precisamos esperar a tabela
         try:
-            await page.wait_for_selector("table.data-table", timeout=5000)
+            await page.wait_for_selector("table", timeout=15000)
         except:
+            print(f"❌ Erro em {ticker}/{tipo}: {e}")
+            try:
+                html_debug = await page.content()
+                self._save_raw(html_debug, ticker, f"{tipo}_erro")
+            except:
+                pass
+            continue
             print(f"⚠️ Tabela não encontrada para {ticker}/{tipo}, tentando alternativa...")
             # Fallback: tenta clicar em "Ver mais" ou expandir histórico
             try:
                 await page.click('button:has-text("Ver mais")')
                 await asyncio.sleep(1)
             except:
-                pass
+                print(f"❌ Erro em {ticker}/{tipo}: {e}")
+                try:
+                    html_debug = await page.content()
+                    self._save_raw(html_debug, ticker, f"{tipo}_erro")
+                except:
+                    pass
+                continue
         
         # Extrai o HTML da tabela de dados históricos
         content = await page.content()
