@@ -20,7 +20,7 @@ jobs:
     
     - name: Install dependencies
       run: |
-        pip install playwright playwright-stealth pandas beautifulsoup4 fake-useragent tenacity
+        pip install playwright "playwright-stealth==1.0.6" pandas beautifulsoup4 fake-useragent tenacity
         playwright install chromium
     
     - name: Run scraper
