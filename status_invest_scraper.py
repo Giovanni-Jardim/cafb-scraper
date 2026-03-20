@@ -86,7 +86,7 @@ class StatusInvestScraper:
         try:
              await page.click('a[href="#financial-section"]', timeout=5000)
              await asyncio.sleep(2)
-         except Exception as e:
+        except Exception as e:
              print(f"⚠️ Não conseguiu clicar na seção financeira de {ticker}: {e}")
              print(f"❌ Erro em {ticker}/{tipo}: {e}")
              try:
