@@ -33,7 +33,7 @@ jobs:
           import time
           from normalizer import processar_ticker
 
-          tickers = ['PETR4', 'VALE3', 'WEGE3', 'ITUB4', 'BBAS3', 'RAIZ4', 'VBBR3']
+          tickers = ['PETR4']
 
           for ticker in tickers:
               try:
