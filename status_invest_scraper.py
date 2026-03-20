@@ -1,331 +1,337 @@
-# status_invest_scraper.py
-# Fase 2: Extração completa de demonstrativos históricos
+from __future__ import annotations
 
-import asyncio
-import json
 import re
-import time
-import random
 from dataclasses import dataclass
-from datetime import datetime
+from io import StringIO
 from pathlib import Path
-from typing import List, Dict, Optional
+from typing import Dict, List, Optional
 
 import pandas as pd
-from playwright.async_api import async_playwright, Page, BrowserContext
-from playwright_stealth import stealth_async
+import requests
+from bs4 import BeautifulSoup
 from tenacity import retry, stop_after_attempt, wait_exponential
-import fake_useragent
 
 
 @dataclass
 class Demonstrativo:
     tipo: str  # 'bp', 'dre', 'dfc'
     ticker: str
-    trimestres: List[str]  # ['4T2023', '3T2023', ...]
-    contas: Dict[str, List[float]]  # {'Ativo Total': [1000.5, 950.2, ...]}
+    trimestres: List[str]
+    contas: Dict[str, List[Optional[float]]]
     unidade: str  # 'milhares', 'milhoes', 'bilhoes'
 
     def to_dataframe(self) -> pd.DataFrame:
-        """Converte para DataFrame com trimestres como colunas"""
         df = pd.DataFrame(self.contas, index=self.trimestres).T
         df.index.name = "Conta"
         return df
 
 
 class StatusInvestScraper:
+    """
+    Mantém o mesmo nome de classe para evitar quebrar o restante do projeto,
+    mas agora usa o Fundamentus como fonte de dados.
+    """
+
+    URLS = {
+        "bp": "https://www.fundamentus.com.br/balancos.php",
+        "dre": "https://www.fundamentus.com.br/balancos.php",
+        "dfc": "https://www.fundamentus.com.br/balancos.php",
+    }
+
+    TIPO_PARAM = {
+        "bp": 1,
+        "dre": 2,
+        "dfc": 3,
+    }
+
+    KEYWORDS = {
+        "bp": ["ativo", "passivo", "patrim", "caixa", "estoque", "imobilizado"],
+        "dre": ["receita", "lucro", "ebit", "resultado", "bruto", "despesa"],
+        "dfc": ["caixa", "operac", "invest", "financ", "deprecia", "amort"],
+    }
+
     def __init__(self, headless: bool = True, proxy: Optional[str] = None):
         self.headless = headless
         self.proxy = proxy
-        self.ua = fake_useragent.UserAgent()
-        self.base_url = "https://statusinvest.com.br/acoes"
-        self.data_dir = Path("data/raw/status_invest")
+        self.data_dir = Path("data/raw/fundamentus")
         self.data_dir.mkdir(parents=True, exist_ok=True)
-
-    async def _create_context(self, playwright) -> BrowserContext:
-        """Cria contexto com stealth máximo"""
-        browser = await playwright.chromium.launch(
-            headless=self.headless,
-            proxy={"server": self.proxy} if self.proxy else None
+        self.session = requests.Session()
+        self.session.headers.update(
+            {
+                "User-Agent": (
+                    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                    "AppleWebKit/537.36 (KHTML, like Gecko) "
+                    "Chrome/122.0.0.0 Safari/537.36"
+                ),
+                "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+                "Referer": "https://www.fundamentus.com.br/",
+            }
         )
-
-        context = await browser.new_context(
-            user_agent=self.ua.random,
-            viewport={"width": 1920, "height": 1080},
-            locale="pt-BR",
-            timezone_id="America/Sao_Paulo",
-            permissions=["geolocation"],
-            color_scheme="light",
-        )
-
-        # Anti-detecção adicional
-        await context.add_init_script("""
-            Object.defineProperty(navigator, 'webdriver', {
-                get: () => undefined
-            });
-            Object.defineProperty(navigator, 'plugins', {
-                get: () => [1, 2, 3, 4, 5]
-            });
-            window.chrome = { runtime: {} };
-        """)
-
-        return browser, context
+        if proxy:
+            self.session.proxies.update({"http": proxy, "https": proxy})
 
     @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=2, max=10))
-    async def _get_page_content(self, page: Page, ticker: str, tipo: str) -> str:
-        """Navega para a página e extrai dados brutos"""
-        url = f"{self.base_url}/{ticker}"
+    def _get_page_content(self, ticker: str, tipo: str) -> str:
+        url = self.URLS[tipo]
+        params = {"papel": ticker.upper(), "tipo": self.TIPO_PARAM[tipo]}
+        response = self.session.get(url, params=params, timeout=45)
+        response.raise_for_status()
 
-        print(f"🌐 Acessando {ticker} - {tipo.upper()}...")
+        html = response.text
+        if "fundamentus" not in html.lower() and "balan" not in html.lower():
+            raise ValueError(f"Resposta inesperada para {ticker}/{tipo}")
 
-        await page.goto(url, wait_until="domcontentloaded", timeout=60000)
-
-        # Aguarda carregamento inicial
-        await page.wait_for_selector("h1.title-ticker", timeout=20000)
-
-        # Clica na aba de demonstrativos financeiros
-        try:
-            await page.click('a[href="#financial-section"]', timeout=5000)
-            await asyncio.sleep(2)
-        except Exception as e:
-            print(f"⚠️ Não conseguiu clicar na seção financeira de {ticker}: {e}")
-            html_debug = await page.content()
-            self._save_raw(html_debug, ticker, f"{tipo}_erro")
-            raise
-
-        # Seleciona o tipo de demonstrativo (BP, DRE, DFC)
-        selector_map = {
-            "bp": 'button[data-tab="balance-sheet"]',
-            "dre": 'button[data-tab="income-statement"]',
-            "dfc": 'button[data-tab="cash-flow"]'
-        }
-
-        await page.click(selector_map[tipo])
-        await asyncio.sleep(2)  # Aguarda renderização do grid
-
-        # Verifica se há dados históricos disponíveis
-        try:
-            await page.wait_for_selector("table", timeout=15000)
-        except Exception as e:
-            print(f"⚠️ Tabela não encontrada para {ticker}/{tipo}, tentando alternativa... {e}")
-
-            try:
-                await page.click('button:has-text("Ver mais")', timeout=5000)
-                await asyncio.sleep(2)
-                await page.wait_for_selector("table", timeout=10000)
-            except Exception as e2:
-                print(f"❌ Falha no fallback para {ticker}/{tipo}: {e2}")
-                html_debug = await page.content()
-                self._save_raw(html_debug, ticker, f"{tipo}_erro")
-                raise
-
-        # Extrai o HTML da tabela de dados históricos
-        content = await page.content()
-
-        # Delay humano entre requests
-        await asyncio.sleep(random.uniform(2, 5))
-
-        return content
+        return html
 
     def _parse_demonstrativo(self, html: str, ticker: str, tipo: str) -> Demonstrativo:
-        """Parseia HTML e extrai estrutura de dados"""
-        from bs4 import BeautifulSoup
+        tables = self._extract_tables(html)
+        if not tables:
+            raise ValueError(f"Nenhuma tabela encontrada para {ticker}/{tipo}")
 
-        soup = BeautifulSoup(html, "html.parser")
+        table = self._select_best_table(tables, tipo)
+        if table is None:
+            raise ValueError(f"Não foi possível localizar a tabela principal para {ticker}/{tipo}")
 
-        # Encontra a tabela de dados históricos
-        table = soup.find("table", {"class": re.compile("data-table|financial-table")})
+        demo = self._table_to_demonstrativo(table, ticker=ticker.upper(), tipo=tipo)
+        demo.unidade = self._detectar_unidade(html, demo.contas)
+        return demo
 
-        if not table:
-            raise ValueError(f"Tabela não encontrada para {ticker}/{tipo}")
-
-        # Extrai headers (trimestres)
-        headers = []
-        header_row = table.find("thead")
-        if header_row:
-            ths = header_row.find_all("th")
-            headers = [th.get_text(strip=True) for th in ths[1:]]
-
-        # Extrai linhas de dados
-        contas = {}
-        rows = table.find("tbody").find_all("tr") if table.find("tbody") else []
-
-        for row in rows:
-            cols = row.find_all("td")
-            if len(cols) < 2:
-                continue
-
-            conta_nome = cols[0].get_text(strip=True)
-            valores = []
-
-            for col in cols[1:]:
-                texto = col.get_text(strip=True)
-                valor = self._parse_valor(texto)
-                valores.append(valor)
-
-            if conta_nome and any(v is not None for v in valores):
-                contas[conta_nome] = valores
-
-        unidade = self._detectar_unidade(html, contas)
-
-        return Demonstrativo(
-            tipo=tipo,
-            ticker=ticker,
-            trimestres=headers,
-            contas=contas,
-            unidade=unidade
-        )
-
-    def _parse_valor(self, texto: str) -> Optional[float]:
-        """Converte string brasileira de valor para float"""
-        if not texto or texto in ["-", "—", "", "ND"]:
-            return None
-
-        texto = texto.strip().upper()
-
-        multiplicador = 1
-        if "BI" in texto or "BILH" in texto:
-            multiplicador = 1_000_000_000
-            texto = texto.replace("BI", "").replace("BILHÕES", "").replace("BILHAO", "")
-        elif "MI" in texto or "MILH" in texto:
-            multiplicador = 1_000_000
-            texto = texto.replace("MI", "").replace("MILHÕES", "").replace("MILHAO", "")
-        elif "MIL" in texto:
-            multiplicador = 1_000
-            texto = texto.replace("MIL", "")
-
-        texto = re.sub(r"[R$%\s]", "", texto)
+    def _extract_tables(self, html: str) -> List[pd.DataFrame]:
+        dataframes: List[pd.DataFrame] = []
 
         try:
-            if "," in texto and "." in texto:
-                texto = texto.replace(".", "").replace(",", ".")
-            elif "," in texto:
-                texto = texto.replace(",", ".")
+            for df in pd.read_html(StringIO(html), decimal=",", thousands="."):
+                clean = self._clean_dataframe(df)
+                if clean is not None and not clean.empty:
+                    dataframes.append(clean)
+        except ValueError:
+            pass
 
-            return float(texto) * multiplicador
+        if dataframes:
+            return dataframes
+
+        # Fallback manual se o pandas não conseguir ler corretamente
+        soup = BeautifulSoup(html, "html.parser")
+        for table in soup.find_all("table"):
+            try:
+                df_list = pd.read_html(StringIO(str(table)), decimal=",", thousands=".")
+            except ValueError:
+                continue
+            for df in df_list:
+                clean = self._clean_dataframe(df)
+                if clean is not None and not clean.empty:
+                    dataframes.append(clean)
+
+        return dataframes
+
+    def _clean_dataframe(self, df: pd.DataFrame) -> Optional[pd.DataFrame]:
+        if df is None or df.empty:
+            return None
+
+        if isinstance(df.columns, pd.MultiIndex):
+            df.columns = [
+                " ".join(str(part).strip() for part in col if str(part).strip() and str(part) != "nan").strip()
+                for col in df.columns
+            ]
+        else:
+            df.columns = [str(c).strip() for c in df.columns]
+
+        df = df.copy()
+        df = df.dropna(axis=0, how="all").dropna(axis=1, how="all")
+        df = df.loc[:, [c for c in df.columns if not str(c).lower().startswith("unnamed") or len(df.columns) <= 2]]
+        df = df.reset_index(drop=True)
+        return df
+
+    def _select_best_table(self, tables: List[pd.DataFrame], tipo: str) -> Optional[pd.DataFrame]:
+        best_table = None
+        best_score = -1
+        keywords = self.KEYWORDS[tipo]
+
+        for df in tables:
+            flat_text = " ".join(df.astype(str).fillna("").values.flatten()).lower()
+            keyword_score = sum(1 for kw in keywords if kw in flat_text)
+            structure_score = min(df.shape[0], 20) + min(df.shape[1], 10)
+            score = keyword_score * 100 + structure_score
+
+            if score > best_score:
+                best_score = score
+                best_table = df
+
+        return best_table
+
+    def _table_to_demonstrativo(self, df: pd.DataFrame, ticker: str, tipo: str) -> Demonstrativo:
+        # Cenário A: colunas = períodos / linhas = contas
+        periods_from_columns = self._extract_periods_from_iterable(df.columns[1:])
+        if periods_from_columns and len(df.columns) >= 3:
+            period_columns = [col for col in df.columns[1:] if self._is_period_label(col)]
+            if period_columns:
+                contas: Dict[str, List[Optional[float]]] = {}
+                for _, row in df.iterrows():
+                    conta = str(row.iloc[0]).strip()
+                    if not conta or conta.lower() == "nan":
+                        continue
+                    valores = [self._parse_valor(row[col]) for col in period_columns]
+                    if any(v is not None for v in valores):
+                        contas[conta] = valores
+
+                if contas:
+                    return Demonstrativo(
+                        tipo=tipo,
+                        ticker=ticker,
+                        trimestres=period_columns,
+                        contas=contas,
+                        unidade="milhoes",
+                    )
+
+        # Cenário B: linhas = períodos / colunas = contas
+        period_col = self._find_period_column(df)
+        if period_col is not None:
+            trimestres = [self._normalize_period_label(v) for v in df[period_col].tolist()]
+            account_cols = [c for c in df.columns if c != period_col]
+            contas = {}
+            for col in account_cols:
+                valores = [self._parse_valor(v) for v in df[col].tolist()]
+                if any(v is not None for v in valores):
+                    contas[str(col).strip()] = valores
+
+            if contas:
+                return Demonstrativo(
+                    tipo=tipo,
+                    ticker=ticker,
+                    trimestres=trimestres,
+                    contas=contas,
+                    unidade="milhoes",
+                )
+
+        # Cenário C: tenta usar a primeira coluna como contas e o restante como períodos, mesmo sem detectar label padrão
+        if df.shape[1] >= 3:
+            trimestres = [self._normalize_period_label(col) for col in df.columns[1:]]
+            contas = {}
+            for _, row in df.iterrows():
+                conta = str(row.iloc[0]).strip()
+                if not conta or conta.lower() == "nan":
+                    continue
+                valores = [self._parse_valor(v) for v in row.iloc[1:].tolist()]
+                if any(v is not None for v in valores):
+                    contas[conta] = valores
+
+            if contas:
+                return Demonstrativo(
+                    tipo=tipo,
+                    ticker=ticker,
+                    trimestres=trimestres,
+                    contas=contas,
+                    unidade="milhoes",
+                )
+
+        raise ValueError("Estrutura de tabela não reconhecida")
+
+    def _find_period_column(self, df: pd.DataFrame) -> Optional[str]:
+        for col in df.columns:
+            values = df[col].astype(str).tolist()
+            matches = sum(1 for v in values if self._is_period_label(v))
+            if matches >= max(2, len(values) // 3):
+                return col
+        return None
+
+    def _extract_periods_from_iterable(self, values) -> List[str]:
+        periods = []
+        for value in values:
+            if self._is_period_label(value):
+                periods.append(self._normalize_period_label(value))
+        return periods
+
+    def _is_period_label(self, value) -> bool:
+        text = str(value).strip()
+        if not text or text.lower() == "nan":
+            return False
+
+        patterns = [
+            r"^\dT\d{4}$",
+            r"^\d{2}/\d{4}$",
+            r"^\d{4}$",
+            r"^\d{2}/\d{2}/\d{4}$",
+            r"^\d{4}-\d{2}-\d{2}$",
+        ]
+        return any(re.match(p, text) for p in patterns)
+
+    def _normalize_period_label(self, value) -> str:
+        text = str(value).strip()
+        m = re.match(r"^(\d{2})/(\d{4})$", text)
+        if m:
+            mes = int(m.group(1))
+            ano = m.group(2)
+            tri_map = {3: "1T", 6: "2T", 9: "3T", 12: "4T"}
+            return f"{tri_map.get(mes, f'{mes:02d}M')}{ano}"
+        return text
+
+    def _parse_valor(self, valor) -> Optional[float]:
+        if valor is None or (isinstance(valor, float) and pd.isna(valor)):
+            return None
+        if isinstance(valor, (int, float)):
+            return float(valor)
+
+        texto = str(valor).strip()
+        if not texto or texto.lower() in {"nan", "-", "—", "nd", "n/d"}:
+            return None
+
+        negativo = False
+        if texto.startswith("(") and texto.endswith(")"):
+            negativo = True
+            texto = texto[1:-1]
+
+        texto = texto.replace("R$", "").replace("%", "").replace(" ", "")
+        texto = texto.replace(".", "").replace(",", ".")
+        texto = re.sub(r"[^0-9\-.]", "", texto)
+
+        if texto in {"", ".", "-", "-."}:
+            return None
+
+        try:
+            valor_float = float(texto)
+            return -valor_float if negativo else valor_float
         except ValueError:
             return None
 
-    def _detectar_unidade(self, html: str, contas: Dict) -> str:
-        """Detecta se valores estão em milhares, milhões ou bilhões"""
-        if "milhão" in html.lower() or "mi " in html.lower():
+    def _detectar_unidade(self, html: str, contas: Dict[str, List[Optional[float]]]) -> str:
+        html_lower = html.lower()
+        if "milhões" in html_lower or "milhoes" in html_lower or " em milhões" in html_lower:
             return "milhoes"
-        elif "bilhão" in html.lower() or "bi " in html.lower():
+        if "bilhões" in html_lower or "bilhoes" in html_lower or " em bilhões" in html_lower:
             return "bilhoes"
-        elif "mil" in html.lower():
+        if "milhares" in html_lower or " em milhares" in html_lower:
             return "milhares"
 
-        amostra = []
-        for valores in contas.values():
-            amostra.extend([v for v in valores if v is not None])
+        amostra = [abs(v) for valores in contas.values() for v in valores if v is not None]
+        if not amostra:
+            return "milhoes"
 
-        if amostra:
-            media = sum(amostra) / len(amostra)
-            if media > 1_000_000_000:
-                return "bilhoes"
-            elif media > 1_000_000:
-                return "milhoes"
-
+        mediana = sorted(amostra)[len(amostra) // 2]
+        if mediana >= 1_000_000_000:
+            return "bilhoes"
+        if mediana >= 1_000_000:
+            return "milhoes"
         return "milhares"
 
-    async def scrape_ticker(self, ticker: str, tipos: List[str] = None) -> Dict[str, Demonstrativo]:
-        """Extrai todos os demonstrativos para um ticker"""
+    def _save_raw(self, html: str, ticker: str, tipo: str) -> None:
+        path = self.data_dir / f"{ticker.upper()}_{tipo}.html"
+        path.write_text(html, encoding="utf-8")
+
+    async def scrape_ticker(self, ticker: str, tipos: List[str] | None = None) -> Dict[str, Demonstrativo]:
         tipos = tipos or ["bp", "dre", "dfc"]
-        resultados = {}
+        resultados: Dict[str, Demonstrativo] = {}
 
-        async with async_playwright() as playwright:
-            browser, context = await self._create_context(playwright)
-            page = await context.new_page()
-            await stealth_async(page)
-
+        for tipo in tipos:
             try:
-                for tipo in tipos:
-                    try:
-                        html = await self._get_page_content(page, ticker, tipo)
-                        demo = self._parse_demonstrativo(html, ticker, tipo)
-                        resultados[tipo] = demo
-
-                        # Salva raw para debug
-                        self._save_raw(html, ticker, tipo)
-
-                        print(f"✅ {ticker}/{tipo.upper()}: {len(demo.contas)} contas x {len(demo.trimestres)} trimestres")
-
-                    except Exception as e:
-                        print(f"❌ Erro em {ticker}/{tipo}: {e}")
-                        try:
-                            html_debug = await page.content()
-                            self._save_raw(html_debug, ticker, f"{tipo}_erro")
-                        except Exception:
-                            pass
-                        continue
-
-            finally:
-                await context.close()
-                await browser.close()
+                html = self._get_page_content(ticker, tipo)
+                self._save_raw(html, ticker, tipo)
+                demo = self._parse_demonstrativo(html, ticker, tipo)
+                resultados[tipo] = demo
+                print(
+                    f"✅ Fundamentus: {ticker.upper()}/{tipo.upper()} "
+                    f"({len(demo.contas)} contas x {len(demo.trimestres)} períodos)"
+                )
+            except Exception as e:
+                print(f"❌ Erro em {ticker.upper()}/{tipo.upper()}: {e}")
 
         return resultados
-
-    def _save_raw(self, html: str, ticker: str, tipo: str):
-        """Salva HTML bruto para análise de falhas"""
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        filename = self.data_dir / f"{ticker}_{tipo}_{timestamp}.html"
-        filename.write_text(html, encoding="utf-8")
-
-    def save_to_csv(self, resultados: Dict[str, Demonstrativo], ticker: str):
-        """Exporta para CSV estruturado"""
-        output_dir = Path("data/processed/status_invest")
-        output_dir.mkdir(parents=True, exist_ok=True)
-
-        for tipo, demo in resultados.items():
-            df = demo.to_dataframe()
-
-            df["ticker"] = ticker
-            df["tipo"] = tipo
-            df["unidade"] = demo.unidade
-            df["data_extracao"] = datetime.now().isoformat()
-
-            cols = ["ticker", "tipo", "unidade", "data_extracao"] + [
-                c for c in df.columns if c not in ["ticker", "tipo", "unidade", "data_extracao"]
-            ]
-            df = df[cols]
-
-            filename = output_dir / f"{ticker}_{tipo}_{datetime.now().strftime('%Y%m%d')}.csv"
-            df.to_csv(filename)
-            print(f"💾 Salvo: {filename}")
-
-
-# ============================================================
-# EXECUÇÃO E ORQUESTRAÇÃO
-# ============================================================
-
-async def main():
-    """Exemplo de uso para múltiplos tickers"""
-
-    tickers = ["PETR4", "VALE3", "WEGE3", "ITUB4", "BBAS3"]
-    scraper = StatusInvestScraper(headless=True)
-
-    for ticker in tickers:
-        print(f"\n{'='*50}")
-        print(f"🔍 Processando {ticker}")
-        print(f"{'='*50}")
-
-        try:
-            resultados = await scraper.scrape_ticker(ticker)
-            scraper.save_to_csv(resultados, ticker)
-
-            for tipo, demo in resultados.items():
-                df = demo.to_dataframe()
-                print(f"\n📊 {tipo.upper()} - Primeiras 5 contas:")
-                print(df.head())
-
-        except Exception as e:
-            print(f"💥 Falha crítica em {ticker}: {e}")
-            continue
-
-        await asyncio.sleep(random.uniform(5, 10))
-
-    print("\n✨ Scraping concluído!")
-
-
-if __name__ == "__main__":
-    asyncio.run(main())
