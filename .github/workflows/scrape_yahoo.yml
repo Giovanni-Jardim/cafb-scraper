@@ -1,9 +1,8 @@
-# .github/workflows/scrape_fundamentalista.yml
-name: Scrape Fundamentus
+name: Scrape Yahoo Finance
 
 on:
   schedule:
-    - cron: '0 6 * * 1-5'
+    - cron: '0 6 * * 1-5'  # Seg-Sex 6h da manhã
   workflow_dispatch:
 
 permissions:
@@ -23,24 +22,25 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install pandas numpy requests beautifulsoup4 tenacity lxml html5lib tabulate
+          pip install pandas numpy yfinance tenacity tabulate lxml
 
       - name: Run scraper
-        env:
-          PROXY_URL: ${{ secrets.PROXY_URL }}
         run: |
           python -c "
           import time
-          from normalizer import processar_ticker
+          import random
+          from normalizer_yahoo import processar_ticker
 
-          tickers = ['PETR4', 'VALE3', 'WEGE3', 'ITUB4', 'BBAS3', 'RAIZ4', 'VBBR3']
-
+          # Tickers brasileiros (Yahoo usa .SA)
+          tickers = ['PETR4', 'VALE3', 'ITUB4', 'BBDC4', 'ABEV3']
+          
           for ticker in tickers:
               try:
                   processar_ticker(ticker)
+                  # Delay entre requisições (educado)
+                  time.sleep(random.uniform(2, 5))
               except Exception as e:
                   print(f'Falha em {ticker}: {e}')
-              time.sleep(3)
           "
 
       - name: Upload artifacts
@@ -49,10 +49,10 @@ jobs:
           name: dados-fundamentalistas
           path: data/notebooklm/*.md
 
-      - name: Commit to repo (opcional - histórico versionado)
+      - name: Commit results
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add data/
-          git commit -m "Update fundamental data: $(date +%Y-%m-%d)" || exit 0
+          git commit -m "Update Yahoo Finance data: $(date +%Y-%m-%d)" || exit 0
           git push
