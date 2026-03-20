@@ -29,7 +29,7 @@ jobs:
         PROXY_URL: ${{ secrets.PROXY_URL }}
       run: |
         python -c "
-        import asyncio
+        import time
         from normalizer import processar_ticker
         
         tickers = ['PETR4', 'VALE3', 'WEGE3', 'ITUB4', 'BBAS3', 'RAIZ4', 'VBBR3']
@@ -39,7 +39,7 @@ jobs:
                 processar_ticker(ticker)
             except Exception as e:
                 print(f'Falha em {ticker}: {e}')
-            asyncio.sleep(5)  # Rate limiting entre tickers
+            time.sleep(5)  # Rate limiting entre tickers
         "
     
     - name: Upload artifacts
