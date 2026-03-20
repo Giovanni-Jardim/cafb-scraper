@@ -5,7 +5,8 @@ on:
   schedule:
     - cron: '0 6 * * 1-5'  # Seg-Sex 6h da manhã (após fechamento do mercado BR)
   workflow_dispatch:  # Permite rodar manualmente
-
+permissions:
+  contents: write
 jobs:
   scrape:
     runs-on: ubuntu-latest
