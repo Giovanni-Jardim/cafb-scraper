@@ -30,7 +30,7 @@ class YahooFinanceScraper:
     Mapeia BP, DRE e DFC do Yahoo para o formato do projeto.
     """
 
-    # Mapeamento de tipos para métodos do yfinance
+    # Mapeamento de tipos para atributos do yfinance
     TIPO_MAP = {
         "bp": "quarterly_balance_sheet",      # Balance Sheet = BP
         "dre": "quarterly_income_stmt",       # Income Statement = DRE  
@@ -199,10 +199,15 @@ class YahooFinanceScraper:
             
             for tipo in tipos:
                 try:
-                    # Obtém método correto (balance_sheet, income_stmt, cashflow)
+                    # Obtém atributo correto (propriedade, não método)
                     metodo_nome = self.TIPO_MAP[tipo]
-                    metodo = getattr(ticker_obj, metodo_nome)
-                    df = metodo()
+                    
+                    # yfinance >= 0.2.28: propriedades, não métodos
+                    df = getattr(ticker_obj, metodo_nome)
+                    
+                    # Verifica se é DataFrame ou método (compatibilidade com versões antigas)
+                    if callable(df):
+                        df = df()
                     
                     if df is None or df.empty:
                         print(f"⚠️ Sem dados {tipo.upper()} para {ticker}")
