@@ -30,7 +30,7 @@ jobs:
       run: |
         python -c "
         import asyncio
-        from status_invest_scraper import processar_ticker
+        from normalizer import processar_ticker
         
         tickers = ['PETR4', 'VALE3', 'WEGE3', 'ITUB4', 'BBAS3', 'RAIZ4', 'VBBR3']
         
