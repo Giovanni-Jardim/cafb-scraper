@@ -1,6 +1,43 @@
 # Análise Fundamentalista: PLPL3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 12.94 |
+| Nº Total de Ações | 202,909,780 |
+| LPA (TTM) | R$ 1.80 |
+| VPA | R$ 5.04 |
+| Dividend Yield | 1158.00% |
+| Proventos 12m | R$ 1.50 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 25.00 | +93.2% (COMPRA) |
+| Graham | R$ 14.29 | +10.4% (AGUARDAR) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.1958 |               1 |
+|  2022 |                 0.1612 |               1 |
+|  2023 |                 0.1601 |               1 |
+|  2024 |                 0.5044 |               1 |
+|  2025 |                 1.4988 |               2 |
+
+**Média Anual:** R$ 0.5041
+**Último Ano:** R$ 1.4988
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +82,8 @@
 | Lucro Líquido      |   1.68923e+08 |   1.17859e+08 |       1.24502e+08 |      9.7678e+07 |      1.18815e+08 | nan          |    nan          |
 | FCO                |   4.0361e+07  |   2.37e+06    |      -2.8516e+07  |     -9.0347e+07 |      6.766e+07   | nan          |    nan          |
 | Capex              |  -2.844e+06   |  -8.982e+06   |      -8.579e+06   |     -6.405e+06  |     -5.487e+06   | nan          |    nan          |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

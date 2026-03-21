@@ -1,6 +1,42 @@
 # Análise Fundamentalista: DXCO3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 4.46 |
+| Nº Total de Ações | 907,647,487 |
+
+| VPA | R$ 7.54 |
+| Dividend Yield | 102.00% |
+| Proventos 12m | R$ 0.05 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 0.83 | -81.3% (VENDA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 1.3601 |               2 |
+|  2022 |                 0.2752 |               1 |
+|  2023 |                 0.1922 |               1 |
+|  2024 |                 0.105  |               2 |
+|  2025 |                 0.0067 |               1 |
+
+**Média Anual:** R$ 0.3878
+**Último Ano:** R$ 0.0067
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +81,8 @@
 | Lucro Líquido      |  -7.1966e+07  |  -3.231e+06   |   5.273e+06   |   2.6296e+07  |  1.67227e+08 |      nan |
 | FCO                |   3.10541e+08 |   2.53001e+08 |   2.9997e+07  |   4.12192e+08 |  4.08422e+08 |      nan |
 | Capex              |  -3.32312e+08 |  -2.24506e+08 |  -1.72543e+08 |  -3.71613e+08 | -2.91158e+08 |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

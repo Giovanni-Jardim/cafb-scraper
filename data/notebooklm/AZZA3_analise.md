@@ -1,6 +1,43 @@
 # Análise Fundamentalista: AZZA3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 26.62 |
+| Nº Total de Ações | 201,972,849 |
+| LPA (TTM) | R$ 4.43 |
+| VPA | R$ 39.55 |
+| Dividend Yield | 930.00% |
+| Proventos 12m | R$ 2.48 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 41.33 | +55.3% (COMPRA) |
+| Graham | R$ 62.78 | +135.9% (COMPRA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.927  |               3 |
+|  2022 |                 1.8356 |               3 |
+|  2023 |                 1.9325 |               2 |
+|  2024 |                 1.1159 |               2 |
+|  2025 |                 2.4762 |               2 |
+
+**Média Anual:** R$ 1.6574
+**Último Ano:** R$ 2.4762
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +82,8 @@
 | Lucro Líquido      |  9.0817e+07  |  1.64952e+08 |  5.37654e+08 |  1.17826e+08 | -6.7901e+07  |      nan |      nan |
 | FCO                |  9.49841e+08 |  1.42035e+08 |  8.7247e+07  | -1.04146e+08 |  3.64554e+08 |      nan |      nan |
 | Capex              | -9.6075e+07  | -1.09105e+08 | -9.4177e+07  | -8.439e+07   | -1.95189e+08 |      nan |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

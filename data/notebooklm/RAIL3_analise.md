@@ -1,6 +1,42 @@
 # Análise Fundamentalista: RAIL3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 16.12 |
+| Nº Total de Ações | 1,855,798,008 |
+| LPA (TTM) | R$ 0.46 |
+| VPA | R$ 7.46 |
+| Dividend Yield | 503.00% |
+| Proventos 12m | R$ 0.81 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 13.50 | -16.3% (VENDA) |
+| Graham | R$ 8.79 | -45.5% (VENDA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2022 |                 0.0193 |               1 |
+|  2023 |                 0.066  |               1 |
+|  2024 |                 0.0924 |               1 |
+|  2025 |                 0.8104 |               1 |
+
+**Média Anual:** R$ 0.2470
+**Último Ano:** R$ 0.8104
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +81,8 @@
 | Lucro Líquido      |  3.23659e+08 |  5.92261e+08 |  6.13417e+08 |  2.5145e+07  | -9.7637e+07  |      nan |
 | FCO                |  1.81555e+09 |  1.93403e+09 |  2.17122e+09 |  1.22101e+09 |  1.73335e+09 |      nan |
 | Capex              | -1.46282e+09 | -1.47432e+09 | -1.39463e+09 | -1.76457e+09 | -1.88165e+09 |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

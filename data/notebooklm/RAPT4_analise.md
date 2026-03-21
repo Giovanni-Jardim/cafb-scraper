@@ -1,6 +1,42 @@
 # Análise Fundamentalista: RAPT4
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 4.70 |
+| Nº Total de Ações | 222,845,833 |
+| LPA (TTM) | R$ -0.72 |
+| VPA | R$ 9.27 |
+| Dividend Yield | 99.00% |
+| Proventos 12m | R$ 0.05 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 0.83 | -82.3% (VENDA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.6528 |               3 |
+|  2022 |                 0.86   |               3 |
+|  2023 |                 0.5818 |               2 |
+|  2024 |                 0.3636 |               2 |
+|  2025 |                 0.0467 |               1 |
+
+**Média Anual:** R$ 0.5010
+**Último Ano:** R$ 0.0467
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -44,3 +80,8 @@
 | Lucro Líquido    | -1.95845e+08 |  8.9983e+07  | -1.097e+06   |  4.7168e+07  |  1.99543e+08 |      nan |      nan |
 | FCO              |  1.51582e+09 |  6.28743e+08 |  1.93769e+08 |  2.43479e+08 |  7.20338e+08 |      nan |      nan |
 | Capex            | -1.76439e+08 | -9.9945e+07  | -1.09549e+08 | -6.5951e+07  | -1.91379e+08 |      nan |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

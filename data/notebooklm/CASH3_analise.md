@@ -1,6 +1,38 @@
 # Análise Fundamentalista: CASH3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 3.55 |
+| Nº Total de Ações | 113,226,097 |
+| LPA (TTM) | R$ 0.58 |
+| VPA | R$ 4.82 |
+
+
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Graham | R$ 7.93 | +123.4% (COMPRA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.0609 |               1 |
+
+**Média Anual:** R$ 0.0609
+**Último Ano:** R$ 0.0609
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -43,3 +75,8 @@
 | Lucro Líquido      |      2.2842e+07 |      9.851e+06   |      1.7333e+07 |  4.2692e+07 |     1.3614e+07 | nan         |
 | FCO                |      6.775e+06  |      6.257e+06   |      7.674e+06  |  1.38e+07   |     1.6147e+07 | nan         |
 | Capex              |     -1.0982e+07 |     -3.23495e+08 |     -2.7652e+07 | -8.312e+06  |    -1.0018e+07 | nan         |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

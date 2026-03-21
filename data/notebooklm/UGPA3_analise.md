@@ -1,6 +1,43 @@
 # Análise Fundamentalista: UGPA3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 26.16 |
+| Nº Total de Ações | 1,068,767,319 |
+| LPA (TTM) | R$ 2.35 |
+| VPA | R$ 14.66 |
+| Dividend Yield | 669.00% |
+| Proventos 12m | R$ 1.75 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 29.17 | +11.5% (COMPRA) |
+| Graham | R$ 27.84 | +6.4% (AGUARDAR) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.4027 |               2 |
+|  2022 |                 0.5829 |               2 |
+|  2023 |                 0.35   |               2 |
+|  2024 |                 0.65   |               2 |
+|  2025 |                 1.7502 |               3 |
+
+**Média Anual:** R$ 0.7472
+**Último Ano:** R$ 1.7502
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +82,8 @@
 | Lucro Líquido      |  4.38609e+08 |  7.74505e+08 |  1.17192e+09 |  3.63184e+08 |  8.80819e+08 |      nan |      nan |
 | FCO                |  2.3816e+09  |  2.14998e+09 |  9.17903e+08 |  3.019e+06   |  2.2306e+09  |      nan |      nan |
 | Capex              | -6.7023e+08  | -4.74432e+08 | -4.7869e+08  | -3.81891e+08 | -6.87907e+08 |      nan |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

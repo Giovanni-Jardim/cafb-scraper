@@ -1,6 +1,44 @@
 # Análise Fundamentalista: ITSA4
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 13.10 |
+| Nº Total de Ações | 7,357,712,522 |
+| LPA (TTM) | R$ 1.48 |
+| VPA | R$ 7.92 |
+| Dividend Yield | 74.00% |
+| Proventos 12m | R$ 0.10 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 1.67 | -87.3% (VENDA) |
+| Graham | R$ 16.24 | +23.9% (COMPRA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.3009 |              12 |
+|  2022 |                 0.513  |               8 |
+|  2023 |                 0.5212 |              10 |
+|  2024 |                 0.6216 |               9 |
+|  2025 |                 1.7232 |               8 |
+|  2026 |                 0.1402 |               2 |
+
+**Média Anual:** R$ 0.6367
+**Último Ano:** R$ 0.1402
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +83,8 @@
 | Lucro Líquido      |  4.284e+09 |  4.155e+09 |  4.066e+09 |  3.884e+09 |  3.739e+09 |      nan |      nan |
 | FCO                |  2.91e+08  | -2.06e+08  |  1.89e+08  | -1.08e+08  | -9e+06     |      nan |      nan |
 | Capex              | -3.33e+08  | -1.91e+08  | -2.29e+08  | -1.78e+08  | -3.73e+08  |      nan |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

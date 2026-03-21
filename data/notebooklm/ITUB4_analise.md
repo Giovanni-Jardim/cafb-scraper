@@ -1,6 +1,44 @@
 # Análise Fundamentalista: ITUB4
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 41.55 |
+| Nº Total de Ações | 5,403,525,775 |
+| LPA (TTM) | R$ 4.01 |
+| VPA | R$ 18.55 |
+| Dividend Yield | 132.00% |
+| Proventos 12m | R$ 0.55 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 9.17 | -77.9% (VENDA) |
+| Graham | R$ 40.91 | -1.5% (AGUARDAR) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.8003 |              19 |
+|  2022 |                 0.8986 |              15 |
+|  2023 |                 1.1091 |              16 |
+|  2024 |                 2.13   |              17 |
+|  2025 |                 4.4493 |              16 |
+|  2026 |                 0.4034 |               4 |
+
+**Média Anual:** R$ 1.6318
+**Último Ano:** R$ 0.4034
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -40,3 +78,8 @@
 | Lucro Líquido      |  1.2144e+10 |  1.16e+10   |  1.1398e+10 |  1.0707e+10 |  1.2456e+10 |      nan |      nan |
 | FCO                | -4.3422e+10 |  7.5704e+10 |  1.3898e+10 | -1.1714e+10 | -4.884e+09  |      nan |      nan |
 | Capex              | -1.811e+09  | -1.69e+09   | -1.786e+09  | -1.828e+09  | -2.088e+09  |      nan |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

@@ -1,6 +1,43 @@
 # Análise Fundamentalista: BRAP4
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 21.36 |
+| Nº Total de Ações | 255,106,712 |
+| LPA (TTM) | R$ 2.70 |
+| VPA | R$ 23.21 |
+| Dividend Yield | 1633.00% |
+| Proventos 12m | R$ 3.49 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 58.17 | +172.3% (COMPRA) |
+| Graham | R$ 37.55 | +75.8% (COMPRA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                10.6686 |               3 |
+|  2022 |                 3.2716 |               3 |
+|  2023 |                 3.0219 |               2 |
+|  2024 |                 2.2914 |               3 |
+|  2025 |                 3.2768 |               3 |
+
+**Média Anual:** R$ 4.5061
+**Último Ano:** R$ 3.2768
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -39,3 +76,8 @@
 | Lucro Líquido      |   5.16208e+08 |      4.54224e+08 |       3.18512e+08 |  -1.66188e+08 |      4.75341e+08 |      nan |
 | FCO                |   2.38062e+08 |      1.406e+06   |       4.23268e+08 |   2.8627e+07  |      2.63279e+08 |      nan |
 | Capex              | nan           |    nan           |     nan           | nan           |  -6000           |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

@@ -1,6 +1,41 @@
 # Análise Fundamentalista: CSNA3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 5.99 |
+| Nº Total de Ações | 1,326,093,947 |
+| LPA (TTM) | R$ -1.51 |
+| VPA | R$ 9.71 |
+| Dividend Yield | 1564.00% |
+| Proventos 12m | R$ 1.27 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 21.17 | +253.4% (COMPRA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 1.921  |               2 |
+|  2022 |                 2.5805 |               4 |
+|  2023 |                 1.9599 |               2 |
+|  2024 |                 1.2669 |               2 |
+
+**Média Anual:** R$ 1.9321
+**Último Ano:** R$ 1.2669
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +80,8 @@
 | Lucro Líquido      |  -7.21213e+08 | -367000           | -1.66e+08    | -6.19146e+08 |   4.20579e+08 | nan           |      nan |
 | FCO                |   3.349e+07   |       3.92503e+08 | -2.45577e+08 | -1.1536e+09  |   3.54802e+09 | nan           |      nan |
 | Capex              |  -2.04278e+09 |      -1.43514e+09 | -1.33126e+09 | -1.1267e+09  |  -2.05856e+09 | nan           |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

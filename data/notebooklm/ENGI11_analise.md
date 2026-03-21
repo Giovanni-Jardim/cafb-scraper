@@ -1,6 +1,43 @@
 # Análise Fundamentalista: ENGI11
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 48.84 |
+| Nº Total de Ações | 457,130,457 |
+| LPA (TTM) | R$ 1.38 |
+| VPA | R$ 55.24 |
+| Dividend Yield | 670.00% |
+| Proventos 12m | R$ 3.27 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 54.50 | +11.6% (COMPRA) |
+| Graham | R$ 41.41 | -15.2% (VENDA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 1.5909 |               2 |
+|  2022 |                 3.0545 |               2 |
+|  2023 |                 1.3636 |               2 |
+|  2024 |                 1.8182 |               2 |
+|  2025 |                 3.2738 |               3 |
+
+**Média Anual:** R$ 2.2202
+**Último Ano:** R$ 3.2738
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +82,8 @@
 | Lucro Líquido      |  9.75166e+08 |  4.89761e+08 |  1.02672e+09 |  2.11915e+09 |  7.2707e+08  |      nan |
 | FCO                |  1.91653e+09 |  1.4009e+09  |  1.47203e+09 |  1.85303e+09 |  1.47247e+09 |      nan |
 | Capex              | -1.43608e+09 | -1.61582e+09 | -1.21016e+09 | -1.79979e+09 | -1.53598e+09 |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

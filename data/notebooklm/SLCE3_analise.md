@@ -1,6 +1,43 @@
 # Análise Fundamentalista: SLCE3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 18.21 |
+| Nº Total de Ações | 496,705,616 |
+| LPA (TTM) | R$ 0.99 |
+| VPA | R$ 10.61 |
+| Dividend Yield | 709.00% |
+| Proventos 12m | R$ 1.29 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 21.50 | +18.1% (COMPRA) |
+| Graham | R$ 15.37 | -15.6% (VENDA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.3903 |               1 |
+|  2022 |                 1.1208 |               2 |
+|  2023 |                 1.0974 |               2 |
+|  2024 |                 0.7377 |               1 |
+|  2025 |                 1.2908 |               2 |
+
+**Média Anual:** R$ 0.9274
+**Último Ano:** R$ 1.2908
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +82,8 @@
 | Lucro Líquido      |     -1.44583e+08 | -5.359e+07   |  1.78014e+08 |     7.3384e+08  | -1.06567e+08 |      nan |      nan |
 | FCO                |      8.56928e+08 |  1.04955e+09 |  1.0341e+08  |    -2.01603e+08 |  8.84906e+08 |      nan |      nan |
 | Capex              |     -2.15788e+08 | -1.73695e+08 | -2.65547e+08 |    -8.68106e+08 | -9.8627e+07  |      nan |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

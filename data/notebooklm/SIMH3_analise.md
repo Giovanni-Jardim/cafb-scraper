@@ -1,6 +1,41 @@
 # Análise Fundamentalista: SIMH3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 10.31 |
+| Nº Total de Ações | 435,105,521 |
+| LPA (TTM) | R$ -1.46 |
+| VPA | R$ 7.38 |
+| Dividend Yield | 134.00% |
+| Proventos 12m | R$ 0.14 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 2.33 | -77.4% (VENDA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.3742 |               3 |
+|  2022 |                 1.2819 |               2 |
+|  2023 |                 0.0383 |               1 |
+|  2025 |                 0.1379 |               1 |
+
+**Média Anual:** R$ 0.4581
+**Último Ano:** R$ 0.1379
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -44,3 +79,8 @@
 | Lucro Líquido    | -3.15251e+08 | -1.16145e+08 | -1.8044e+07  | -9.5537e+07  |  1.67543e+08 |      nan |
 | FCO              |  2.14606e+09 |  1.00775e+09 | -1.33434e+09 |  7.2286e+08  | -1.90981e+09 |      nan |
 | Capex            | -3.57474e+08 | -4.32359e+08 | -2.24888e+08 | -3.99028e+08 | -3.01888e+08 |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

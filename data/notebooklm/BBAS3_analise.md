@@ -1,6 +1,44 @@
 # Análise Fundamentalista: BBAS3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 23.27 |
+| Nº Total de Ações | 5,708,378,210 |
+| LPA (TTM) | R$ 2.40 |
+| VPA | R$ 32.20 |
+| Dividend Yield | 121.00% |
+| Proventos 12m | R$ 0.28 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 4.67 | -79.9% (VENDA) |
+| Graham | R$ 41.70 | +79.2% (COMPRA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 1.1331 |               8 |
+|  2022 |                 2.0853 |               8 |
+|  2023 |                 1.8936 |               7 |
+|  2024 |                 2.1883 |               7 |
+|  2025 |                 1.1829 |               4 |
+|  2026 |                 0.2907 |               2 |
+
+**Média Anual:** R$ 1.4623
+**Último Ano:** R$ 0.2907
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -40,3 +78,8 @@
 | Lucro Líquido      |  6.01508e+09 |  3.00674e+09 |  3.58226e+09 |  4.17785e+09 |  5.14025e+09 |      nan |
 | FCO                |  4.93649e+10 |  3.75347e+10 |  2.39756e+10 |  4.83788e+10 |  6.98123e+10 |      nan |
 | Capex              | -2.12184e+09 | -1.77924e+09 | -1.6312e+09  | -1.8342e+09  | -2.01386e+09 |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

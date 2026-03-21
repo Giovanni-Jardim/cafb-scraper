@@ -1,6 +1,43 @@
 # Análise Fundamentalista: VIVA3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 25.59 |
+| Nº Total de Ações | 235,071,814 |
+| LPA (TTM) | R$ 3.15 |
+| VPA | R$ 12.49 |
+| Dividend Yield | 531.00% |
+| Proventos 12m | R$ 1.36 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 22.67 | -11.4% (VENDA) |
+| Graham | R$ 29.75 | +16.3% (COMPRA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.328  |               2 |
+|  2022 |                 0.0539 |               1 |
+|  2023 |                 0.3642 |               1 |
+|  2024 |                 0.3728 |               1 |
+|  2025 |                 1.3578 |               2 |
+
+**Média Anual:** R$ 0.4953
+**Último Ano:** R$ 1.3578
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +82,8 @@
 | Lucro Líquido      |  1.51089e+08 |  1.15039e+08 |   2.99458e+08 |      1.07166e+08 |       2.10961e+08 |
 | FCO                |  1.92671e+08 | -1.43967e+08 |  -1.63127e+08 |      2.018e+07   |       1.25681e+08 |
 | Capex              | -1.6675e+07  | -1.9668e+07  | nan           |     -3.4508e+07  |      -3.818e+07   |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

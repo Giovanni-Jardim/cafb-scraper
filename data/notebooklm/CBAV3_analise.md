@@ -1,6 +1,39 @@
 # Análise Fundamentalista: CBAV3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 10.32 |
+| Nº Total de Ações | 651,072,697 |
+| LPA (TTM) | R$ 0.19 |
+| VPA | R$ 6.59 |
+
+
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Graham | R$ 5.31 | -48.6% (VENDA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2022 |                 0.383  |               2 |
+|  2023 |                 0.3454 |               1 |
+
+**Média Anual:** R$ 0.3642
+**Último Ano:** R$ 0.3454
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +78,8 @@
 | Lucro Líquido      | -2.58484e+08 |  1.95944e+08 |      -6.2152e+07  |  4.77723e+08 | -2.74157e+08 |      nan |      nan |
 | FCO                |  4.86022e+08 |  2.8683e+08  |      -2.9967e+07  |  1.70949e+08 |  2.68069e+08 |      nan |      nan |
 | Capex              | -2.16254e+08 | -2.05839e+08 |      -1.97399e+08 | -1.81313e+08 | -2.11027e+08 |      nan |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

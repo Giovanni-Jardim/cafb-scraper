@@ -1,6 +1,43 @@
 # Análise Fundamentalista: CYRE3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 25.05 |
+| Nº Total de Ações | 366,346,855 |
+| LPA (TTM) | R$ 5.04 |
+| VPA | R$ 15.56 |
+| Dividend Yield | 1517.00% |
+| Proventos 12m | R$ 3.80 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 63.33 | +152.8% (COMPRA) |
+| Graham | R$ 42.00 | +67.7% (COMPRA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 1.0873 |               1 |
+|  2022 |                 0.5648 |               1 |
+|  2023 |                 0.8447 |               2 |
+|  2024 |                 0.5968 |               1 |
+|  2025 |                 3.7991 |               2 |
+
+**Média Anual:** R$ 1.3785
+**Último Ano:** R$ 3.7991
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +82,8 @@
 | Lucro Líquido      |  7.38803e+08 |  5.28736e+08 |  4.37963e+08 |  6.42686e+08 |  5.92708e+08 |      nan |
 | FCO                |  3.34549e+08 | -5.73097e+08 | -1.21882e+08 |  7.4864e+07  | -1.10539e+08 |      nan |
 | Capex              | -5.5236e+07  | -4.833e+07   | -3.5661e+07  | -7.1238e+07  | -3.8866e+07  |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

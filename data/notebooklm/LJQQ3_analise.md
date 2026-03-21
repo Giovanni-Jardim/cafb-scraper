@@ -1,6 +1,39 @@
 # Análise Fundamentalista: LJQQ3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 1.83 |
+| Nº Total de Ações | 206,917,263 |
+| LPA (TTM) | R$ -0.79 |
+| VPA | R$ 1.96 |
+| Dividend Yield | 557.00% |
+| Proventos 12m | R$ 0.12 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 2.00 | +9.3% (AGUARDAR) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.1386 |               2 |
+|  2024 |                 0.2897 |               2 |
+
+**Média Anual:** R$ 0.2142
+**Último Ano:** R$ 0.2897
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +78,8 @@
 | Lucro Líquido      | -4.2688e+07  |  -4.2143e+07 | -4.6011e+07  | -3.1099e+07 |  6.252e+06  | nan          |
 | FCO                |  1.11881e+08 |  -8.9648e+07 |  3.63686e+08 | -2.2753e+08 |  9.5311e+07 | nan          |
 | Capex              | -2.793e+06   | nan          | -2.2952e+07  | -2.447e+06  | -1.638e+06  |  -2.0132e+07 |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

@@ -1,6 +1,44 @@
 # Análise Fundamentalista: BRSR6
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 16.73 |
+| Nº Total de Ações | 202,536,545 |
+| LPA (TTM) | R$ 4.19 |
+| VPA | R$ 28.02 |
+| Dividend Yield | 643.00% |
+| Proventos 12m | R$ 1.08 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 18.00 | +7.6% (AGUARDAR) |
+| Graham | R$ 51.40 | +207.2% (COMPRA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 1.0321 |               6 |
+|  2022 |                 0.8814 |               5 |
+|  2023 |                 0.9173 |               4 |
+|  2024 |                 0.9949 |               6 |
+|  2025 |                 1.603  |               6 |
+|  2026 |                 0.2201 |               1 |
+
+**Média Anual:** R$ 0.9415
+**Último Ano:** R$ 0.2201
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -39,3 +77,8 @@
 | Lucro Líquido      |  6.74487e+08 |  4.96067e+08 |  5.86077e+08 |  2.5675e+08  | -2.633e+08   |      nan |      nan |
 | FCO                |  3.24974e+09 |  5.765e+07   |  4.87839e+09 |  6.91058e+09 | -6.84072e+08 |      nan |      nan |
 | Capex              | -1.02139e+08 | -9.676e+07   | -3.5797e+07  | -5.6334e+07  | -2.6792e+07  |      nan |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

@@ -1,6 +1,42 @@
 # Análise Fundamentalista: SUZB3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 50.18 |
+| Nº Total de Ações | 1,236,096,850 |
+| LPA (TTM) | R$ 10.81 |
+| VPA | R$ 35.45 |
+| Dividend Yield | 223.00% |
+| Proventos 12m | R$ 1.12 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 18.67 | -62.8% (VENDA) |
+| Graham | R$ 92.86 | +85.0% (COMPRA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2022 |                 3.1288 |               3 |
+|  2023 |                 1.1634 |               1 |
+|  2024 |                 2.0174 |               1 |
+|  2025 |                 1.1166 |               1 |
+
+**Média Anual:** R$ 1.8566
+**Último Ano:** R$ 1.1166
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +81,8 @@
 | Lucro Líquido      |  5.01195e+09 |  6.34818e+09 | -6.73657e+09 |  3.23735e+09 | -3.76552e+09 |
 | FCO                |  4.34058e+09 |  4.41769e+09 |  6.20287e+09 |  5.27888e+09 |  6.06854e+09 |
 | Capex              | -3.20299e+09 | -3.07992e+09 | -3.8565e+09  | -4.10764e+09 | -4.32616e+09 |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

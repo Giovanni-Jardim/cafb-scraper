@@ -1,6 +1,27 @@
 # Análise Fundamentalista: ENEV3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 24.99 |
+| Nº Total de Ações | 1,915,804,368 |
+| LPA (TTM) | R$ 0.60 |
+| VPA | R$ 10.35 |
+
+
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Graham | R$ 11.82 | -52.7% (VENDA) |
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -44,3 +65,8 @@
 | Lucro Líquido    |  2.68082e+08 |  6.89563e+08 |  7.54758e+08 |  7.19577e+08 | -1.46685e+09 |      nan |      nan |
 | FCO              |  1.19886e+09 |  1.89087e+09 |  1.16588e+09 |  8.79981e+08 |  1.06153e+09 |      nan |      nan |
 | Capex            | -1.87013e+09 | -1.40076e+09 | -1.47183e+09 | -9.16418e+08 | -8.3308e+08  |      nan |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

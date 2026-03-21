@@ -1,6 +1,26 @@
 # Análise Fundamentalista: ONCO3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 1.56 |
+| Nº Total de Ações | 1,118,202,391 |
+| LPA (TTM) | R$ -4.22 |
+| VPA | R$ 1.54 |
+
+
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +65,8 @@
 | Lucro Líquido      | -1.8807e+09  | -1.42291e+08 |     -1.31974e+08 | -7.59194e+08 |  3.12e+06    |      nan |
 | FCO                |  1.51754e+08 | -4.49529e+08 |     -7.6865e+07  |  3.2436e+07  |  1.12138e+08 |      nan |
 | Capex              | -5.2991e+07  | -3.8934e+07  |     -3.9448e+07  | -3.283e+07   | -5.3988e+07  |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

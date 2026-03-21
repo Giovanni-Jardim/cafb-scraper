@@ -1,6 +1,41 @@
 # Análise Fundamentalista: PGMN3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 5.99 |
+| Nº Total de Ações | 687,359,607 |
+| LPA (TTM) | R$ 0.42 |
+| VPA | R$ 4.68 |
+| Dividend Yield | 847.00% |
+| Proventos 12m | R$ 0.51 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 8.50 | +41.9% (COMPRA) |
+| Graham | R$ 6.65 | +11.0% (AGUARDAR) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2023 |                 0.1781 |               1 |
+|  2024 |                 0.2919 |               1 |
+|  2025 |                 0.5074 |               2 |
+
+**Média Anual:** R$ 0.3258
+**Último Ano:** R$ 0.5074
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -43,3 +78,8 @@
 | Lucro Líquido |  1.2951e+08  |  5.0343e+07 |  5.095e+06  |  6.662e+07   |  4.097e+07   |      nan |
 | FCO           |  1.86562e+08 | -8.06e+07   |  6.7163e+07 |  1.82265e+08 |  1.69107e+08 |      nan |
 | Capex         | -1.18968e+08 | -4.3425e+07 | -2.7622e+07 | -3.8649e+07  | -2.1839e+07  |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

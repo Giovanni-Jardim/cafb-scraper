@@ -1,6 +1,41 @@
 # Análise Fundamentalista: BEEF3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 3.64 |
+| Nº Total de Ações | 987,434,910 |
+| LPA (TTM) | R$ -1.69 |
+| VPA | R$ 1.33 |
+| Dividend Yield | 1808.00% |
+| Proventos 12m | R$ 0.66 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 11.00 | +202.2% (COMPRA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.9929 |               3 |
+|  2022 |                 0.4972 |               2 |
+|  2023 |                 0.4878 |               2 |
+|  2025 |                 0.1646 |               1 |
+
+**Média Anual:** R$ 0.5356
+**Último Ano:** R$ 0.1646
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -44,3 +79,8 @@
 | Lucro Líquido    |  4.5827e+08 |      1.84988e+08 | -1.56719e+09 |      9.4095e+07  |       9.5438e+07  |
 | FCO              |  3.201e+08  |      4.8001e+07  |  2.54438e+09 |      1.89081e+09 |       7.65995e+08 |
 | Capex            | -2.4094e+08 |     -2.24955e+08 | -2.20479e+08 |     -1.47807e+08 |      -1.99279e+08 |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

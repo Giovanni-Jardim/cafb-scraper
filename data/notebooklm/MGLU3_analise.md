@@ -1,6 +1,40 @@
 # Análise Fundamentalista: MGLU3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 8.34 |
+| Nº Total de Ações | 813,407,868 |
+| LPA (TTM) | R$ 0.26 |
+| VPA | R$ 14.56 |
+| Dividend Yield | 348.00% |
+| Proventos 12m | R$ 0.29 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 4.83 | -42.0% (VENDA) |
+| Graham | R$ 9.23 | +10.7% (AGUARDAR) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.138  |               1 |
+|  2025 |                 0.2906 |               1 |
+
+**Média Anual:** R$ 0.2143
+**Último Ano:** R$ 0.2906
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +79,8 @@
 | Lucro Líquido      |   1.31606e+08 | -2.4356e+07  |  1.2768e+07  |   2.94821e+08 |   1.02363e+08 | nan           |
 | FCO                |   5.66114e+09 |  4.02828e+09 |  4.72282e+09 |   1.37751e+10 |   3.86584e+09 | nan           |
 | Capex              |  -2.444e+08   | -2.06303e+08 | -1.68329e+08 |  -2.5027e+08  |  -1.48169e+08 | nan           |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

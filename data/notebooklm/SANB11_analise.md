@@ -1,6 +1,44 @@
 # Análise Fundamentalista: SANB11
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 29.25 |
+| Nº Total de Ações | 3,735,435,525 |
+| LPA (TTM) | R$ 2.05 |
+| VPA | R$ 33.51 |
+| Dividend Yield | 606.00% |
+| Proventos 12m | R$ 1.77 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 29.50 | +0.9% (AGUARDAR) |
+| Graham | R$ 39.28 | +34.3% (COMPRA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 2.8358 |               5 |
+|  2022 |                 2.2417 |               5 |
+|  2023 |                 1.6676 |               4 |
+|  2024 |                 1.6102 |               4 |
+|  2025 |                 1.8762 |               4 |
+|  2026 |                 0.702  |               2 |
+
+**Média Anual:** R$ 1.8223
+**Último Ano:** R$ 0.7020
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -39,3 +77,8 @@
 | Lucro Líquido      |  3.9432e+09  |  1.98793e+09 |  3.15158e+09 |  3.06986e+09 |  3.64954e+09 |      nan |
 | FCO                | -1.98349e+10 | -1.18163e+10 |  3.34077e+10 | -4.22302e+10 |  2.87079e+10 |      nan |
 | Capex              | -1.51326e+09 | -8.89547e+08 | -4.9994e+08  | -7.18912e+08 | -8.03185e+08 |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

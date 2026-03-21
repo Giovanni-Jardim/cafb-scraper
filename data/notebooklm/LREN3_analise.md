@@ -1,6 +1,43 @@
 # Análise Fundamentalista: LREN3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 14.84 |
+| Nº Total de Ações | 982,960,386 |
+| LPA (TTM) | R$ 1.44 |
+| VPA | R$ 10.65 |
+| Dividend Yield | 600.00% |
+| Proventos 12m | R$ 0.89 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 14.83 | -0.0% (AGUARDAR) |
+| Graham | R$ 18.57 | +25.2% (COMPRA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.3965 |               5 |
+|  2022 |                 0.6062 |               4 |
+|  2023 |                 0.6489 |               4 |
+|  2024 |                 0.6024 |               4 |
+|  2025 |                 0.8383 |               4 |
+
+**Média Anual:** R$ 0.6185
+**Último Ano:** R$ 0.8383
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -44,3 +81,8 @@
 | Lucro Líquido      |  5.52642e+08 |  4.04496e+08 |  2.21033e+08 |  4.87168e+08 |  2.55266e+08 |      nan |
 | FCO                |  9.46999e+08 |  4.02197e+08 |  4.19922e+08 |  9.60814e+08 |  5.12619e+08 |      nan |
 | Capex              | -3.4222e+08  | -1.83545e+08 | -7.1352e+07  | -2.71629e+08 | -1.76018e+08 |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

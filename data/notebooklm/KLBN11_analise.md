@@ -1,6 +1,43 @@
 # Análise Fundamentalista: KLBN11
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 18.40 |
+| Nº Total de Ações | 1,214,936,096 |
+| LPA (TTM) | R$ 0.66 |
+| VPA | R$ 6.43 |
+| Dividend Yield | 889.00% |
+| Proventos 12m | R$ 1.64 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 27.33 | +48.6% (COMPRA) |
+| Graham | R$ 9.78 | -46.9% (VENDA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.3294 |               1 |
+|  2022 |                 1.3583 |               5 |
+|  2023 |                 1.2188 |               5 |
+|  2024 |                 1.3154 |               5 |
+|  2025 |                 1.6801 |               5 |
+
+**Média Anual:** R$ 1.1804
+**Último Ano:** R$ 1.6801
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +82,8 @@
 | Lucro Líquido      |  2.02018e+08 | nan         |  7.20541e+08 |  7.68215e+08 |  3.94018e+08 |   8.1717e+08  |      nan |
 | FCO                |  8.5632e+08  | nan         |  1.72954e+09 |  1.93736e+09 | -9.36517e+08 |   1.74465e+09 |      nan |
 | Capex              | -8.83774e+08 | nan         | -6.917e+08   | -6.40622e+08 | -8.97155e+08 |  -8.07905e+08 |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

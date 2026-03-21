@@ -1,6 +1,44 @@
 # Análise Fundamentalista: CAML3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 5.47 |
+| Nº Total de Ações | 341,071,232 |
+| LPA (TTM) | R$ 0.46 |
+| VPA | R$ 10.11 |
+| Dividend Yield | 750.00% |
+| Proventos 12m | R$ 0.41 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 6.83 | +24.9% (COMPRA) |
+| Graham | R$ 10.23 | +87.0% (COMPRA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.2472 |               4 |
+|  2022 |                 0.3649 |               5 |
+|  2023 |                 0.2887 |               4 |
+|  2024 |                 0.2932 |               4 |
+|  2025 |                 0.2932 |               4 |
+|  2026 |                 0.0733 |               1 |
+
+**Média Anual:** R$ 0.2601
+**Último Ano:** R$ 0.0733
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +83,8 @@
 | Lucro Líquido      |   1.2223e+07 |  4.7877e+07  |  -3.4211e+07  |  -1.2156e+07  |  1.31974e+08 |
 | FCO                |  -9.0508e+07 | -7.56955e+08 |   1.56983e+09 |  -2.15804e+08 | -1.78691e+08 |
 | Capex              | nan          | -1.19855e+08 | nan           | nan           | -6.6467e+07  |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

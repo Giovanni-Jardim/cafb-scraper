@@ -1,6 +1,43 @@
 # Análise Fundamentalista: EZTC3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 13.21 |
+| Nº Total de Ações | 277,388,627 |
+| LPA (TTM) | R$ 2.41 |
+| VPA | R$ 18.14 |
+| Dividend Yield | 925.00% |
+| Proventos 12m | R$ 1.22 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 20.33 | +53.9% (COMPRA) |
+| Graham | R$ 31.36 | +137.4% (COMPRA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.3334 |               1 |
+|  2022 |                 0.6119 |               4 |
+|  2023 |                 0.1611 |               4 |
+|  2024 |                 0.8497 |               4 |
+|  2025 |                 1.2218 |               4 |
+
+**Média Anual:** R$ 0.6356
+**Último Ano:** R$ 1.2218
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +82,8 @@
 | Lucro Líquido      |  1.20102e+08 |  1.86014e+08 |      1.44558e+08 |  9.6921e+07 |  1.31172e+08 |      nan |
 | FCO                |  1.96277e+08 |  2.17938e+08 |      9.2041e+07  | -2.47e+06   | -6.922e+06   |      nan |
 | Capex              | -4.875e+06   | -1.067e+07   |     -4.918e+06   | -1.312e+06  | -3.018e+06   |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

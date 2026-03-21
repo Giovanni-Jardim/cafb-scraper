@@ -1,6 +1,43 @@
 # Análise Fundamentalista: FLRY3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 14.91 |
+| Nº Total de Ações | 545,924,980 |
+| LPA (TTM) | R$ 1.12 |
+| VPA | R$ 9.18 |
+| Dividend Yield | 1267.00% |
+| Proventos 12m | R$ 1.89 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 31.50 | +111.3% (COMPRA) |
+| Graham | R$ 15.21 | +2.0% (AGUARDAR) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.9031 |               4 |
+|  2022 |                 0.9498 |               2 |
+|  2023 |                 0.4348 |               2 |
+|  2024 |                 0.6989 |               3 |
+|  2025 |                 1.6753 |               3 |
+
+**Média Anual:** R$ 0.9324
+**Último Ano:** R$ 1.6753
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +82,8 @@
 | Lucro Líquido      |  9.4043e+07  |  1.82248e+08 |  1.4455e+08  |  1.7583e+08  |  7.6485e+07  |      nan |      nan |
 | FCO                |  6.059e+08   |  7.18498e+08 |  4.8705e+08  |  3.22327e+08 |  5.63639e+08 |      nan |      nan |
 | Capex              | -1.71748e+08 | -1.25975e+08 | -1.41477e+08 | -6.687e+07   | -2.10558e+08 |      nan |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

@@ -1,6 +1,43 @@
 # Análise Fundamentalista: SMTO3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 18.78 |
+| Nº Total de Ações | 322,773,291 |
+| LPA (TTM) | R$ 2.32 |
+| VPA | R$ 18.70 |
+| Dividend Yield | 486.00% |
+| Proventos 12m | R$ 0.91 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 15.17 | -19.2% (VENDA) |
+| Graham | R$ 31.25 | +66.4% (COMPRA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 2.3315 |               2 |
+|  2022 |                 1.133  |               3 |
+|  2023 |                 1.2414 |               2 |
+|  2024 |                 1.3479 |               3 |
+|  2025 |                 0.4565 |               1 |
+
+**Média Anual:** R$ 1.3021
+**Último Ano:** R$ 0.4565
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +82,8 @@
 | Lucro Líquido      |  4.24081e+08 |  1.76416e+08 |  6.2829e+07  |  1.05041e+08 |  1.57921e+08 |      nan |      nan |
 | FCO                |  3.363e+08   |  1.9782e+08  |  5.84725e+08 |  1.5055e+09  |  4.99168e+08 |      nan |      nan |
 | Capex              | -6.56666e+08 | -5.01322e+08 | -4.43353e+08 | -1.09309e+09 | -6.42415e+08 |      nan |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

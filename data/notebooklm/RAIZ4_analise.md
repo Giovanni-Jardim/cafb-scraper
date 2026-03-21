@@ -1,6 +1,40 @@
 # Análise Fundamentalista: RAIZ4
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 0.55 |
+| Nº Total de Ações | 1,349,543,297 |
+| LPA (TTM) | R$ -2.15 |
+| VPA | R$ -0.15 |
+
+
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.0162 |               1 |
+|  2022 |                 0.1704 |               4 |
+|  2023 |                 0.2665 |               4 |
+|  2024 |                 0.0162 |               1 |
+
+**Média Anual:** R$ 0.1173
+**Último Ano:** R$ 0.0162
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -44,3 +78,8 @@
 | Lucro Líquido    | -9.38636e+09 | -2.76378e+09 | -1.99321e+09 | -2.33312e+09 | -2.21353e+09 |      nan |      nan |
 | FCO              |  1.63574e+09 |  2.02405e+08 | -9.97759e+09 |  1.06162e+10 |  3.2548e+09  |      nan |      nan |
 | Capex            | -2.17468e+09 | -1.67425e+09 | -1.58942e+09 | -4.33658e+09 | -2.6861e+09  |      nan |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

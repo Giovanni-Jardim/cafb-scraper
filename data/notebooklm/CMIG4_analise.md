@@ -1,6 +1,43 @@
 # Análise Fundamentalista: CMIG4
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 12.24 |
+| Nº Total de Ações | 1,904,080,104 |
+| LPA (TTM) | R$ 2.28 |
+| VPA | R$ 9.57 |
+| Dividend Yield | 1354.00% |
+| Proventos 12m | R$ 1.65 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 27.50 | +124.7% (COMPRA) |
+| Graham | R$ 22.16 | +81.0% (COMPRA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.8101 |               3 |
+|  2022 |                 1.5065 |               6 |
+|  2023 |                 0.9929 |               5 |
+|  2024 |                 1.329  |               6 |
+|  2025 |                 1.6506 |               7 |
+
+**Média Anual:** R$ 1.2578
+**Último Ano:** R$ 1.6506
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -43,3 +80,8 @@
 | Lucro Líquido |  3.024e+09 |  1.039e+09 |  -1.84448e+09 |  6.122e+09 |  1.68848e+09 |
 | FCO           |  3.424e+09 |  1.372e+09 |  -2.06278e+09 |  4.637e+09 |  1.28178e+09 |
 | Capex         | -4.42e+09  | -1.762e+09 | nan           | -3.798e+09 | -1.269e+09   |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

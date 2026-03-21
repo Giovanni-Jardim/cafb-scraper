@@ -1,6 +1,41 @@
 # Análise Fundamentalista: QUAL3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 1.80 |
+| Nº Total de Ações | 283,993,754 |
+| LPA (TTM) | R$ -0.01 |
+| VPA | R$ 4.56 |
+| Dividend Yield | 50.00% |
+| Proventos 12m | R$ 0.01 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 0.17 | -90.7% (VENDA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 2.191  |               3 |
+|  2022 |                 0.2554 |               1 |
+|  2023 |                 0.0791 |               1 |
+|  2025 |                 0.0055 |               1 |
+
+**Média Anual:** R$ 0.6327
+**Último Ano:** R$ 0.0055
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +80,8 @@
 | Lucro Líquido      |  4.3627e+07  |  6.187e+06   |   3.5379e+07 |   2.1453e+07  | -5.3745e+07  | nan          |      nan |
 | FCO                |  3.8517e+07  |  1.32012e+08 |  -7.6901e+07 |   1.92852e+08 | -1.0898e+07  | nan          |      nan |
 | Capex              | -5.008e+07   | -4.8082e+07  |  -4.5237e+07 |  -3.8788e+07  | -4.5352e+07  | nan          |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

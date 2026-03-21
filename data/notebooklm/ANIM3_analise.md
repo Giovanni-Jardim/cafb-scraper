@@ -1,6 +1,40 @@
 # Análise Fundamentalista: ANIM3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 3.80 |
+| Nº Total de Ações | 377,859,942 |
+| LPA (TTM) | R$ 0.33 |
+| VPA | R$ 6.09 |
+| Dividend Yield | 136.00% |
+| Proventos 12m | R$ 0.05 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 0.83 | -78.1% (VENDA) |
+| Graham | R$ 6.72 | +76.9% (COMPRA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2024 |                 0.4713 |               1 |
+|  2025 |                 0.0535 |               1 |
+
+**Média Anual:** R$ 0.2624
+**Último Ano:** R$ 0.0535
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +79,8 @@
 | Lucro Líquido      |  1.0996e+07  |       6.8542e+07  |       3.6924e+07 |  1.40203e+08 |  4.8877e+07 |      nan |      nan |
 | FCO                | -1.05132e+08 |       4.08838e+08 |       5.8989e+07 |  2.69175e+08 | -7.1979e+07 |      nan |      nan |
 | Capex              | -5.9229e+07  |      -5.9721e+07  |      -4.7366e+07 | -5.1009e+07  | -5.3535e+07 |      nan |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

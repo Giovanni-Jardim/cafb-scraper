@@ -16,6 +16,20 @@
   "companyOfficers": [
     {
       "maxAge": 1,
+      "name": "Mr. Rossano  Marques Leandro",
+      "title": "CEO, President & Member of Executive Board",
+      "exercisedValue": 0,
+      "unexercisedValue": 0
+    },
+    {
+      "maxAge": 1,
+      "name": "Mr. Alexandre De Aquino Pereira",
+      "title": "CFO & Member of Executive Board",
+      "exercisedValue": 0,
+      "unexercisedValue": 0
+    },
+    {
+      "maxAge": 1,
       "name": "Ms. Cl\u00e1udia  Romano",
       "title": "VP of Sustainability & Institutional Relations and Member of Board of Executive Officers",
       "exercisedValue": 0,
@@ -67,13 +81,6 @@
       "maxAge": 1,
       "name": "Caio  Moretti",
       "title": "CEO of Qconcursos.com",
-      "exercisedValue": 0,
-      "unexercisedValue": 0
-    },
-    {
-      "maxAge": 1,
-      "name": "Paula Ligia Oliveira Dias",
-      "title": "Secretary",
       "exercisedValue": 0,
       "unexercisedValue": 0
     }
@@ -174,6 +181,9 @@
   "quoteSourceName": "Delayed Quote",
   "triggerable": false,
   "customPriceAlertConfidence": "LOW",
+  "shortName": "YDUQS PART  ON      NM",
+  "longName": "Yduqs Participa\u00e7\u00f5es S.A.",
+  "marketState": "CLOSED",
   "fiftyDayAverageChange": -2.4517994,
   "fiftyDayAverageChangePercent": -0.19272426,
   "twoHundredDayAverageChange": -2.98835,
@@ -182,9 +192,8 @@
   "exchangeDataDelayedBy": 15,
   "averageAnalystRating": "1.9 - Buy",
   "cryptoTradeable": false,
-  "marketState": "CLOSED",
-  "shortName": "YDUQS PART  ON      NM",
-  "longName": "Yduqs Participa\u00e7\u00f5es S.A.",
+  "regularMarketChangePercent": 1.3820369,
+  "regularMarketPrice": 10.27,
   "corporateActions": [],
   "regularMarketTime": 1774037256,
   "exchange": "SAO",
@@ -194,8 +203,6 @@
   "gmtOffSetMilliseconds": -10800000,
   "market": "br_market",
   "esgPopulated": false,
-  "regularMarketChangePercent": 1.3820369,
-  "regularMarketPrice": 10.27,
   "hasPrePostMarketData": false,
   "firstTradeDateMilliseconds": 1215781200000,
   "regularMarketChange": 0.14000034,

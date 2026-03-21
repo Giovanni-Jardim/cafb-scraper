@@ -1,6 +1,41 @@
 # Análise Fundamentalista: LWSA3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 3.63 |
+| Nº Total de Ações | 548,329,681 |
+| LPA (TTM) | R$ -0.41 |
+| VPA | R$ 4.48 |
+| Dividend Yield | 702.00% |
+| Proventos 12m | R$ 0.25 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 4.17 | +14.8% (COMPRA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2023 |                 0.0524 |               1 |
+|  2024 |                 0.0716 |               1 |
+|  2025 |                 0.0519 |               1 |
+|  2026 |                 0.2547 |               1 |
+
+**Média Anual:** R$ 0.1076
+**Último Ano:** R$ 0.2547
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -44,3 +79,8 @@
 | Lucro Líquido      |  4.8113e+07 | -4.03339e+08 |  2.7099e+07  |  2.3703e+07 |     -1.5391e+07 |      nan |
 | FCO                |  9.9177e+07 |  1.02885e+08 |  1.32601e+08 |  1.2991e+07 |      7.0164e+07 |      nan |
 | Capex              | -3.5531e+07 | -3.2376e+07  | -2.9901e+07  | -2.5047e+07 |     -3.4354e+07 |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

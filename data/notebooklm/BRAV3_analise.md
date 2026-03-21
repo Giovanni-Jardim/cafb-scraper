@@ -1,6 +1,27 @@
 # Análise Fundamentalista: BRAV3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 16.89 |
+| Nº Total de Ações | 464,543,102 |
+| LPA (TTM) | R$ 3.02 |
+| VPA | R$ 25.37 |
+
+
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Graham | R$ 41.52 | +145.8% (COMPRA) |
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +66,8 @@
 | Lucro Líquido      |  -5.87702e+08 |  1.04906e+09 |  8.29174e+08 |  -1.02815e+09 |  7.11398e+08 | nan           |
 | FCO                |   1.42084e+09 |  1.34941e+09 |  8.08573e+08 |   6.53994e+08 |  1.28228e+08 | nan           |
 | Capex              | nan           | -1.13315e+09 | -8.69547e+08 | nan           | -1.50707e+08 |  -9.03062e+08 |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

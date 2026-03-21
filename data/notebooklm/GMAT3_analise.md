@@ -1,6 +1,40 @@
 # Análise Fundamentalista: GMAT3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 4.15 |
+| Nº Total de Ações | 2,300,047,621 |
+| LPA (TTM) | R$ 0.84 |
+| VPA | R$ 4.54 |
+| Dividend Yield | 601.00% |
+| Proventos 12m | R$ 0.25 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 4.17 | +0.4% (AGUARDAR) |
+| Graham | R$ 9.26 | +123.2% (COMPRA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2024 |                 0.1936 |               4 |
+|  2025 |                 0.2493 |               4 |
+
+**Média Anual:** R$ 0.2214
+**Último Ano:** R$ 0.2493
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +79,8 @@
 | Lucro Líquido      |   4.52508e+08 |   3.8277e+08  |   3.63398e+08 |  4.76223e+08 |   4.39163e+08 | nan           |
 | FCO                |   2.52467e+08 |   9.2544e+07  |   4.84945e+08 |  8.5341e+08  |  -1.84706e+08 | nan           |
 | Capex              | nan           |  -2.55594e+08 |  -3.55847e+08 | -1.25229e+09 | nan           |  -3.13999e+08 |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

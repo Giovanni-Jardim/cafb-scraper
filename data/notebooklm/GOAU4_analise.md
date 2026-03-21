@@ -1,6 +1,44 @@
 # Análise Fundamentalista: GOAU4
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 7.82 |
+| Nº Total de Ações | 838,105,184 |
+| LPA (TTM) | R$ 0.36 |
+| VPA | R$ 14.44 |
+| Dividend Yield | 256.00% |
+| Proventos 12m | R$ 0.20 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 3.33 | -57.4% (VENDA) |
+| Graham | R$ 10.81 | +38.3% (COMPRA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 1.74   |               5 |
+|  2022 |                 0.9375 |               4 |
+|  2023 |                 1.1925 |               4 |
+|  2024 |                 0.3375 |               4 |
+|  2025 |                 0.3    |               4 |
+|  2026 |                 0.05   |               1 |
+
+**Média Anual:** R$ 0.7596
+**Último Ano:** R$ 0.0500
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +83,8 @@
 | Lucro Líquido      | -1.29483e+09 |  8.6273e+08  |  7.55906e+08 |  3.23934e+08 |  1.36025e+09 |      nan |
 | FCO                |  3.14581e+09 |  1.01344e+09 |  8.99542e+08 |  2.79859e+09 |  6.13092e+09 |      nan |
 | Capex              | -6.72875e+09 | -4.1e+07     | -3.3388e+07  | -5.82278e+09 | -4.2207e+07  |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

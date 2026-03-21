@@ -1,6 +1,44 @@
 # Análise Fundamentalista: CURY3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 33.06 |
+| Nº Total de Ações | 308,047,594 |
+| LPA (TTM) | R$ 2.98 |
+| VPA | R$ 4.48 |
+| Dividend Yield | 1507.00% |
+| Proventos 12m | R$ 4.98 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 83.00 | +151.1% (COMPRA) |
+| Graham | R$ 17.34 | -47.5% (VENDA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.5634 |               2 |
+|  2022 |                 0.5136 |               1 |
+|  2023 |                 1.1288 |               4 |
+|  2024 |                 1.6624 |               3 |
+|  2025 |                 4.5288 |               5 |
+|  2026 |                 0.4545 |               1 |
+
+**Média Anual:** R$ 1.4752
+**Último Ano:** R$ 0.4545
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +83,8 @@
 | Lucro Líquido      |  3.19973e+08 |  2.98596e+08 |  2.64667e+08 |  2.1456e+08  |  2.0359e+08  |      nan |
 | FCO                |  2.71006e+08 |  1.05845e+08 |  5.7863e+07  |  1.67928e+08 |  1.14104e+08 |      nan |
 | Capex              | -8.645e+06   | -7.259e+06   | -8.816e+06   | -1.0607e+07  | -1.0833e+07  |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

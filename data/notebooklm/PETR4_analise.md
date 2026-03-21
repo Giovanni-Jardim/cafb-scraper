@@ -1,6 +1,43 @@
 # Análise Fundamentalista: PETR4
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 45.67 |
+| Nº Total de Ações | 5,446,501,379 |
+| LPA (TTM) | R$ 8.14 |
+| VPA | R$ 32.26 |
+| Dividend Yield | 856.00% |
+| Proventos 12m | R$ 3.91 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 65.17 | +42.7% (COMPRA) |
+| Graham | R$ 76.87 | +68.3% (COMPRA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 5.6532 |               3 |
+|  2022 |                15.1664 |               4 |
+|  2023 |                 7.3443 |               4 |
+|  2024 |                 7.9311 |               6 |
+|  2025 |                 3.2813 |               4 |
+
+**Média Anual:** R$ 7.8753
+**Último Ano:** R$ 3.2813
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +82,8 @@
 | Lucro Líquido      |  3.38134e+09 |  6.053e+09 |  4.757e+09 |  5.995e+09 | -2.766e+09 |      nan |      nan |
 | FCO                |  1.06775e+10 |  9.856e+09 |  7.531e+09 |  8.498e+09 |  8.204e+09 |      nan |      nan |
 | Capex              | -6.90822e+09 | -4.887e+09 | -4.084e+09 | -3.962e+09 | -4.429e+09 |      nan |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

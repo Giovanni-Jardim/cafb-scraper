@@ -1,6 +1,43 @@
 # Análise Fundamentalista: VAMO3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 3.19 |
+| Nº Total de Ações | 1,070,442,395 |
+| LPA (TTM) | R$ 0.39 |
+| VPA | R$ 2.47 |
+| Dividend Yield | 439.00% |
+| Proventos 12m | R$ 0.14 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 2.33 | -26.9% (VENDA) |
+| Graham | R$ 4.65 | +45.9% (COMPRA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.1926 |               1 |
+|  2022 |                 0.2579 |               1 |
+|  2023 |                 0.3349 |               2 |
+|  2024 |                 0.2671 |               1 |
+|  2025 |                 0.1401 |               1 |
+
+**Média Anual:** R$ 0.2385
+**Último Ano:** R$ 0.1401
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +82,8 @@
 | Lucro Líquido      |   5.9764e+07  |  1.22313e+08 |     1.49939e+08 |   2.89856e+08 |  2.52656e+08 | nan          |
 | FCO                |   1.00914e+08 |  6.85322e+08 |    -1.49736e+09 |  -6.74333e+08 | -9.53668e+08 | nan          |
 | Capex              | nan           | -1.0077e+07  |    -3.443e+06   | nan           | -3.0933e+07  |  -1.8928e+07 |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

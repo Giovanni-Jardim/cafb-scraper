@@ -1,6 +1,40 @@
 # Análise Fundamentalista: CSAN3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 5.10 |
+| Nº Total de Ações | 3,906,847,275 |
+| LPA (TTM) | R$ -3.89 |
+| VPA | R$ 1.34 |
+
+
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.6323 |               2 |
+|  2022 |                 0.4281 |               1 |
+|  2023 |                 0.4286 |               1 |
+|  2024 |                 0.4515 |               1 |
+
+**Média Anual:** R$ 0.4851
+**Último Ano:** R$ 0.4515
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +79,8 @@
 | Lucro Líquido      |  -6.6698e+09  |  -4.67146e+08 |   3.4523e+07  | -8.88863e+08 |  -5.9199e+09  |      nan |      nan |
 | FCO                |   3.35725e+09 |   4.01095e+09 |   3.92868e+09 |  1.7299e+09  |   3.70497e+09 |      nan |      nan |
 | Capex              |  -2.15647e+09 |  -2.09324e+09 |  -1.92525e+09 | -2.28491e+09 |  -2.64893e+09 |      nan |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

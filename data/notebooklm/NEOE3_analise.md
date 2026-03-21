@@ -1,6 +1,44 @@
 # Análise Fundamentalista: NEOE3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 33.20 |
+| Nº Total de Ações | 1,213,797,248 |
+| LPA (TTM) | R$ 4.14 |
+| VPA | R$ 30.03 |
+| Dividend Yield | 440.00% |
+| Proventos 12m | R$ 1.46 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 24.33 | -26.7% (VENDA) |
+| Graham | R$ 52.89 | +59.3% (COMPRA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.5257 |               3 |
+|  2022 |                 0.7987 |               3 |
+|  2023 |                 1.1571 |               3 |
+|  2024 |                 1.0903 |               4 |
+|  2025 |                 0.5676 |               2 |
+|  2026 |                 0.8931 |               1 |
+
+**Média Anual:** R$ 0.8387
+**Último Ano:** R$ 0.8931
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -44,3 +82,8 @@
 | Lucro Líquido    |  1.481e+09 |  1.64e+09 |  1.006e+09 |  8.6e+08   |  8.47e+08 |
 | FCO              |  9.45e+08  |  1.03e+08 |  8.12e+08  |  1.665e+09 |  5.05e+08 |
 | Capex            | -1.57e+08  | -5e+07    | -5.1e+07   | -8.8e+07   | -6.5e+07  |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

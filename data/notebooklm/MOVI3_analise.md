@@ -1,6 +1,43 @@
 # Análise Fundamentalista: MOVI3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 11.80 |
+| Nº Total de Ações | 343,778,523 |
+| LPA (TTM) | R$ 0.62 |
+| VPA | R$ 8.20 |
+| Dividend Yield | 775.00% |
+| Proventos 12m | R$ 0.91 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 15.17 | +28.5% (COMPRA) |
+| Graham | R$ 10.70 | -9.3% (AGUARDAR) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.5122 |               5 |
+|  2022 |                 1.4251 |               5 |
+|  2023 |                 0.1188 |               1 |
+|  2024 |                 0.1512 |               1 |
+|  2025 |                 0.7631 |               2 |
+
+**Média Anual:** R$ 0.5941
+**Último Ano:** R$ 0.7631
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +82,8 @@
 | Lucro Líquido      |   5.8774e+07  |   9.1312e+07  |  1.10744e+08 |   7.8268e+07  |   1.01796e+08 |      nan |
 | FCO                |   9.18331e+08 |   7.18431e+08 |  5.989e+06   |  -2.73089e+08 |  -5.09159e+08 |      nan |
 | Capex              |  -7.3409e+07  |  -5.6182e+07  | -5.1171e+07  |  -5.6414e+07  |  -7.224e+07   |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

@@ -1,6 +1,43 @@
 # Análise Fundamentalista: KEPL3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 7.77 |
+| Nº Total de Ações | 173,331,850 |
+| LPA (TTM) | R$ 0.90 |
+| VPA | R$ 4.47 |
+| Dividend Yield | 694.00% |
+| Proventos 12m | R$ 0.54 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 9.00 | +15.8% (COMPRA) |
+| Graham | R$ 9.51 | +22.4% (COMPRA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 1.8091 |               3 |
+|  2022 |                 0.9974 |               3 |
+|  2023 |                 0.8592 |               3 |
+|  2024 |                 0.844  |               4 |
+|  2025 |                 0.8367 |               4 |
+
+**Média Anual:** R$ 1.0693
+**Último Ano:** R$ 0.8367
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -44,3 +81,8 @@
 | Lucro Líquido      |  5.7268e+07 |      2.3199e+07 |  4.1509e+07 |  1.38975e+08 |  8.2861e+07 |      nan |
 | FCO                |  3.428e+07  |      6.8912e+07 | -3.6236e+07 |  5.032e+06   |  3.1473e+07 |      nan |
 | Capex              | -1.8232e+07 |     -2.1315e+07 | -1.3131e+07 | -1.4872e+07  | -1.058e+07  |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

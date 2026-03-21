@@ -1,6 +1,44 @@
 # Análise Fundamentalista: BBDC3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 15.81 |
+| Nº Total de Ações | 5,293,220,781 |
+| LPA (TTM) | R$ 2.13 |
+| VPA | R$ 16.87 |
+| Dividend Yield | 131.00% |
+| Proventos 12m | R$ 0.21 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 3.50 | -77.9% (VENDA) |
+| Graham | R$ 28.43 | +79.8% (COMPRA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.8409 |              15 |
+|  2022 |                 0.3794 |              13 |
+|  2023 |                 1.5427 |              15 |
+|  2024 |                 0.7457 |              14 |
+|  2025 |                 1.5728 |              17 |
+|  2026 |                 0.0518 |               3 |
+
+**Média Anual:** R$ 0.8556
+**Último Ano:** R$ 0.0518
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -41,3 +79,8 @@
 | Lucro Líquido      |  4.88034e+09 |  4.3294e+09  |  6.06292e+09 |  3.29515e+09 |  5.5761e+09  |      nan |
 | FCO                |  8.15901e+08 |  3.97645e+10 | -8.32621e+10 |  1.02546e+10 | -6.27864e+09 |      nan |
 | Capex              | -2.02695e+09 | -2.88674e+09 | -2.4683e+09  | -2.04575e+09 | -1.78305e+09 |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

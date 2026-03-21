@@ -1,6 +1,38 @@
 # Análise Fundamentalista: MRVE3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 7.16 |
+| Nº Total de Ações | 562,825,323 |
+| LPA (TTM) | R$ -1.85 |
+| VPA | R$ 9.47 |
+
+
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.64   |               3 |
+|  2022 |                 0.3956 |               2 |
+
+**Média Anual:** R$ 0.5178
+**Último Ano:** R$ 0.3956
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +77,8 @@
 | Lucro Líquido      |   5.3494e+07  |  1.04841e+08 | -8.38363e+08 | -3.62676e+08 |  -2.42025e+08 | nan          | nan          |
 | FCO                |   3.08662e+08 |  8.3098e+07  |  2.40472e+08 | -9.025e+07   |  -2.01037e+08 | nan          | nan          |
 | Capex              |  -7.0043e+07  | -7.3493e+07  | -7.7827e+07  | -7.8652e+07  |  -6.3957e+07  | nan          | nan          |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

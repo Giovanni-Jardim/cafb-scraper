@@ -1,6 +1,41 @@
 # Análise Fundamentalista: CPFE3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 45.66 |
+| Nº Total de Ações | 1,152,254,440 |
+| LPA (TTM) | R$ 4.76 |
+| VPA | R$ 19.52 |
+| Dividend Yield | 612.00% |
+| Proventos 12m | R$ 2.79 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 46.50 | +1.8% (AGUARDAR) |
+| Graham | R$ 45.72 | +0.1% (AGUARDAR) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 3.7014 |               3 |
+|  2022 |                 3.2423 |               1 |
+|  2023 |                 2.8856 |               2 |
+
+**Média Anual:** R$ 3.2764
+**Último Ano:** R$ 2.8856
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +80,8 @@
 | Lucro Líquido      |  2.11352e+09 |  1.82668e+09 |  1.75871e+09 |  2.39234e+09 |  2.22908e+09 |      nan |
 | FCO                |  1.25449e+09 |  1.92066e+09 |  1.894e+09   |  2.09365e+09 |  1.95699e+09 |      nan |
 | Capex              | -1.32981e+08 | -1.26631e+08 | -6.7386e+07  | -6.3486e+07  | -1.50598e+08 |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

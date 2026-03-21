@@ -1,6 +1,44 @@
 # Análise Fundamentalista: ALOS3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 28.80 |
+| Nº Total de Ações | 499,179,829 |
+| LPA (TTM) | R$ 1.64 |
+| VPA | R$ 26.34 |
+| Dividend Yield | 721.00% |
+| Proventos 12m | R$ 2.08 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 34.67 | +20.4% (COMPRA) |
+| Graham | R$ 31.17 | +8.2% (AGUARDAR) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.2264 |               1 |
+|  2022 |                 0.3839 |               1 |
+|  2023 |                 0.519  |               1 |
+|  2024 |                 1.5274 |               5 |
+|  2025 |                 1.3804 |              10 |
+|  2026 |                 0.585  |               2 |
+
+**Média Anual:** R$ 0.7704
+**Último Ano:** R$ 0.5850
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +83,8 @@
 | Lucro Líquido      |     2.81329e+08 |  1.55923e+08 |  2.29938e+08 |  2.78103e+08 |  2.01138e+08 |      nan |      nan |
 | FCO                |     5.40646e+08 |  3.52575e+08 |  4.91205e+08 |  3.41802e+08 |  4.37782e+08 |      nan |      nan |
 | Capex              |    -4.5397e+07  | -2.7103e+07  | -2.2221e+07  | -3.3416e+07  | -4.6345e+07  |      nan |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

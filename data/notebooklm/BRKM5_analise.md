@@ -1,6 +1,38 @@
 # Análise Fundamentalista: BRKM5
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 10.20 |
+| Nº Total de Ações | 345,060,365 |
+| LPA (TTM) | R$ -6.65 |
+| VPA | R$ -4.43 |
+
+
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 7.539  |               1 |
+|  2022 |                 1.6963 |               1 |
+
+**Média Anual:** R$ 4.6176
+**Último Ano:** R$ 1.6963
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +77,8 @@
 | Lucro Líquido      |  -2.591e+09 | -5.31e+08 |  8.16e+08  |  -8.329e+09 | -1.312e+09 |      nan |
 | FCO                |  -6.83e+08  | -2.87e+08 | -2.332e+09 |   8.17e+08  | -7.9e+08   |      nan |
 | Capex              |  -1.268e+09 | -6.49e+08 | -6.53e+08  |  -1.032e+09 | -8.4e+08   |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

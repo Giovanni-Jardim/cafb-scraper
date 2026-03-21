@@ -1,6 +1,43 @@
 # Análise Fundamentalista: BPAC11
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 52.74 |
+| Nº Total de Ações | 3,342,095,256 |
+| LPA (TTM) | R$ 0.61 |
+| VPA | R$ 14.54 |
+| Dividend Yield | 265.00% |
+| Proventos 12m | R$ 1.40 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 23.33 | -55.8% (VENDA) |
+| Graham | R$ 14.17 | -73.1% (VENDA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.3934 |               3 |
+|  2022 |                 0.6566 |               3 |
+|  2023 |                 0.78   |               3 |
+|  2024 |                 0.8582 |               3 |
+|  2025 |                 1.3958 |               4 |
+
+**Média Anual:** R$ 0.8168
+**Último Ano:** R$ 1.3958
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -41,3 +78,8 @@
 | Lucro Líquido      |  4.39053e+09 |  4.33738e+09 |  4.00923e+09 |  3.20992e+09 |   3.12404e+09 | nan           |      nan |
 | FCO                |  1.41902e+09 |  9.81012e+09 | -2.43959e+10 | -1.15024e+10 |  -2.0408e+09  | nan           |      nan |
 | Capex              | -4.43046e+08 | -3.3553e+07  | -2.09978e+08 | -1.1775e+09  | nan           |  -2.04833e+08 |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

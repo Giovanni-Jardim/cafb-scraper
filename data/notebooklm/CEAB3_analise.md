@@ -1,6 +1,39 @@
 # Análise Fundamentalista: CEAB3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 11.23 |
+| Nº Total de Ações | 302,914,334 |
+| LPA (TTM) | R$ 1.89 |
+| VPA | R$ 12.24 |
+| Dividend Yield | 805.00% |
+| Proventos 12m | R$ 0.90 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 15.00 | +33.6% (COMPRA) |
+| Graham | R$ 22.81 | +103.1% (COMPRA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2025 |                 0.9041 |               3 |
+
+**Média Anual:** R$ 0.9041
+**Último Ano:** R$ 0.9041
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +78,8 @@
 | Lucro Líquido      |  3.60999e+08 |  2.92194e+08 | -3.396e+06   |  3.06108e+08 |  3.5828e+07  |      nan |
 | FCO                |  6.31719e+08 |  7.9122e+07  |  1.89366e+08 |  6.99785e+08 |  4.74763e+08 |      nan |
 | Capex              | -1.88085e+08 | -8.3357e+07  | -1.34841e+08 | -1.19764e+08 | -7.2329e+07  |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

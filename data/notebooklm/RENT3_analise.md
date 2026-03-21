@@ -1,6 +1,43 @@
 # Análise Fundamentalista: RENT3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 43.21 |
+| Nº Total de Ações | 1,054,524,450 |
+| LPA (TTM) | R$ 1.76 |
+| VPA | R$ 23.32 |
+| Dividend Yield | 477.00% |
+| Proventos 12m | R$ 2.06 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 34.33 | -20.5% (VENDA) |
+| Graham | R$ 30.39 | -29.7% (VENDA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.4405 |               5 |
+|  2022 |                 1.3086 |               5 |
+|  2023 |                 1.5026 |               4 |
+|  2024 |                 1.5849 |               4 |
+|  2025 |                 1.9934 |               4 |
+
+**Média Anual:** R$ 1.3660
+**Último Ano:** R$ 1.9934
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +82,8 @@
 | Lucro Líquido      |  9.38514e+08 |  2.58078e+08 | -1.68575e+08 |  8.42453e+08 |  8.37328e+08 |      nan |      nan |
 | FCO                | -3.0958e+08  | -1.89068e+08 |  1.63196e+09 |  1.0131e+09  |  1.36048e+09 |      nan |      nan |
 | Capex              | -3.4237e+07  | -3.1937e+07  | -3.2669e+07  | -2.9909e+07  | -3.7967e+07  |      nan |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

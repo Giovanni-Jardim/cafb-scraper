@@ -1,6 +1,43 @@
 # Análise Fundamentalista: ABEV3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 14.47 |
+| Nº Total de Ações | 15,616,768,230 |
+| LPA (TTM) | R$ 0.99 |
+| VPA | R$ 5.63 |
+| Dividend Yield | 1649.00% |
+| Proventos 12m | R$ 2.39 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 39.83 | +175.3% (COMPRA) |
+| Graham | R$ 11.20 | -22.6% (VENDA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.6803 |               2 |
+|  2022 |                 0.7623 |               1 |
+|  2023 |                 0.7302 |               1 |
+|  2024 |                 0.6676 |               1 |
+|  2025 |                 1.7058 |               3 |
+
+**Média Anual:** R$ 0.9092
+**Último Ano:** R$ 1.7058
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -42,3 +79,8 @@
 | Lucro Líquido |  4.52946e+09 |  4.86372e+09 |  2.79057e+09 |  3.80465e+09 |  5.02453e+09 |      nan |      nan |
 | FCO           |  1.3252e+10  |  6.91899e+09 |  3.05004e+09 |  1.20397e+09 |  1.3914e+10  |      nan |      nan |
 | Capex         | -1.6302e+09  | -1.04394e+09 | -1.0882e+09  | -8.28151e+08 | -1.51911e+09 |      nan |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

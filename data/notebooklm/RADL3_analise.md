@@ -1,6 +1,43 @@
 # Análise Fundamentalista: RADL3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 22.48 |
+| Nº Total de Ações | 1,748,519,838 |
+| LPA (TTM) | R$ 0.78 |
+| VPA | R$ 4.19 |
+| Dividend Yield | 170.00% |
+| Proventos 12m | R$ 0.38 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 6.33 | -71.8% (VENDA) |
+| Graham | R$ 8.58 | -61.8% (VENDA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.2094 |               4 |
+|  2022 |                 0.24   |               4 |
+|  2023 |                 0.2986 |               6 |
+|  2024 |                 0.3314 |               5 |
+|  2025 |                 0.4407 |               5 |
+
+**Média Anual:** R$ 0.3040
+**Último Ano:** R$ 0.4407
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +82,8 @@
 | Lucro Líquido      |  2.17616e+08 |  3.99925e+08 |  2.00399e+08 |  1.38199e+08 |  4.40875e+08 |      nan |
 | FCO                | -5.02872e+08 |  4.9593e+08  |  5.2131e+08  |  2.27761e+08 |  7.77095e+08 |      nan |
 | Capex              | -4.30977e+08 | -3.2341e+08  | -2.70528e+08 | -4.31372e+08 | -3.69185e+08 |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

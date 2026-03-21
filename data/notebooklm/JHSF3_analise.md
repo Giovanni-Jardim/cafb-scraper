@@ -1,6 +1,44 @@
 # Análise Fundamentalista: JHSF3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 8.34 |
+| Nº Total de Ações | 668,712,156 |
+| LPA (TTM) | R$ 1.90 |
+| VPA | R$ 9.44 |
+| Dividend Yield | 986.00% |
+| Proventos 12m | R$ 0.82 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 13.67 | +63.9% (COMPRA) |
+| Graham | R$ 20.09 | +140.8% (COMPRA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.3938 |               2 |
+|  2022 |                 0.2087 |               2 |
+|  2023 |                 0.4511 |              10 |
+|  2024 |                 0.371  |              12 |
+|  2025 |                 0.3427 |              11 |
+|  2026 |                 0.2056 |               3 |
+
+**Média Anual:** R$ 0.3288
+**Último Ano:** R$ 0.2056
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -44,3 +82,8 @@
 | Lucro Líquido    |  3.25748e+08 |  2.66546e+08 |  4.88189e+08 |  4.36223e+08 |  2.02776e+08 |      nan |
 | FCO              |  6.261e+07   |  6.0718e+07  | -1.03226e+08 | -1.25212e+08 |  3.9287e+08  |      nan |
 | Capex            | -1.48388e+08 | -2.97191e+08 | -1.34277e+08 | -6.1369e+07  | -3.02656e+08 |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

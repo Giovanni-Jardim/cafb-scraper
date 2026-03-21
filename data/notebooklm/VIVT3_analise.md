@@ -1,6 +1,44 @@
 # Análise Fundamentalista: VIVT3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 40.27 |
+| Nº Total de Ações | 3,195,606,352 |
+| LPA (TTM) | R$ 1.91 |
+| VPA | R$ 21.50 |
+| Dividend Yield | 573.00% |
+| Proventos 12m | R$ 2.31 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 38.50 | -4.4% (AGUARDAR) |
+| Graham | R$ 30.40 | -24.5% (VENDA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 1.7313 |               7 |
+|  2022 |                 1.0127 |               6 |
+|  2023 |                 1.5447 |              10 |
+|  2024 |                 1.4015 |               7 |
+|  2025 |                 1.6268 |              12 |
+|  2026 |                 0.1017 |               1 |
+
+**Média Anual:** R$ 1.2364
+**Último Ano:** R$ 0.1017
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +83,8 @@
 | Lucro Líquido      |  2.19746e+09 |  2.10227e+09 |  1.55545e+09 |  1.41577e+09 |  2.0883e+09  |      nan |
 | FCO                |  5.14494e+09 |  4.60909e+09 |  5.87253e+09 |  5.09084e+09 |  4.56987e+09 |      nan |
 | Capex              | -2.43693e+09 | -2.35598e+09 | -2.24334e+09 | -2.42131e+09 | -2.70378e+09 |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

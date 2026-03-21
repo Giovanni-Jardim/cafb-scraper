@@ -1,6 +1,40 @@
 # Análise Fundamentalista: SEER3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 10.16 |
+| Nº Total de Ações | 127,614,637 |
+| LPA (TTM) | R$ 0.86 |
+| VPA | R$ 10.41 |
+| Dividend Yield | 152.00% |
+| Proventos 12m | R$ 0.15 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 2.50 | -75.4% (VENDA) |
+| Graham | R$ 14.20 | +39.7% (COMPRA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.3306 |               3 |
+|  2025 |                 0.1541 |               1 |
+
+**Média Anual:** R$ 0.2424
+**Último Ano:** R$ 0.1541
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +79,8 @@
 | Lucro Líquido      |  1.9195e+07  |  8.2798e+07 |  5.3191e+07 | -1.8429e+07 | -5.842e+06  |      nan |
 | FCO                |  1.29951e+08 |  5.5522e+07 |  9.8165e+07 |  5.0129e+07 |  8.5307e+07 |      nan |
 | Capex              | -2.5316e+07  | -2.1117e+07 | -2.2654e+07 | -2.7415e+07 | -3.7385e+07 |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

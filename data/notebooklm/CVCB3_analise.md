@@ -1,6 +1,26 @@
 # Análise Fundamentalista: CVCB3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 1.98 |
+| Nº Total de Ações | 520,789,871 |
+| LPA (TTM) | R$ -0.15 |
+| VPA | R$ 0.97 |
+
+
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +65,8 @@
 | Lucro Líquido      |      2.7903e+07  | -4.3673e+07  | -4.749e+06  | -5.0275e+07  |  1.7751e+07 |      nan |
 | FCO                |      1.74743e+08 |  2.8645e+07  | -4.1411e+07 |  2.17227e+08 |  1.6922e+08 |      nan |
 | Capex              |     -3.1531e+07  | -2.5287e+07  | -2.0427e+07 | -1.0468e+07  | -2.3558e+07 |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

@@ -1,6 +1,42 @@
 # Análise Fundamentalista: AGRO3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 21.00 |
+| Nº Total de Ações | 99,615,457 |
+| LPA (TTM) | R$ -0.02 |
+| VPA | R$ 20.86 |
+| Dividend Yield | 359.00% |
+| Proventos 12m | R$ 0.75 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 12.50 | -40.5% (VENDA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 2.6212 |               1 |
+|  2022 |                 5.255  |               2 |
+|  2023 |                 3.2124 |               1 |
+|  2024 |                 1.556  |               1 |
+|  2025 |                 0.7529 |               1 |
+
+**Média Anual:** R$ 2.6795
+**Último Ano:** R$ 0.7529
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +81,8 @@
 | Lucro Líquido      | -1.094e+06  |      -1.9625e+07 |       9.7457e+07 |  2.32851e+08 |
 | FCO                | -3.4845e+07 | -102000          |      -2.704e+06  |  8.2182e+07  |
 | Capex              | -2.1924e+07 |      -1.195e+06  |      -2.3484e+07 | -2.7921e+07  |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

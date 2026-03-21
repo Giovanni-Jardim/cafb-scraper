@@ -1,6 +1,41 @@
 # Análise Fundamentalista: ALPA4
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 11.79 |
+| Nº Total de Ações | 338,380,064 |
+| LPA (TTM) | R$ 0.79 |
+| VPA | R$ 4.90 |
+| Dividend Yield | 549.00% |
+| Proventos 12m | R$ 0.65 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 10.83 | -8.1% (AGUARDAR) |
+| Graham | R$ 9.34 | -20.8% (VENDA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.2717 |               1 |
+|  2022 |                 0.163  |               1 |
+|  2025 |                 1.9013 |               3 |
+
+**Média Anual:** R$ 0.7787
+**Último Ano:** R$ 1.9013
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +80,8 @@
 | Lucro Líquido      |   1.97251e+08 |   8.6956e+07 |   1.1242e+08  |   2.053e+06  |   5.7253e+07  | nan          |
 | FCO                |   1.02923e+08 |   6.4286e+07 |   1.66706e+08 |   8.9247e+07 |   2.69433e+08 | nan          |
 | Capex              |  -8.426e+07   |  -5.4273e+07 |  -2.7476e+07  |  -7.8143e+07 |  -4.5829e+07  | nan          |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

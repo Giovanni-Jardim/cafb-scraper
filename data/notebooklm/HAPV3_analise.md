@@ -1,6 +1,37 @@
 # Análise Fundamentalista: HAPV3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 8.96 |
+| Nº Total de Ações | 474,830,071 |
+| LPA (TTM) | R$ -0.61 |
+| VPA | R$ 98.26 |
+
+
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.9372 |               5 |
+
+**Média Anual:** R$ 0.9372
+**Último Ano:** R$ 0.9372
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +76,8 @@
 | Lucro Líquido      |  8.7109e+07  |  -3.31511e+08 |  1.85897e+08 | -2.52345e+08 | -8.1467e+07  | nan         |
 | FCO                |  2.78644e+08 |   6.39325e+08 |  8.85056e+08 |  5.61951e+08 |  7.23783e+08 | nan         |
 | Capex              | -4.2645e+07  | nan           | -1.98646e+08 | -1.538e+06   | -8.8844e+07  |  -9.764e+07 |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

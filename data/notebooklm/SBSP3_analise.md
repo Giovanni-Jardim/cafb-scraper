@@ -1,6 +1,44 @@
 # Análise Fundamentalista: SBSP3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 148.50 |
+| Nº Total de Ações | 702,481,413 |
+| LPA (TTM) | R$ 12.36 |
+| VPA | R$ 60.46 |
+| Dividend Yield | 56.00% |
+| Proventos 12m | R$ 0.83 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 13.83 | -90.7% (VENDA) |
+| Graham | R$ 129.67 | -12.7% (AGUARDAR) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.3858 |               1 |
+|  2022 |                 0.9141 |               1 |
+|  2023 |                 1.2373 |               1 |
+|  2024 |                 1.3967 |               1 |
+|  2025 |                 6.2569 |               2 |
+|  2026 |                 0.8334 |               1 |
+
+**Média Anual:** R$ 1.8374
+**Último Ano:** R$ 0.8334
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +83,8 @@
 | Lucro Líquido      |   2.98222e+09 |  3.24086e+09 |  1.23062e+09 |  9.33367e+09 |  1.75467e+09 |
 | FCO                |   9.06751e+08 |  3.17327e+09 |  2.66441e+09 |  1.57011e+09 |  1.77262e+09 |
 | Capex              | nan           | -3.78337e+09 | -3.7991e+07  | -4.21071e+09 | -1.72285e+09 |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

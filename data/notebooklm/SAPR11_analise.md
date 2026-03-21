@@ -1,6 +1,44 @@
 # Análise Fundamentalista: SAPR11
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 42.67 |
+| Nº Total de Ações | 302,241,103 |
+| LPA (TTM) | R$ 0.81 |
+| VPA | R$ 40.85 |
+| Dividend Yield | 259.00% |
+| Proventos 12m | R$ 1.10 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 18.33 | -57.0% (VENDA) |
+| Graham | R$ 27.27 | -36.1% (VENDA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.9944 |               2 |
+|  2022 |                 1.1614 |               3 |
+|  2023 |                 1.8333 |               2 |
+|  2024 |                 1.3653 |               2 |
+|  2025 |                 2.2084 |               2 |
+|  2026 |                 0.5524 |               1 |
+
+**Média Anual:** R$ 1.3525
+**Último Ano:** R$ 0.5524
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +83,8 @@
 | Lucro Líquido      |  3.61326e+08 |  2.46401e+08 |  2.63848e+08 |  1.20799e+09 |   4.1287e+08  |      nan |      nan |
 | FCO                |  6.54349e+08 |  4.97772e+09 |  6.94636e+08 |  7.33674e+08 |   7.13709e+08 |      nan |      nan |
 | Capex              | -7.73378e+08 | -7.56684e+08 | -6.00217e+08 | -4.85139e+08 |  -5.34566e+08 |      nan |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

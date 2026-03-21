@@ -1,6 +1,39 @@
 # Análise Fundamentalista: MOTV3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 14.77 |
+| Nº Total de Ações | 2,010,925,355 |
+| LPA (TTM) | R$ 1.45 |
+| VPA | R$ 7.85 |
+| Dividend Yield | 141.00% |
+| Proventos 12m | R$ 0.21 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 3.50 | -76.3% (VENDA) |
+| Graham | R$ 16.01 | +8.4% (AGUARDAR) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2025 |                 0.3257 |               2 |
+
+**Média Anual:** R$ 0.3257
+**Último Ano:** R$ 0.3257
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +78,8 @@
 | Lucro Líquido      |  6.50658e+08 |  8.84434e+08 |  5.49283e+08 |  2.29936e+08 |  4.5837e+08  |      nan |
 | FCO                | -1.36968e+08 |  1.80128e+09 |  1.25213e+09 |  1.92125e+09 |  2.04378e+09 |      nan |
 | Capex              | -2.16176e+09 | -1.54683e+09 | -3.91319e+09 | -2.05183e+09 | -1.79069e+09 |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

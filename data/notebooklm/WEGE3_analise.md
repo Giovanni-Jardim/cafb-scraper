@@ -1,6 +1,43 @@
 # Análise Fundamentalista: WEGE3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 45.96 |
+| Nº Total de Ações | 4,195,711,450 |
+| LPA (TTM) | R$ 1.52 |
+| VPA | R$ 4.15 |
+| Dividend Yield | 87.00% |
+| Proventos 12m | R$ 0.40 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 6.67 | -85.5% (VENDA) |
+| Graham | R$ 11.91 | -74.1% (VENDA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.423  |               6 |
+|  2022 |                 0.5157 |               6 |
+|  2023 |                 0.6148 |               6 |
+|  2024 |                 0.7558 |               6 |
+|  2025 |                 2.4506 |               7 |
+
+**Média Anual:** R$ 0.9520
+**Último Ano:** R$ 2.4506
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -43,3 +80,8 @@
 | Lucro Líquido    |  2.06444e+09 |  2.02943e+09 |  1.98349e+09 |  2.19885e+09 |  2.07729e+09 |      nan |
 | FCO              |  2.2127e+09  |  1.4263e+09  |  5.40543e+08 |  2.58199e+09 |  1.59147e+09 |      nan |
 | Capex            | -8.14095e+08 | -5.83401e+08 | -6.21241e+08 | -6.72386e+08 | -4.34871e+08 |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

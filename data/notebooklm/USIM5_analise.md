@@ -1,6 +1,40 @@
 # Análise Fundamentalista: USIM5
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 6.31 |
+| Nº Total de Ações | 528,142,371 |
+| LPA (TTM) | R$ -2.50 |
+| VPA | R$ 16.91 |
+
+
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 1.4257 |               4 |
+|  2022 |                 0.6291 |               1 |
+|  2023 |                 0.3288 |               1 |
+|  2024 |                 0.2831 |               1 |
+
+**Média Anual:** R$ 0.6667
+**Último Ano:** R$ 0.2831
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +79,8 @@
 | Lucro Líquido      |   1.28682e+08 |  1.27623e+08 |  3.36999e+08 | -1.17179e+08 |  1.84625e+08 | nan         |
 | FCO                |   1.1167e+09  |  6.15308e+08 | -4.3068e+08  |  1.21473e+08 |  5.17723e+08 | nan         |
 | Capex              |  -3.52768e+08 | -3.33842e+08 | -2.18639e+08 | -2.94244e+08 | -2.01628e+08 | nan         |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

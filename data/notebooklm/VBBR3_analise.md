@@ -1,6 +1,43 @@
 # Análise Fundamentalista: VBBR3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 29.09 |
+| Nº Total de Ações | 1,192,553,840 |
+| LPA (TTM) | R$ 1.77 |
+| VPA | R$ 17.28 |
+| Dividend Yield | 609.00% |
+| Proventos 12m | R$ 1.77 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 29.50 | +1.4% (AGUARDAR) |
+| Graham | R$ 26.23 | -9.8% (AGUARDAR) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 1.8999 |               3 |
+|  2022 |                 0.7993 |               3 |
+|  2023 |                 0.7774 |               2 |
+|  2024 |                 1.466  |               4 |
+|  2025 |                 1.5275 |               3 |
+
+**Média Anual:** R$ 1.2940
+**Último Ano:** R$ 1.5275
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -44,3 +81,8 @@
 | Lucro Líquido    |  6.79e+08  |      nan |  2.92e+08 |  6.01e+08 |  5.1e+08   |  4.201e+09 |      nan |
 | FCO              |  1.405e+09 |      nan |  8.08e+08 |  9.45e+08 |  1.366e+09 |  1.978e+09 |      nan |
 | Capex            | -3.59e+08  |      nan | -3.23e+08 | -4.58e+08 | -4.17e+08  | -2.4e+08   |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

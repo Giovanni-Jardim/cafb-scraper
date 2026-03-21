@@ -1,6 +1,43 @@
 # Análise Fundamentalista: ASAI3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 7.36 |
+| Nº Total de Ações | 1,341,708,018 |
+| LPA (TTM) | R$ 0.68 |
+| VPA | R$ 4.13 |
+| Dividend Yield | 162.00% |
+| Proventos 12m | R$ 0.12 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 2.00 | -72.8% (VENDA) |
+| Graham | R$ 7.95 | +8.0% (AGUARDAR) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.1103 |               2 |
+|  2022 |                 0.1621 |               2 |
+|  2023 |                 0.05   |               1 |
+|  2025 |                 0.1072 |               2 |
+|  2026 |                 0.1043 |               1 |
+
+**Média Anual:** R$ 0.1068
+**Último Ano:** R$ 0.1043
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +82,8 @@
 | Lucro Líquido      |  1.52e+08  |  2.19e+08 |  1.17e+08 |  4.3e+08   |  1.56e+08 |      nan |
 | FCO                |  1.578e+09 |  9.86e+08 |  3.96e+08 |  3.113e+09 |  1.27e+09 |      nan |
 | Capex              | -2.05e+08  | -1.83e+08 | -3.09e+08 | -4.6e+08   | -3.58e+08 |      nan |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.

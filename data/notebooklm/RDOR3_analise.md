@@ -1,6 +1,43 @@
 # Análise Fundamentalista: RDOR3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
+**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+
+## 📊 Dados de Mercado
+
+| Métrica | Valor |
+|---------|-------|
+| Cotação Atual | R$ 37.23 |
+| Nº Total de Ações | 2,202,515,735 |
+| LPA (TTM) | R$ 2.13 |
+| VPA | R$ 8.77 |
+| Dividend Yield | 897.00% |
+| Proventos 12m | R$ 3.34 |
+
+### Valuation
+
+| Método | Preço Calculado | Margem Segurança |
+|--------|-----------------|------------------|
+| Bazin (6%) | R$ 55.67 | +49.5% (COMPRA) |
+| Graham | R$ 20.50 | -44.9% (VENDA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 1.4595 |               5 |
+|  2022 |                 0.5038 |               4 |
+|  2023 |                 0.3693 |               2 |
+|  2024 |                 0.6477 |               4 |
+|  2025 |                 4.2927 |               4 |
+
+**Média Anual:** R$ 1.4546
+**Último Ano:** R$ 4.2927
+
+---
+
+## 📈 Indicadores Fundamentalistas
 
 ### Últimos 4 Trimestres
 
@@ -45,3 +82,8 @@
 | Lucro Líquido      |     -1.70077e+08 |  1.19977e+09 |  1.34449e+09 |   1.14095e+09 |  1.52553e+09 | nan           |
 | FCO                |     -2.89558e+09 |  6.48838e+08 |  2.41924e+09 |   2.02517e+09 |  2.81211e+09 | nan           |
 | Capex              | -77000           | -6.78768e+08 | -6.75163e+08 | nan           | -7.819e+08   |  -6.91231e+08 |
+
+
+---
+
+**Disclaimer:** Análise baseada em dados públicos do Yahoo Finance. Não constitui recomendação de investimento.
