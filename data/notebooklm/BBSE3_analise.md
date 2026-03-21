@@ -1,6 +1,6 @@
 # Análise Fundamentalista: BBSE3
 
-## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 20/03/2026)
+## Resumo Executivo (Fonte: Yahoo Finance | Gerado: 21/03/2026)
 
 ### Últimos 4 Trimestres
 

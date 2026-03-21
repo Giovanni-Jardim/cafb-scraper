@@ -1,0 +1,15 @@
+{
+  "quoteType": "NONE",
+  "symbol": "NTCO3.SA",
+  "language": "en-US",
+  "region": "US",
+  "triggerable": false,
+  "customPriceAlertConfidence": "NONE",
+  "tradeable": false,
+  "cryptoTradeable": false,
+  "corporateActions": [],
+  "esgPopulated": false,
+  "hasPrePostMarketData": false,
+  "financialCurrency": "BRL",
+  "trailingPegRatio": null
+}
