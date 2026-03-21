@@ -4,7 +4,8 @@ import asyncio
 from dataclasses import dataclass, field
 from decimal import Decimal
 from pathlib import Path
-from typing import Dict, List, Optional, Any
+from typing import Dict, List, Optional, Any, Tuple
+from datetime import datetime, timedelta
 
 import pandas as pd
 import yfinance as yf
@@ -13,12 +14,11 @@ from tenacity import retry, stop_after_attempt, wait_exponential
 
 @dataclass
 class Demonstrativo:
-    tipo: str  # 'bp', 'dre', 'dfc', 'mercado' (NOVO)
+    tipo: str  # 'bp', 'dre', 'dfc', 'mercado', 'dividendos' (NOVO)
     ticker: str
     trimestres: List[str]
     contas: Dict[str, List[Optional[float]]]
     unidade: str
-    # NOVO: Metadados extras para dados de mercado
     metadata: Dict[str, Any] = field(default_factory=dict)
 
     def to_dataframe(self) -> pd.DataFrame:
@@ -29,20 +29,27 @@ class Demonstrativo:
 
 @dataclass
 class MarketData:
-    """Estrutura auxiliar para dados de mercado (não salva no Demonstrativo diretamente)"""
+    """Estrutura auxiliar para dados de mercado"""
     cotacao: Optional[Decimal] = None
     dividend_yield: Optional[float] = None  # %
     dividend_rate: Optional[Decimal] = None  # R$ por ação
-    shares_outstanding: Optional[int] = None
+    shares_outstanding: Optional[int] = None  # Número total de ações
     eps_ttm: Optional[Decimal] = None  # LPA
     book_value_per_share: Optional[Decimal] = None  # VPA
     market_cap: Optional[Decimal] = None
 
 
+@dataclass
+class DividendoHistorico:
+    """Estrutura para histórico de dividendos"""
+    data: datetime
+    valor: Decimal
+    tipo: str  # 'DIVIDENDO', 'JCP', 'OUTRO'
+
+
 class YahooFinanceScraper:
     """
-    Scraper de dados fundamentalistas E de mercado via Yahoo Finance.
-    Agora inclui dados para cálculos Bazin (Preço Teto) e Graham (Preço Justo).
+    Scraper de dados fundamentalistas, de mercado E histórico de dividendos.
     """
 
     TIPO_MAP = {
@@ -96,7 +103,7 @@ class YahooFinanceScraper:
         "Depreciation And Amortization": "Depreciação e Amortização",
         "Change In Working Capital": "Variação do Capital de Giro",
         
-        # NOVOS: Dados de mercado mapeados como "contas" para padronização
+        # Dados de mercado
         "currentPrice": "Cotação Atual",
         "dividendYield": "Dividend Yield",
         "dividendRate": "Dividendo por Ação",
@@ -130,7 +137,7 @@ class YahooFinanceScraper:
     def _extract_market_data(self, info: Dict[str, Any]) -> MarketData:
         """
         Extrai dados de mercado do dict info do Yahoo.
-        Usado para cálculos Bazin e Graham.
+        INCLUI: Cotação, DY, Dividendo, Número de Ações, LPA, VPA
         """
         def safe_decimal(val) -> Optional[Decimal]:
             if val is None or val == 'N/A' or pd.isna(val):
@@ -163,7 +170,7 @@ class YahooFinanceScraper:
             cotacao=safe_decimal(info.get('currentPrice') or info.get('regularMarketPrice')),
             dividend_yield=dy * 100 if dy else None,  # Converte para %
             dividend_rate=safe_decimal(info.get('dividendRate')),
-            shares_outstanding=safe_int(info.get('sharesOutstanding')),
+            shares_outstanding=safe_int(info.get('sharesOutstanding')),  # NÚMERO TOTAL DE AÇÕES
             eps_ttm=safe_decimal(info.get('trailingEps')),
             book_value_per_share=safe_decimal(info.get('bookValue')),
             market_cap=safe_decimal(info.get('marketCap')),
@@ -174,16 +181,10 @@ class YahooFinanceScraper:
         market: MarketData, 
         ticker: str
     ) -> Demonstrativo:
-        """
-        Converte MarketData para Demonstrativo (formato padronizado).
-        Isso permite que dados de mercado fluam pelo mesmo pipeline dos fundamentalistas.
-        """
-        # Data atual como "trimestre"
-        from datetime import datetime
+        """Converte MarketData para Demonstrativo."""
         hoje = datetime.now()
         tri = f"{((hoje.month - 1) // 3) + 1}T{hoje.year}"
         
-        # Monta contas com valores (ou None se não disponível)
         contas = {
             "Cotação Atual": [float(market.cotacao) if market.cotacao else None],
             "Dividend Yield (%)": [market.dividend_yield],
@@ -194,15 +195,14 @@ class YahooFinanceScraper:
             "Valor de Mercado": [float(market.market_cap) if market.market_cap else None],
         }
         
-        # Remove Nones para limpeza
         contas_limpo = {k: v for k, v in contas.items() if v[0] is not None}
         
         return Demonstrativo(
-            tipo="mercado",  # NOVO tipo
+            tipo="mercado",
             ticker=ticker.replace(".SA", ""),
             trimestres=[tri],
             contas=contas_limpo,
-            unidade="moeda",  # Valores absolutos, não em milhões
+            unidade="moeda",
             metadata={
                 "tipo_dado": "bazin_graham",
                 "data_extracao": hoje.isoformat(),
@@ -210,6 +210,88 @@ class YahooFinanceScraper:
                 "calculos_sugeridos": ["preco_teto_bazin", "preco_justo_graham"]
             }
         )
+
+    def _extract_historico_dividendos(
+        self, 
+        ticker_obj: yf.Ticker, 
+        ticker: str,
+        anos: int = 5
+    ) -> Optional[Demonstrativo]:
+        """
+        NOVO: Extrai histórico de dividendos dos últimos N anos.
+        Retorna Demonstrativo com dados anuais de dividendos.
+        """
+        try:
+            # Busca ações corporativas (dividendos e splits)
+            actions = ticker_obj.actions
+            
+            if actions is None or actions.empty:
+                print(f"⚠️ Sem histórico de dividendos para {ticker}")
+                return None
+            
+            # Filtra apenas dividendos (não splits)
+            # Colunas típicas: Dividends, Stock Splits
+            if 'Dividends' not in actions.columns:
+                print(f"⚠️ Coluna 'Dividends' não encontrada para {ticker}")
+                return None
+            
+            divs = actions[actions['Dividends'] > 0]['Dividends']
+            
+            if divs.empty:
+                print(f"⚠️ Nenhum dividendo encontrado para {ticker}")
+                return None
+            
+            # Agrupa por ano
+            divs_df = divs.reset_index()
+            divs_df.columns = ['data', 'valor']
+            divs_df['data'] = pd.to_datetime(divs_df['data'])
+            divs_df['ano'] = divs_df['data'].dt.year
+            
+            # Filtra últimos N anos
+            ano_atual = datetime.now().year
+            divs_df = divs_df[divs_df['ano'] >= (ano_atual - anos)]
+            
+            # Agrupa por ano somando dividendos
+            anual = divs_df.groupby('ano')['valor'].sum().reset_index()
+            
+            # Cria estrutura de Demonstrativo
+            anos_list = [f"{int(row['ano'])}" for _, row in anual.iterrows()]
+            valores_list = [float(row['valor']) for _, row in anual.iterrows()]
+            
+            # Calcula média, tendência, etc.
+            media = sum(valores_list) / len(valores_list) if valores_list else 0
+            cagr = 0
+            if len(valores_list) >= 2 and valores_list[0] > 0:
+                cagr = ((valores_list[-1] / valores_list[0]) ** (1 / (len(valores_list) - 1)) - 1) * 100
+            
+            contas = {
+                "Dividendo Total Anual": valores_list,
+                "Media Anual": [media] * len(anos_list),
+                "CAGR (%)": [cagr] * len(anos_list),
+            }
+            
+            # Adiciona contagem de pagamentos por ano
+            pagamentos_por_ano = divs_df.groupby('ano').size().tolist()
+            contas["Quantidade de Pagamentos"] = [float(x) for x in pagamentos_por_ano]
+            
+            return Demonstrativo(
+                tipo="dividendos",
+                ticker=ticker.replace(".SA", ""),
+                trimestres=anos_list,
+                contas=contas,
+                unidade="moeda",
+                metadata={
+                    "tipo_dado": "historico_dividendos",
+                    "anos_coletados": len(anos_list),
+                    "periodo": f"{anos_list[0]}-{anos_list[-1]}" if anos_list else "",
+                    "total_pagamentos": len(divs_df),
+                    "fonte": "yahoo_finance_actions"
+                }
+            )
+            
+        except Exception as e:
+            print(f"❌ Erro ao extrair histórico de dividendos para {ticker}: {e}")
+            return None
 
     def _convert_to_demonstrativo(
         self, 
@@ -272,7 +354,7 @@ class YahooFinanceScraper:
         )
 
     def _save_raw(self, df: Optional[pd.DataFrame], ticker: str, tipo: str, data: Dict = None) -> None:
-        """Salva dados brutos para debug (DataFrame ou dict)."""
+        """Salva dados brutos para debug."""
         if df is not None:
             path = self.cache_dir / f"{ticker}_{tipo}.csv"
             df.to_csv(path)
@@ -286,15 +368,19 @@ class YahooFinanceScraper:
         self, 
         ticker: str, 
         tipos: List[str] | None = None,
-        incluir_mercado: bool = True  # NOVO parâmetro
+        incluir_mercado: bool = True,
+        incluir_dividendos: bool = True,  # NOVO parâmetro
+        anos_dividendos: int = 5  # NOVO: quantos anos de histórico
     ) -> Dict[str, Demonstrativo]:
         """
-        Extrai demonstrativos E dados de mercado do Yahoo Finance.
+        Extrai demonstrativos, dados de mercado E histórico de dividendos.
         
         Args:
             ticker: Código da ação (PETR4, VALE3)
             tipos: Lista de demonstrativos ['bp', 'dre', 'dfc']
-            incluir_mercado: Se True, inclui dados para Bazin/Graham
+            incluir_mercado: Se True, inclui dados para Bazin/Graham (cotação, número de ações, etc)
+            incluir_dividendos: Se True, inclui histórico de dividendos dos últimos N anos
+            anos_dividendos: Quantos anos de histórico de dividendos buscar (padrão: 5)
         """
         tipos = tipos or ["bp", "dre", "dfc"]
         resultados: Dict[str, Demonstrativo] = {}
@@ -302,7 +388,7 @@ class YahooFinanceScraper:
         try:
             ticker_obj = self._fetch_ticker(ticker)
             
-            # NOVO: Extrai dados de mercado primeiro (info é mais rápido)
+            # 1. Dados de mercado (Cotação, Número de Ações, etc)
             if incluir_mercado:
                 try:
                     info = ticker_obj.info
@@ -312,14 +398,24 @@ class YahooFinanceScraper:
                     demo_mercado = self._market_data_to_demonstrativo(market_data, ticker)
                     resultados["mercado"] = demo_mercado
                     
-                    print(f"✅ Yahoo Finance: {ticker.upper()}/MERCADO "
-                          f"(Cotação: R$ {market_data.cotacao}, "
-                          f"DY: {market_data.dividend_yield:.2f}%)" if market_data.dividend_yield else "")
+                    shares_str = f"{market_data.shares_outstanding:,.0f}" if market_data.shares_outstanding else "N/A"
+                    print(f"✅ {ticker.upper()}/MERCADO | Cotação: R$ {market_data.cotacao} | Ações: {shares_str}")
                     
                 except Exception as e:
-                    print(f"⚠️ Erro ao extrair dados de mercado para {ticker}: {e}")
+                    print(f"⚠️ Erro dados de mercado para {ticker}: {e}")
             
-            # Extrai demonstrativos financeiros (BP, DRE, DFC)
+            # 2. Histórico de dividendos (NOVO)
+            if incluir_dividendos:
+                try:
+                    demo_divs = self._extract_historico_dividendos(ticker_obj, ticker, anos_dividendos)
+                    if demo_divs:
+                        resultados["dividendos"] = demo_divs
+                        total_divs = sum(demo_divs.contas.get("Dividendo Total Anual", [0]))
+                        print(f"✅ {ticker.upper()}/DIVIDENDOS | {demo_divs.metadata['anos_coletados']} anos | Total pago: R$ {total_divs:.2f}")
+                except Exception as e:
+                    print(f"⚠️ Erro histórico de dividendos para {ticker}: {e}")
+            
+            # 3. Demonstrativos financeiros (BP, DRE, DFC)
             for tipo in tipos:
                 try:
                     metodo_nome = self.TIPO_MAP[tipo]
@@ -337,7 +433,7 @@ class YahooFinanceScraper:
                     resultados[tipo] = demo
                     
                     print(
-                        f"✅ Yahoo Finance: {ticker.upper()}/{tipo.upper()} "
+                        f"✅ {ticker.upper()}/{tipo.upper()} "
                         f"({len(demo.contas)} contas x {len(demo.trimestres)} períodos)"
                     )
                     
