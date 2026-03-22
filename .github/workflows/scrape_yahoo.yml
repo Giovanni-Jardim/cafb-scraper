@@ -2,7 +2,7 @@ name: Scrape Yahoo Finance
 
 on:
   schedule:
-    - cron: '0 2 * * *'  # Todos os dias às 23h do Brasil (02:00 UTC)
+    - cron: '0 1 * * *'  # Todos os dias às 22h do Brasil (01:00 UTC)
   workflow_dispatch:
 
 permissions:
