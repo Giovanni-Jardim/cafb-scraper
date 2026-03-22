@@ -1,6 +1,6 @@
 # Análise Fundamentalista: BBSE3
 
-**Fonte:** Yahoo Finance | **Gerado:** 21/03/2026
+**Fonte:** Yahoo Finance | **Gerado:** 22/03/2026
 
 ## 📊 Dados de Mercado
 
