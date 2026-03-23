@@ -6,7 +6,7 @@
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 4.20 |
+| Cotação Atual | R$ 4.22 |
 | Nº Total de Ações | 139,210,742 |
 
 | VPA | R$ 11.47 |
@@ -17,7 +17,7 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 7.50 | +78.6% (COMPRA) |
+| Bazin (6%) | R$ 7.50 | +77.7% (COMPRA) |
 
 ---
 
