@@ -1,6 +1,6 @@
 # Análise Fundamentalista: BRKM5
 
-**Fonte:** Yahoo Finance | **Gerado:** 22/03/2026
+**Fonte:** Yahoo Finance | **Gerado:** 23/03/2026
 
 ## 📊 Dados de Mercado
 
