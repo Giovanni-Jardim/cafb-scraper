@@ -1,12 +1,12 @@
 # Análise Fundamentalista: SMTO3
 
-**Fonte:** Yahoo Finance | **Gerado:** 23/03/2026
+**Fonte:** Yahoo Finance | **Gerado:** 24/03/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 18.92 |
+| Cotação Atual | R$ 19.15 |
 | Nº Total de Ações | 322,773,291 |
 | LPA (TTM) | R$ 2.32 |
 | VPA | R$ 18.70 |
@@ -17,8 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 15.17 | -19.8% (VENDA) |
-| Graham | R$ 31.25 | +65.2% (COMPRA) |
+| Bazin (6%) | R$ 15.17 | -20.8% (VENDA) |
+| Graham | R$ 31.25 | +63.2% (COMPRA) |
 
 ---
 
