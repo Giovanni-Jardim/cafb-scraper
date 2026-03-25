@@ -1,12 +1,12 @@
 # Análise Fundamentalista: CBAV3
 
-**Fonte:** Yahoo Finance | **Gerado:** 24/03/2026
+**Fonte:** Yahoo Finance | **Gerado:** 25/03/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 10.31 |
+| Cotação Atual | R$ 10.27 |
 | Nº Total de Ações | 651,072,697 |
 | LPA (TTM) | R$ 0.19 |
 | VPA | R$ 6.59 |
@@ -17,7 +17,7 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Graham | R$ 5.31 | -48.5% (VENDA) |
+| Graham | R$ 5.31 | -48.3% (VENDA) |
 
 ---
 
