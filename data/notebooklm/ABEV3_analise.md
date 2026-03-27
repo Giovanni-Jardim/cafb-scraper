@@ -1,24 +1,24 @@
 # Análise Fundamentalista: ABEV3
 
-**Fonte:** Yahoo Finance | **Gerado:** 26/03/2026
+**Fonte:** Yahoo Finance | **Gerado:** 27/03/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 15.01 |
+| Cotação Atual | R$ 14.83 |
 | Nº Total de Ações | 15,616,768,230 |
 | LPA (TTM) | R$ 0.99 |
 | VPA | R$ 5.63 |
-| Dividend Yield | 1623.00% |
+| Dividend Yield | 1590.00% |
 | Proventos 12m | R$ 2.39 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 39.83 | +165.4% (COMPRA) |
-| Graham | R$ 11.20 | -25.4% (VENDA) |
+| Bazin (6%) | R$ 39.83 | +168.6% (COMPRA) |
+| Graham | R$ 11.20 | -24.5% (VENDA) |
 
 ---
 

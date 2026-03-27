@@ -1,12 +1,12 @@
 # Análise Fundamentalista: NEOE3
 
-**Fonte:** Yahoo Finance | **Gerado:** 26/03/2026
+**Fonte:** Yahoo Finance | **Gerado:** 27/03/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 33.25 |
+| Cotação Atual | R$ 33.29 |
 | Nº Total de Ações | 1,213,797,248 |
 | LPA (TTM) | R$ 4.14 |
 | VPA | R$ 30.03 |
@@ -17,8 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 24.33 | -26.8% (VENDA) |
-| Graham | R$ 52.89 | +59.1% (COMPRA) |
+| Bazin (6%) | R$ 24.33 | -26.9% (VENDA) |
+| Graham | R$ 52.89 | +58.9% (COMPRA) |
 
 ---
 
