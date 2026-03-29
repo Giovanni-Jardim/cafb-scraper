@@ -1,6 +1,6 @@
 # Análise Fundamentalista: PETR3
 
-**Fonte:** Yahoo Finance | **Gerado:** 28/03/2026
+**Fonte:** Yahoo Finance | **Gerado:** 29/03/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 7,442,231,382 |
 | LPA (TTM) | R$ 8.17 |
 | VPA | R$ 32.26 |
-| Dividend Yield | 732.00% |
+| Dividend Yield | 720.00% |
 | Proventos 12m | R$ 3.91 |
 
 ### Valuation

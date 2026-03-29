@@ -1,6 +1,6 @@
 # Análise Fundamentalista: VBBR3
 
-**Fonte:** Yahoo Finance | **Gerado:** 28/03/2026
+**Fonte:** Yahoo Finance | **Gerado:** 29/03/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 1,192,553,840 |
 | LPA (TTM) | R$ 1.78 |
 | VPA | R$ 17.28 |
-| Dividend Yield | 591.00% |
+| Dividend Yield | 602.00% |
 | Proventos 12m | R$ 1.86 |
 
 ### Valuation
@@ -31,10 +31,9 @@
 |  2023 |                 0.7774 |               2 |
 |  2024 |                 1.466  |               4 |
 |  2025 |                 1.5275 |               3 |
-|  2026 |                 0.33   |               1 |
 
-**Média Anual:** R$ 1.1333
-**Último Ano:** R$ 0.3300
+**Média Anual:** R$ 1.2940
+**Último Ano:** R$ 1.5275
 
 ---
 
