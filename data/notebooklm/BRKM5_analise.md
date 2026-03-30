@@ -6,10 +6,10 @@
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 9.05 |
+| Cotação Atual | R$ 9.00 |
 | Nº Total de Ações | 345,060,365 |
 | LPA (TTM) | R$ -12.39 |
-| VPA | R$ -4.43 |
+| VPA | R$ -20.26 |
 
 
 
