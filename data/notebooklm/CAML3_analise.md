@@ -1,6 +1,6 @@
 # Análise Fundamentalista: CAML3
 
-**Fonte:** Yahoo Finance | **Gerado:** 29/03/2026
+**Fonte:** Yahoo Finance | **Gerado:** 30/03/2026
 
 ## 📊 Dados de Mercado
 
