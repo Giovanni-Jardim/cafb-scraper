@@ -1,6 +1,6 @@
 # Análise Fundamentalista: CPFE3
 
-**Fonte:** Yahoo Finance | **Gerado:** 30/03/2026
+**Fonte:** Yahoo Finance | **Gerado:** 31/03/2026
 
 ## 📊 Dados de Mercado
 

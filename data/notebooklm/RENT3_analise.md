@@ -1,6 +1,6 @@
 # Análise Fundamentalista: RENT3
 
-**Fonte:** Yahoo Finance | **Gerado:** 30/03/2026
+**Fonte:** Yahoo Finance | **Gerado:** 31/03/2026
 
 ## 📊 Dados de Mercado
 
@@ -31,9 +31,10 @@
 |  2023 |                 1.5026 |               4 |
 |  2024 |                 1.5849 |               4 |
 |  2025 |                 1.9934 |               4 |
+|  2026 |                 0.5221 |               1 |
 
-**Média Anual:** R$ 1.3660
-**Último Ano:** R$ 1.9934
+**Média Anual:** R$ 1.2254
+**Último Ano:** R$ 0.5221
 
 ---
 

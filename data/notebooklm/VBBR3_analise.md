@@ -1,6 +1,6 @@
 # Análise Fundamentalista: VBBR3
 
-**Fonte:** Yahoo Finance | **Gerado:** 30/03/2026
+**Fonte:** Yahoo Finance | **Gerado:** 31/03/2026
 
 ## 📊 Dados de Mercado
 
@@ -31,9 +31,10 @@
 |  2023 |                 0.7774 |               2 |
 |  2024 |                 1.466  |               4 |
 |  2025 |                 1.5275 |               3 |
+|  2026 |                 0.33   |               1 |
 
-**Média Anual:** R$ 1.2940
-**Último Ano:** R$ 1.5275
+**Média Anual:** R$ 1.1333
+**Último Ano:** R$ 0.3300
 
 ---
 

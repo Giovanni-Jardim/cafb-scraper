@@ -1,6 +1,6 @@
 # Análise Fundamentalista: RDOR3
 
-**Fonte:** Yahoo Finance | **Gerado:** 30/03/2026
+**Fonte:** Yahoo Finance | **Gerado:** 31/03/2026
 
 ## 📊 Dados de Mercado
 
@@ -31,9 +31,10 @@
 |  2023 |                 0.3693 |               2 |
 |  2024 |                 0.6477 |               4 |
 |  2025 |                 4.2927 |               4 |
+|  2026 |                 0.1591 |               1 |
 
-**Média Anual:** R$ 1.4546
-**Último Ano:** R$ 4.2927
+**Média Anual:** R$ 1.2387
+**Último Ano:** R$ 0.1591
 
 ---
 

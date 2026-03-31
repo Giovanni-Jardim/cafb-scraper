@@ -1,6 +1,6 @@
 # Análise Fundamentalista: TOTS3
 
-**Fonte:** Yahoo Finance | **Gerado:** 30/03/2026
+**Fonte:** Yahoo Finance | **Gerado:** 31/03/2026
 
 ## 📊 Dados de Mercado
 
@@ -31,9 +31,10 @@
 |  2023 |                 0.65   |               3 |
 |  2024 |                 0.45   |               2 |
 |  2025 |                 0.61   |               4 |
+|  2026 |                 0.18   |               1 |
 
-**Média Anual:** R$ 0.4239
-**Último Ano:** R$ 0.6100
+**Média Anual:** R$ 0.3833
+**Último Ano:** R$ 0.1800
 
 ---
 
