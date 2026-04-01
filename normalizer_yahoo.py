@@ -37,7 +37,7 @@ class DadosMercado:
     shares_outstanding: Optional[int] = None  # Número total de ações
     lpa: Optional[Decimal] = None  # Lucro Por Ação (TTM)
     vpa: Optional[Decimal] = None  # Valor Patrimonial por Ação
-    dividend_yield: Optional[float] = None
+    dividend_yield: Optional[Decimal] = None
     dividendo_12m: Optional[Decimal] = None
     preco_teto_bazin: Optional[Decimal] = None
     preco_justo_graham: Optional[Decimal] = None
@@ -97,7 +97,7 @@ class DemonstrativoNormalizer:
             if val is None or val == 'N/A' or pd.isna(val):
                 return None
             try:
-                return Decimal(str(float(val)))
+                return Decimal(str(val).replace(',', ''))
             except:
                 return None
         
@@ -123,9 +123,10 @@ class DemonstrativoNormalizer:
         lpa = safe_decimal(info.get('trailingEps'))
         vpa = safe_decimal(info.get('bookValue'))
         
-        dy = safe_float(info.get('dividendYield'))
-        if dy:
-            dy = dy * 100  # Converte para %
+        dy_raw = info.get('dividendYield')
+        dy = safe_decimal(dy_raw)
+        if dy is not None:
+            dy = dy * Decimal('100')  # Converte para %
         
         div_rate = safe_decimal(info.get('dividendRate'))
         
