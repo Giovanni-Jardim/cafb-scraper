@@ -18,7 +18,7 @@ class CalculosBazinGraham:
     # Inputs
     cotacao: Optional[Decimal] = None
     dividendo_por_acao: Optional[Decimal] = None
-    dividend_yield: Optional[float] = None
+    dividend_yield: Optional[Decimal] = None
     lpa: Optional[Decimal] = None
     vpa: Optional[Decimal] = None
     shares_outstanding: Optional[int] = None  # Número total de ações
