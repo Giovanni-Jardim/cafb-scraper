@@ -31,7 +31,7 @@ class Demonstrativo:
 class MarketData:
     """Estrutura auxiliar para dados de mercado"""
     cotacao: Optional[Decimal] = None
-    dividend_yield: Optional[float] = None  # %
+    dividend_yield: Optional[Decimal] = None  # %
     dividend_rate: Optional[Decimal] = None  # R$ por ação
     shares_outstanding: Optional[int] = None  # Número total de ações
     eps_ttm: Optional[Decimal] = None  # LPA
@@ -143,7 +143,7 @@ class YahooFinanceScraper:
             if val is None or val == 'N/A' or pd.isna(val):
                 return None
             try:
-                return Decimal(str(float(val)))
+                return Decimal(str(val).replace(',', ''))
             except:
                 return None
         
@@ -164,11 +164,11 @@ class YahooFinanceScraper:
                 return None
         
         # Dividend Yield do Yahoo vem como decimal (0.10 = 10%)
-        dy = safe_float(info.get('dividendYield'))
+        dy = safe_decimal(info.get('dividendYield'))
         
         return MarketData(
             cotacao=safe_decimal(info.get('currentPrice') or info.get('regularMarketPrice')),
-            dividend_yield=dy * 100 if dy else None,  # Converte para %
+            dividend_yield=(dy * Decimal('100')) if dy is not None else None,  # Converte para %
             dividend_rate=safe_decimal(info.get('dividendRate')),
             shares_outstanding=safe_int(info.get('sharesOutstanding')),  # NÚMERO TOTAL DE AÇÕES
             eps_ttm=safe_decimal(info.get('trailingEps')),
