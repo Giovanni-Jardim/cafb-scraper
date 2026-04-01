@@ -6,11 +6,11 @@
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 4.85 |
+| Cotação Atual | R$ 4.84 |
 | Nº Total de Ações | 907,647,487 |
 
 | VPA | R$ 7.54 |
-| Dividend Yield | 102.00% |
+| Dividend Yield | 1.02% |
 | Proventos 12m | R$ 0.05 |
 
 ### Valuation

@@ -6,11 +6,11 @@
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 30.93 |
+| Cotação Atual | R$ 30.94 |
 | Nº Total de Ações | 499,179,829 |
 | LPA (TTM) | R$ 1.64 |
 | VPA | R$ 26.34 |
-| Dividend Yield | 877.00% |
+| Dividend Yield | 8.77% |
 | Proventos 12m | R$ 2.66 |
 
 ### Valuation

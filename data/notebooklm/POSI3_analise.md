@@ -10,7 +10,7 @@
 | Nº Total de Ações | 139,210,742 |
 | LPA (TTM) | R$ 0.06 |
 | VPA | R$ 11.32 |
-| Dividend Yield | 1106.00% |
+| Dividend Yield | 11.06% |
 | Proventos 12m | R$ 0.45 |
 
 ### Valuation
