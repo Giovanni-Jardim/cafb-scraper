@@ -12,6 +12,21 @@ import math
 import numpy as np
 import pandas as pd
 
+
+def normalize_dividend_yield_percent(val):
+    """
+    Normaliza dividendYield para percentual.
+    Yahoo pode retornar tanto fração (0.1381 => 13.81%) quanto percentual (13.81).
+    Regra: valores <= 1 são tratados como fração; acima disso, como percentual já pronto.
+    """
+    if val is None or val == 'N/A' or pd.isna(val):
+        return None
+    try:
+        dy = Decimal(str(val).replace(',', ''))
+        return (dy * Decimal('100')) if dy <= Decimal('1') else dy
+    except:
+        return None
+
 from yahoo_finance_scraper import Demonstrativo, YahooFinanceScraper
 
 
@@ -123,10 +138,7 @@ class DemonstrativoNormalizer:
         lpa = safe_decimal(info.get('trailingEps'))
         vpa = safe_decimal(info.get('bookValue'))
         
-        dy_raw = info.get('dividendYield')
-        dy = safe_decimal(dy_raw)
-        if dy is not None:
-            dy = dy * Decimal('100')  # Converte para %
+        dy = normalize_dividend_yield_percent(info.get('dividendYield'))
         
         div_rate = safe_decimal(info.get('dividendRate'))
         
