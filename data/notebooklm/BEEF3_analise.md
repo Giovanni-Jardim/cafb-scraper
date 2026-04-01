@@ -1,24 +1,24 @@
 # Análise Fundamentalista: BEEF3
 
-**Fonte:** Yahoo Finance | **Gerado:** 31/03/2026
+**Fonte:** Yahoo Finance | **Gerado:** 01/04/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 4.14 |
+| Cotação Atual | R$ 4.25 |
 | Nº Total de Ações | 987,435,115 |
 | LPA (TTM) | R$ 0.69 |
 | VPA | R$ 1.33 |
-| Dividend Yield | 1617.00% |
-| Proventos 12m | R$ 0.66 |
+| Dividend Yield | 301.00% |
+| Proventos 12m | R$ 0.12 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 11.00 | +165.7% (COMPRA) |
-| Graham | R$ 4.54 | +9.7% (AGUARDAR) |
+| Bazin (6%) | R$ 2.00 | -52.9% (VENDA) |
+| Graham | R$ 4.54 | +6.9% (AGUARDAR) |
 
 ---
 

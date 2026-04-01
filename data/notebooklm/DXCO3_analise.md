@@ -1,12 +1,12 @@
 # Análise Fundamentalista: DXCO3
 
-**Fonte:** Yahoo Finance | **Gerado:** 31/03/2026
+**Fonte:** Yahoo Finance | **Gerado:** 01/04/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 4.47 |
+| Cotação Atual | R$ 4.71 |
 | Nº Total de Ações | 907,647,487 |
 
 | VPA | R$ 7.54 |
@@ -17,7 +17,7 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 0.83 | -81.4% (VENDA) |
+| Bazin (6%) | R$ 0.83 | -82.3% (VENDA) |
 
 ---
 
