@@ -6,7 +6,7 @@
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 4.84 |
+| Cotação Atual | R$ 4.85 |
 | Nº Total de Ações | 907,647,487 |
 
 | VPA | R$ 7.54 |

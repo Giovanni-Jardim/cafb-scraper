@@ -6,7 +6,7 @@
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 31.28 |
+| Cotação Atual | R$ 31.20 |
 | Nº Total de Ações | 3,735,435,525 |
 | LPA (TTM) | R$ 2.05 |
 | VPA | R$ 33.51 |
@@ -17,8 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 29.50 | -5.7% (AGUARDAR) |
-| Graham | R$ 39.28 | +25.6% (COMPRA) |
+| Bazin (6%) | R$ 29.50 | -5.4% (AGUARDAR) |
+| Graham | R$ 39.28 | +25.9% (COMPRA) |
 
 ---
 
