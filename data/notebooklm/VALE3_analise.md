@@ -1,24 +1,24 @@
 # Análise Fundamentalista: VALE3
 
-**Fonte:** Yahoo Finance | **Gerado:** 02/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 03/04/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 83.00 |
+| Cotação Atual | R$ 83.55 |
 | Nº Total de Ações | 4,269,514,353 |
-| LPA (TTM) | R$ 2.90 |
+| LPA (TTM) | R$ 2.86 |
 | VPA | R$ 43.17 |
-| Dividend Yield | 8.36% |
+| Dividend Yield | 8.31% |
 | Proventos 12m | R$ 6.90 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 115.00 | +38.6% (COMPRA) |
-| Graham | R$ 53.08 | -36.1% (VENDA) |
+| Bazin (6%) | R$ 115.00 | +37.6% (COMPRA) |
+| Graham | R$ 52.71 | -36.9% (VENDA) |
 
 ---
 
