@@ -1,6 +1,6 @@
 # Análise Fundamentalista: SMFT3
 
-**Fonte:** Yahoo Finance | **Gerado:** 03/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 04/04/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 614,213,656 |
 | LPA (TTM) | R$ 1.04 |
 | VPA | R$ 9.48 |
-| Dividend Yield | 5.68% |
+| Dividend Yield | 5.80% |
 | Proventos 12m | R$ 1.11 |
 
 ### Valuation
