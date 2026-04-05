@@ -1,6 +1,6 @@
 # Análise Fundamentalista: CURY3
 
-**Fonte:** Yahoo Finance | **Gerado:** 04/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 05/04/2026
 
 ## 📊 Dados de Mercado
 
@@ -31,10 +31,10 @@
 |  2023 |                 1.1288 |               4 |
 |  2024 |                 1.6624 |               3 |
 |  2025 |                 4.5288 |               5 |
-|  2026 |                 0.3571 |               1 |
+|  2026 |                 0.4545 |               1 |
 
-**Média Anual:** R$ 1.4590
-**Último Ano:** R$ 0.3571
+**Média Anual:** R$ 1.4752
+**Último Ano:** R$ 0.4545
 
 ---
 
