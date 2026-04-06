@@ -1,6 +1,6 @@
 # Análise Fundamentalista: USIM5
 
-**Fonte:** Yahoo Finance | **Gerado:** 05/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 06/04/2026
 
 ## 📊 Dados de Mercado
 
