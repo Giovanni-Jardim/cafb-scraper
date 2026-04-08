@@ -1,24 +1,24 @@
 # Análise Fundamentalista: BRAP4
 
-**Fonte:** Yahoo Finance | **Gerado:** 07/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 08/04/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 23.46 |
+| Cotação Atual | R$ 23.64 |
 | Nº Total de Ações | 255,106,712 |
 | LPA (TTM) | R$ 1.31 |
 | VPA | R$ 23.21 |
-| Dividend Yield | 14.91% |
+| Dividend Yield | 14.86% |
 | Proventos 12m | R$ 3.49 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 58.17 | +147.9% (COMPRA) |
-| Graham | R$ 26.16 | +11.5% (AGUARDAR) |
+| Bazin (6%) | R$ 58.17 | +146.1% (COMPRA) |
+| Graham | R$ 26.16 | +10.6% (AGUARDAR) |
 
 ---
 

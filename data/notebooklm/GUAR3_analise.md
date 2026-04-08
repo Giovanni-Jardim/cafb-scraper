@@ -1,6 +1,6 @@
 # Análise Fundamentalista: GUAR3
 
-**Fonte:** Yahoo Finance | **Gerado:** 07/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 08/04/2026
 
 ## 📊 Dados de Mercado
 
@@ -30,9 +30,10 @@
 |  2022 |                 0.1405 |               3 |
 |  2024 |                 0.1202 |               1 |
 |  2025 |                 3.0936 |               2 |
+|  2026 |                 0.0997 |               1 |
 
-**Média Anual:** R$ 0.9561
-**Último Ano:** R$ 3.0936
+**Média Anual:** R$ 0.7848
+**Último Ano:** R$ 0.0997
 
 ---
 
