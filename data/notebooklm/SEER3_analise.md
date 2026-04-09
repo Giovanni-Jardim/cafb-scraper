@@ -1,6 +1,6 @@
 # Análise Fundamentalista: SEER3
 
-**Fonte:** Yahoo Finance | **Gerado:** 08/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 09/04/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 127,614,637 |
 | LPA (TTM) | R$ 1.68 |
 | VPA | R$ 10.41 |
-| Dividend Yield | 3.54% |
+| Dividend Yield | 3.62% |
 | Proventos 12m | R$ 0.48 |
 
 ### Valuation
@@ -28,10 +28,10 @@
 |------:|-----------------------:|----------------:|
 |  2021 |                 0.3306 |               3 |
 |  2025 |                 0.1541 |               1 |
-|  2026 |                 0.4789 |               1 |
+|  2026 |                 0.4776 |               1 |
 
-**Média Anual:** R$ 0.3212
-**Último Ano:** R$ 0.4789
+**Média Anual:** R$ 0.3208
+**Último Ano:** R$ 0.4776
 
 ---
 
