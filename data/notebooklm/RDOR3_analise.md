@@ -1,24 +1,24 @@
 # Análise Fundamentalista: RDOR3
 
-**Fonte:** Yahoo Finance | **Gerado:** 10/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 11/04/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 40.99 |
+| Cotação Atual | R$ 41.40 |
 | Nº Total de Ações | 2,202,515,735 |
 | LPA (TTM) | R$ 2.12 |
 | VPA | R$ 8.77 |
-| Dividend Yield | 1.57% |
+| Dividend Yield | 1.55% |
 | Proventos 12m | R$ 0.64 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 10.67 | -74.0% (VENDA) |
-| Graham | R$ 20.45 | -50.1% (VENDA) |
+| Bazin (6%) | R$ 10.67 | -74.2% (VENDA) |
+| Graham | R$ 20.45 | -50.6% (VENDA) |
 
 ---
 

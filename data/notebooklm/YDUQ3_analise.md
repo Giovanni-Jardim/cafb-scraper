@@ -1,24 +1,24 @@
 # Análise Fundamentalista: YDUQ3
 
-**Fonte:** Yahoo Finance | **Gerado:** 10/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 11/04/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 11.85 |
+| Cotação Atual | R$ 11.51 |
 | Nº Total de Ações | 263,554,106 |
 | LPA (TTM) | R$ 0.65 |
 | VPA | R$ 11.17 |
-| Dividend Yield | 9.59% |
+| Dividend Yield | 9.62% |
 | Proventos 12m | R$ 1.14 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 19.00 | +60.3% (COMPRA) |
-| Graham | R$ 12.78 | +7.9% (AGUARDAR) |
+| Bazin (6%) | R$ 19.00 | +65.1% (COMPRA) |
+| Graham | R$ 12.78 | +11.1% (AGUARDAR) |
 
 ---
 
