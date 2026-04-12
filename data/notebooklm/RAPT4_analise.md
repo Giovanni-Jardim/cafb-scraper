@@ -1,6 +1,6 @@
 # Análise Fundamentalista: RAPT4
 
-**Fonte:** Yahoo Finance | **Gerado:** 11/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 12/04/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 222,845,833 |
 | LPA (TTM) | R$ -0.72 |
 | VPA | R$ 9.27 |
-| Dividend Yield | 83.00% |
+| Dividend Yield | 84.00% |
 | Proventos 12m | R$ 0.05 |
 
 ### Valuation
