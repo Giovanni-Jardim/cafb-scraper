@@ -1,6 +1,6 @@
 # Análise Fundamentalista: KEPL3
 
-**Fonte:** Yahoo Finance | **Gerado:** 12/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 13/04/2026
 
 ## 📊 Dados de Mercado
 
