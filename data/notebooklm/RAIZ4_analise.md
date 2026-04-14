@@ -1,6 +1,6 @@
 # Análise Fundamentalista: RAIZ4
 
-**Fonte:** Yahoo Finance | **Gerado:** 13/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 14/04/2026
 
 ## 📊 Dados de Mercado
 
@@ -17,20 +17,6 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-
----
-
-## 💰 Histórico de Proventos (Últimos Anos)
-
-|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
-|------:|-----------------------:|----------------:|
-|  2021 |                 0.0162 |               1 |
-|  2022 |                 0.1704 |               4 |
-|  2023 |                 0.2665 |               4 |
-|  2024 |                 0.0162 |               1 |
-
-**Média Anual:** R$ 0.1173
-**Último Ano:** R$ 0.0162
 
 ---
 

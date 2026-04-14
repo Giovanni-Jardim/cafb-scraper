@@ -1,12 +1,12 @@
 # Análise Fundamentalista: CMIG4
 
-**Fonte:** Yahoo Finance | **Gerado:** 13/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 14/04/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 13.81 |
+| Cotação Atual | R$ 13.75 |
 | Nº Total de Ações | 1,904,080,104 |
 | LPA (TTM) | R$ 1.71 |
 | VPA | R$ 9.99 |
@@ -17,24 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 21.17 | +53.3% (COMPRA) |
-| Graham | R$ 19.60 | +42.0% (COMPRA) |
-
----
-
-## 💰 Histórico de Proventos (Últimos Anos)
-
-|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
-|------:|-----------------------:|----------------:|
-|  2021 |                 0.8101 |               3 |
-|  2022 |                 1.5065 |               6 |
-|  2023 |                 0.9929 |               5 |
-|  2024 |                 1.329  |               6 |
-|  2025 |                 1.6506 |               7 |
-|  2026 |                 0.23   |               1 |
-
-**Média Anual:** R$ 1.0865
-**Último Ano:** R$ 0.2300
+| Bazin (6%) | R$ 21.17 | +53.9% (COMPRA) |
+| Graham | R$ 19.60 | +42.6% (COMPRA) |
 
 ---
 

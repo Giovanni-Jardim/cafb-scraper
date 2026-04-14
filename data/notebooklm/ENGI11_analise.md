@@ -1,12 +1,12 @@
 # Análise Fundamentalista: ENGI11
 
-**Fonte:** Yahoo Finance | **Gerado:** 13/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 14/04/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 57.35 |
+| Cotação Atual | R$ 57.80 |
 | Nº Total de Ações | 457,130,457 |
 | LPA (TTM) | R$ 1.38 |
 | VPA | R$ 55.24 |
@@ -17,23 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 54.50 | -5.0% (AGUARDAR) |
-| Graham | R$ 41.41 | -27.8% (VENDA) |
-
----
-
-## 💰 Histórico de Proventos (Últimos Anos)
-
-|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
-|------:|-----------------------:|----------------:|
-|  2021 |                 1.5909 |               2 |
-|  2022 |                 3.0545 |               2 |
-|  2023 |                 1.3636 |               2 |
-|  2024 |                 1.8182 |               2 |
-|  2025 |                 3.2738 |               3 |
-
-**Média Anual:** R$ 2.2202
-**Último Ano:** R$ 3.2738
+| Bazin (6%) | R$ 54.50 | -5.7% (AGUARDAR) |
+| Graham | R$ 41.41 | -28.3% (VENDA) |
 
 ---
 

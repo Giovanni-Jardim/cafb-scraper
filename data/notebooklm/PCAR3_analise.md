@@ -1,12 +1,12 @@
 # Análise Fundamentalista: PCAR3
 
-**Fonte:** Yahoo Finance | **Gerado:** 13/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 14/04/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 2.19 |
+| Cotação Atual | R$ 2.48 |
 | Nº Total de Ações | 490,637,273 |
 | LPA (TTM) | R$ -1.33 |
 | VPA | R$ 4.29 |
@@ -17,18 +17,6 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-
----
-
-## 💰 Histórico de Proventos (Últimos Anos)
-
-|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
-|------:|-----------------------:|----------------:|
-|  2021 |                 1.9486 |               1 |
-|  2022 |                 0.3173 |               1 |
-
-**Média Anual:** R$ 1.1330
-**Último Ano:** R$ 0.3173
 
 ---
 

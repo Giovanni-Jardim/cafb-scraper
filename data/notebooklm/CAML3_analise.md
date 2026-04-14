@@ -1,12 +1,12 @@
 # Análise Fundamentalista: CAML3
 
-**Fonte:** Yahoo Finance | **Gerado:** 13/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 14/04/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 7.19 |
+| Cotação Atual | R$ 6.95 |
 | Nº Total de Ações | 341,071,232 |
 | LPA (TTM) | R$ 0.46 |
 | VPA | R$ 10.11 |
@@ -17,24 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 6.83 | -5.0% (AGUARDAR) |
-| Graham | R$ 10.23 | +42.3% (COMPRA) |
-
----
-
-## 💰 Histórico de Proventos (Últimos Anos)
-
-|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
-|------:|-----------------------:|----------------:|
-|  2021 |                 0.2472 |               4 |
-|  2022 |                 0.3649 |               5 |
-|  2023 |                 0.2887 |               4 |
-|  2024 |                 0.2932 |               4 |
-|  2025 |                 0.2932 |               4 |
-|  2026 |                 0.0733 |               1 |
-
-**Média Anual:** R$ 0.2601
-**Último Ano:** R$ 0.0733
+| Bazin (6%) | R$ 6.83 | -1.7% (AGUARDAR) |
+| Graham | R$ 10.23 | +47.2% (COMPRA) |
 
 ---
 

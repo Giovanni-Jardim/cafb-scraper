@@ -1,12 +1,12 @@
 # Análise Fundamentalista: COGN3
 
-**Fonte:** Yahoo Finance | **Gerado:** 13/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 14/04/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 3.20 |
+| Cotação Atual | R$ 3.13 |
 | Nº Total de Ações | 1,995,567,354 |
 | LPA (TTM) | R$ 0.32 |
 | VPA | R$ 6.74 |
@@ -17,19 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 3.17 | -1.0% (AGUARDAR) |
-| Graham | R$ 6.97 | +117.7% (COMPRA) |
-
----
-
-## 💰 Histórico de Proventos (Últimos Anos)
-
-|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
-|------:|-----------------------:|----------------:|
-|  2025 |                 0.1754 |               2 |
-
-**Média Anual:** R$ 0.1754
-**Último Ano:** R$ 0.1754
+| Bazin (6%) | R$ 3.17 | +1.2% (AGUARDAR) |
+| Graham | R$ 6.97 | +122.6% (COMPRA) |
 
 ---
 

@@ -1,12 +1,12 @@
 # Análise Fundamentalista: ONCO3
 
-**Fonte:** Yahoo Finance | **Gerado:** 13/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 14/04/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 1.24 |
+| Cotação Atual | R$ 1.23 |
 | Nº Total de Ações | 1,118,202,391 |
 | LPA (TTM) | R$ -4.18 |
 | VPA | R$ 1.54 |
