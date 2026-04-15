@@ -1,24 +1,24 @@
 # Análise Fundamentalista: ABCB4
 
-**Fonte:** Yahoo Finance | **Gerado:** 14/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 15/04/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 27.41 |
+| Cotação Atual | R$ 27.31 |
 | Nº Total de Ações | 118,435,207 |
 | LPA (TTM) | R$ 5.35 |
 | VPA | R$ 28.02 |
-| Dividend Yield | 11.33% |
+| Dividend Yield | 11.18% |
 | Proventos 12m | R$ 3.06 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 51.00 | +86.1% (COMPRA) |
-| Graham | R$ 58.08 | +111.9% (COMPRA) |
+| Bazin (6%) | R$ 51.00 | +86.7% (COMPRA) |
+| Graham | R$ 58.08 | +112.7% (COMPRA) |
 
 ---
 
