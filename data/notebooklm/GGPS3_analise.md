@@ -1,24 +1,24 @@
 # Análise Fundamentalista: GGPS3
 
-**Fonte:** Yahoo Finance | **Gerado:** 15/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 16/04/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 16.77 |
+| Cotação Atual | R$ 16.53 |
 | Nº Total de Ações | 752,350,487 |
 | LPA (TTM) | R$ 1.00 |
 | VPA | R$ 5.27 |
-| Dividend Yield | 3.28% |
+| Dividend Yield | 3.18% |
 | Proventos 12m | R$ 0.53 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 8.83 | -47.3% (VENDA) |
-| Graham | R$ 10.89 | -35.1% (VENDA) |
+| Bazin (6%) | R$ 8.83 | -46.6% (VENDA) |
+| Graham | R$ 10.89 | -34.1% (VENDA) |
 
 ---
 

@@ -1,12 +1,12 @@
 # Análise Fundamentalista: NEOE3
 
-**Fonte:** Yahoo Finance | **Gerado:** 15/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 16/04/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 33.55 |
+| Cotação Atual | R$ 33.56 |
 | Nº Total de Ações | 1,213,797,248 |
 | LPA (TTM) | R$ 4.14 |
 | VPA | R$ 30.03 |
