@@ -1,24 +1,39 @@
 # Análise Fundamentalista: VIVA3
 
-**Fonte:** Yahoo Finance | **Gerado:** 16/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 17/04/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 27.57 |
+| Cotação Atual | R$ 27.50 |
 | Nº Total de Ações | 235,071,814 |
-| LPA (TTM) | R$ 2.63 |
+| LPA (TTM) | R$ 2.64 |
 | VPA | R$ 12.55 |
-| Dividend Yield | 5.01% |
+| Dividend Yield | 4.92% |
 | Proventos 12m | R$ 1.36 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 22.67 | -17.8% (VENDA) |
-| Graham | R$ 27.25 | -1.2% (AGUARDAR) |
+| Bazin (6%) | R$ 22.67 | -17.6% (VENDA) |
+| Graham | R$ 27.30 | -0.7% (AGUARDAR) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.328  |               2 |
+|  2022 |                 0.0539 |               1 |
+|  2023 |                 0.3642 |               1 |
+|  2024 |                 0.3728 |               1 |
+|  2025 |                 1.3578 |               2 |
+
+**Média Anual:** R$ 0.4953
+**Último Ano:** R$ 1.3578
 
 ---
 

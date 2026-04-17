@@ -1,12 +1,12 @@
 # Análise Fundamentalista: CSNA3
 
-**Fonte:** Yahoo Finance | **Gerado:** 16/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 17/04/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 6.64 |
+| Cotação Atual | R$ 6.62 |
 | Nº Total de Ações | 1,326,093,947 |
 | LPA (TTM) | R$ -1.51 |
 | VPA | R$ 9.71 |
@@ -17,7 +17,21 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 21.17 | +218.8% (COMPRA) |
+| Bazin (6%) | R$ 21.17 | +219.7% (COMPRA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 1.921  |               2 |
+|  2022 |                 2.5805 |               4 |
+|  2023 |                 1.9599 |               2 |
+|  2024 |                 1.2669 |               2 |
+
+**Média Anual:** R$ 1.9321
+**Último Ano:** R$ 1.2669
 
 ---
 

@@ -1,12 +1,12 @@
 # Análise Fundamentalista: RAIZ4
 
-**Fonte:** Yahoo Finance | **Gerado:** 16/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 17/04/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 0.57 |
+| Cotação Atual | R$ 0.53 |
 | Nº Total de Ações | 1,349,543,297 |
 | LPA (TTM) | R$ -2.15 |
 | VPA | R$ -0.15 |
@@ -17,6 +17,20 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2021 |                 0.0162 |               1 |
+|  2022 |                 0.1704 |               4 |
+|  2023 |                 0.2665 |               4 |
+|  2024 |                 0.0162 |               1 |
+
+**Média Anual:** R$ 0.1173
+**Último Ano:** R$ 0.0162
 
 ---
 
