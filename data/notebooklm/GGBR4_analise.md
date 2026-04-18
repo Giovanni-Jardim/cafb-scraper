@@ -1,16 +1,16 @@
 # Análise Fundamentalista: GGBR4
 
-**Fonte:** Yahoo Finance | **Gerado:** 17/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 18/04/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 21.53 |
+| Cotação Atual | R$ 21.54 |
 | Nº Total de Ações | 1,250,263,163 |
 | LPA (TTM) | R$ 0.69 |
 | VPA | R$ 27.13 |
-| Dividend Yield | 1.83% |
+| Dividend Yield | 1.86% |
 | Proventos 12m | R$ 0.40 |
 
 ### Valuation
