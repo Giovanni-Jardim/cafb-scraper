@@ -1,6 +1,6 @@
 # Análise Fundamentalista: ENEV3
 
-**Fonte:** Yahoo Finance | **Gerado:** 18/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 19/04/2026
 
 ## 📊 Dados de Mercado
 
@@ -8,7 +8,7 @@
 |---------|-------|
 | Cotação Atual | R$ 26.92 |
 | Nº Total de Ações | 1,915,805,214 |
-| LPA (TTM) | R$ 0.61 |
+| LPA (TTM) | R$ 0.60 |
 | VPA | R$ 10.35 |
 
 
@@ -17,7 +17,7 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Graham | R$ 11.92 | -55.7% (VENDA) |
+| Graham | R$ 11.82 | -56.1% (VENDA) |
 
 ---
 

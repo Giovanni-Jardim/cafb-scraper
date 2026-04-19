@@ -1,6 +1,6 @@
 # Análise Fundamentalista: CPLE3
 
-**Fonte:** Yahoo Finance | **Gerado:** 18/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 19/04/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,14 +10,14 @@
 | Nº Total de Ações | 2,970,087,296 |
 | LPA (TTM) | R$ 0.90 |
 | VPA | R$ 7.79 |
-| Dividend Yield | 7.28% |
-| Proventos 12m | R$ 1.22 |
+| Dividend Yield | 6.38% |
+| Proventos 12m | R$ 1.06 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 20.33 | +22.0% (COMPRA) |
+| Bazin (6%) | R$ 17.67 | +6.0% (AGUARDAR) |
 | Graham | R$ 12.56 | -24.6% (VENDA) |
 
 ---

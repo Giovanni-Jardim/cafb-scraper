@@ -1,6 +1,6 @@
 # Análise Fundamentalista: FLRY3
 
-**Fonte:** Yahoo Finance | **Gerado:** 18/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 19/04/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 543,624,980 |
 | LPA (TTM) | R$ 1.12 |
 | VPA | R$ 9.18 |
-| Dividend Yield | 11.05% |
+| Dividend Yield | 11.35% |
 | Proventos 12m | R$ 1.89 |
 
 ### Valuation
