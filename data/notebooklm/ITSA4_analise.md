@@ -1,6 +1,6 @@
 # Análise Fundamentalista: ITSA4
 
-**Fonte:** Yahoo Finance | **Gerado:** 21/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 22/04/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 7,357,712,522 |
 | LPA (TTM) | R$ 1.48 |
 | VPA | R$ 7.92 |
-| Dividend Yield | 65.00% |
+| Dividend Yield | 66.00% |
 | Proventos 12m | R$ 0.10 |
 
 ### Valuation

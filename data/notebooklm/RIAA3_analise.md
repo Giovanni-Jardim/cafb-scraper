@@ -1,6 +1,6 @@
 # Análise Fundamentalista: RIAA3
 
-**Fonte:** Yahoo Finance | **Gerado:** 21/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 22/04/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 501,588,745 |
 | LPA (TTM) | R$ 2.95 |
 | VPA | R$ 10.70 |
-| Dividend Yield | 30.41% |
+| Dividend Yield | 30.53% |
 | Proventos 12m | R$ 3.19 |
 
 ### Valuation

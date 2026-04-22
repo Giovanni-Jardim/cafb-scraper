@@ -1,6 +1,6 @@
 # Análise Fundamentalista: AGRO3
 
-**Fonte:** Yahoo Finance | **Gerado:** 21/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 22/04/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 99,615,457 |
 | LPA (TTM) | R$ -0.02 |
 | VPA | R$ 20.86 |
-| Dividend Yield | 3.74% |
+| Dividend Yield | 3.80% |
 | Proventos 12m | R$ 0.75 |
 
 ### Valuation

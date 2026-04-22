@@ -1,6 +1,6 @@
 # Análise Fundamentalista: BBSE3
 
-**Fonte:** Yahoo Finance | **Gerado:** 21/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 22/04/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 1,941,248,544 |
 | LPA (TTM) | R$ 4.65 |
 | VPA | R$ 5.35 |
-| Dividend Yield | 14.93% |
+| Dividend Yield | 14.78% |
 | Proventos 12m | R$ 5.21 |
 
 ### Valuation

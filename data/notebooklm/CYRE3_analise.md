@@ -1,6 +1,6 @@
 # Análise Fundamentalista: CYRE3
 
-**Fonte:** Yahoo Finance | **Gerado:** 21/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 22/04/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 366,346,855 |
 | LPA (TTM) | R$ 4.57 |
 | VPA | R$ 27.92 |
-| Dividend Yield | 13.71% |
+| Dividend Yield | 13.68% |
 | Proventos 12m | R$ 3.80 |
 
 ### Valuation
