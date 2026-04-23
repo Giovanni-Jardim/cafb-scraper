@@ -1,6 +1,6 @@
 # Análise Fundamentalista: BRAV3
 
-**Fonte:** Yahoo Finance | **Gerado:** 22/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 23/04/2026
 
 ## 📊 Dados de Mercado
 
@@ -19,6 +19,17 @@
 |--------|-----------------|------------------|
 | Bazin (6%) | R$ 2.00 | -90.2% (VENDA) |
 | Graham | R$ 41.50 | +103.4% (COMPRA) |
+
+---
+
+## 💰 Histórico de Proventos (Últimos Anos)
+
+|   Ano |   Total Proventos (R$) |   Nº Pagamentos |
+|------:|-----------------------:|----------------:|
+|  2026 |                 0.1236 |               1 |
+
+**Média Anual:** R$ 0.1236
+**Último Ano:** R$ 0.1236
 
 ---
 

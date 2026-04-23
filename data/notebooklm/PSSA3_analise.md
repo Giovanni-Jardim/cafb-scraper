@@ -1,12 +1,12 @@
 # Análise Fundamentalista: PSSA3
 
-**Fonte:** Yahoo Finance | **Gerado:** 22/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 23/04/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 55.41 |
+| Cotação Atual | R$ 54.02 |
 | Nº Total de Ações | 640,321,918 |
 | LPA (TTM) | R$ 5.21 |
 | VPA | R$ 24.58 |
@@ -17,8 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 41.67 | -24.8% (VENDA) |
-| Graham | R$ 53.68 | -3.1% (AGUARDAR) |
+| Bazin (6%) | R$ 41.67 | -22.9% (VENDA) |
+| Graham | R$ 53.68 | -0.6% (AGUARDAR) |
 
 ---
 

@@ -1,12 +1,12 @@
 # Análise Fundamentalista: TAEE11
 
-**Fonte:** Yahoo Finance | **Gerado:** 22/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 23/04/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 45.86 |
+| Cotação Atual | R$ 45.22 |
 | Nº Total de Ações | 344,498,907 |
 | LPA (TTM) | R$ 1.16 |
 | VPA | R$ 22.09 |
@@ -17,8 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 53.33 | +16.3% (COMPRA) |
-| Graham | R$ 24.01 | -47.6% (VENDA) |
+| Bazin (6%) | R$ 53.33 | +17.9% (COMPRA) |
+| Graham | R$ 24.01 | -46.9% (VENDA) |
 
 ---
 

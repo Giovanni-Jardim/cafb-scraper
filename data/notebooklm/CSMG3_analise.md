@@ -1,12 +1,12 @@
 # Análise Fundamentalista: CSMG3
 
-**Fonte:** Yahoo Finance | **Gerado:** 22/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 23/04/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 58.03 |
+| Cotação Atual | R$ 57.82 |
 | Nº Total de Ações | 379,181,430 |
 | LPA (TTM) | R$ 3.73 |
 | VPA | R$ 22.62 |
@@ -17,8 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 16.50 | -71.6% (VENDA) |
-| Graham | R$ 43.57 | -24.9% (VENDA) |
+| Bazin (6%) | R$ 16.50 | -71.5% (VENDA) |
+| Graham | R$ 43.57 | -24.6% (VENDA) |
 
 ---
 
