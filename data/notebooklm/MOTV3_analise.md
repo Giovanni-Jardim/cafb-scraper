@@ -1,6 +1,6 @@
 # Análise Fundamentalista: MOTV3
 
-**Fonte:** Yahoo Finance | **Gerado:** 25/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 26/04/2026
 
 ## 📊 Dados de Mercado
 
@@ -26,10 +26,11 @@
 
 |   Ano |   Total Proventos (R$) |   Nº Pagamentos |
 |------:|-----------------------:|----------------:|
-|  2025 |                 1.1181 |               3 |
+|  2025 |                 0.3257 |               2 |
+|  2026 |                 0.0617 |               1 |
 
-**Média Anual:** R$ 1.1181
-**Último Ano:** R$ 1.1181
+**Média Anual:** R$ 0.1937
+**Último Ano:** R$ 0.0617
 
 ---
 
