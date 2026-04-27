@@ -1,6 +1,6 @@
 # Análise Fundamentalista: CPLE3
 
-**Fonte:** Yahoo Finance | **Gerado:** 26/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 27/04/2026
 
 ## 📊 Dados de Mercado
 
@@ -30,10 +30,9 @@
 |  2022 |                 0.9026 |               3 |
 |  2023 |                 0.304  |               1 |
 |  2024 |                 0.3859 |               3 |
-|  2025 |                 0.3985 |               1 |
 |  2026 |                 0.8249 |               1 |
 
-**Média Anual:** R$ 0.5788
+**Média Anual:** R$ 0.6148
 **Último Ano:** R$ 0.8249
 
 ---
