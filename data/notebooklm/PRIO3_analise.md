@@ -1,12 +1,12 @@
 # Análise Fundamentalista: PRIO3
 
-**Fonte:** Yahoo Finance | **Gerado:** 28/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 29/04/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 64.35 |
+| Cotação Atual | R$ 64.40 |
 | Nº Total de Ações | 807,383,501 |
 | LPA (TTM) | R$ 2.77 |
 | VPA | R$ 31.83 |

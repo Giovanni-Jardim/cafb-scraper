@@ -1,16 +1,16 @@
 # Análise Fundamentalista: NEOE3
 
-**Fonte:** Yahoo Finance | **Gerado:** 28/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 29/04/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 33.79 |
+| Cotação Atual | R$ 33.80 |
 | Nº Total de Ações | 1,213,797,248 |
 | LPA (TTM) | R$ 4.14 |
 | VPA | R$ 30.03 |
-| Dividend Yield | 4.33% |
+| Dividend Yield | 4.32% |
 | Proventos 12m | R$ 1.46 |
 
 ### Valuation
