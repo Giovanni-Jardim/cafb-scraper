@@ -1,24 +1,24 @@
 # Análise Fundamentalista: EQTL3
 
-**Fonte:** Yahoo Finance | **Gerado:** 29/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 30/04/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 42.64 |
+| Cotação Atual | R$ 41.70 |
 | Nº Total de Ações | 1,258,238,581 |
 | LPA (TTM) | R$ 0.96 |
 | VPA | R$ 20.47 |
-| Dividend Yield | 5.47% |
+| Dividend Yield | 5.56% |
 | Proventos 12m | R$ 2.37 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 39.50 | -7.4% (AGUARDAR) |
-| Graham | R$ 21.03 | -50.7% (VENDA) |
+| Bazin (6%) | R$ 39.50 | -5.3% (AGUARDAR) |
+| Graham | R$ 21.03 | -49.6% (VENDA) |
 
 ---
 
