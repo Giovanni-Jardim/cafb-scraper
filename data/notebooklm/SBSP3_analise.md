@@ -1,24 +1,24 @@
 # Análise Fundamentalista: SBSP3
 
-**Fonte:** Yahoo Finance | **Gerado:** 30/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 01/05/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 32.99 |
+| Cotação Atual | R$ 33.15 |
 | Nº Total de Ações | 3,600,813,105 |
-| LPA (TTM) | R$ 2.44 |
+| LPA (TTM) | R$ 2.47 |
 | VPA | R$ 60.46 |
-| Dividend Yield | 50.00% |
+| Dividend Yield | 51.00% |
 | Proventos 12m | R$ 0.17 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 2.83 | -91.4% (VENDA) |
-| Graham | R$ 57.61 | +74.6% (COMPRA) |
+| Bazin (6%) | R$ 2.83 | -91.5% (VENDA) |
+| Graham | R$ 57.96 | +74.9% (COMPRA) |
 
 ---
 
@@ -76,13 +76,13 @@
 
 ### DFC - BILHOES
 
-| Conta              |        4T2025 |       3T2025 |       4T2024 |       3T2024 |
-|:-------------------|--------------:|-------------:|-------------:|-------------:|
-| Ativo Circulante   |   3.8246e+07  |  2.7431e+07  |  2.3658e+07  |  3.7099e+07  |
-| Passivo Circulante |   1.79244e+08 |  1.2698e+07  | -6.1713e+07  |  6.934e+06   |
-| Lucro Líquido      |   2.98222e+09 |  3.24086e+09 |  1.23062e+09 |  9.33367e+09 |
-| FCO                |   9.06751e+08 |  3.17327e+09 |  2.66441e+09 |  1.57011e+09 |
-| Capex              | nan           | -3.78337e+09 | -3.7991e+07  | -4.21071e+09 |
+| Conta              |       4T2025 |       3T2025 |       4T2024 |       3T2024 |
+|:-------------------|-------------:|-------------:|-------------:|-------------:|
+| Ativo Circulante   |  3.8246e+07  |  2.7431e+07  |  2.3658e+07  |  3.7099e+07  |
+| Passivo Circulante |  1.79244e+08 |  1.2698e+07  | -6.1713e+07  |  6.934e+06   |
+| Lucro Líquido      |  2.98222e+09 |  3.24086e+09 |  1.23062e+09 |  9.33367e+09 |
+| FCO                |  9.06751e+08 |  3.17327e+09 |  2.66441e+09 |  1.57011e+09 |
+| Capex              | -4.07838e+09 | -3.78337e+09 | -3.7991e+07  | -4.21071e+09 |
 
 
 ---

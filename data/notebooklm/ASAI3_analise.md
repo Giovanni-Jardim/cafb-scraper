@@ -1,24 +1,24 @@
 # Análise Fundamentalista: ASAI3
 
-**Fonte:** Yahoo Finance | **Gerado:** 30/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 01/05/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 8.74 |
+| Cotação Atual | R$ 8.85 |
 | Nº Total de Ações | 1,341,749,942 |
 | LPA (TTM) | R$ 0.68 |
-| VPA | R$ 4.14 |
-| Dividend Yield | 1.32% |
+| VPA | R$ 4.39 |
+| Dividend Yield | 1.36% |
 | Proventos 12m | R$ 0.12 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 2.00 | -77.1% (VENDA) |
-| Graham | R$ 7.96 | -8.9% (AGUARDAR) |
+| Bazin (6%) | R$ 2.00 | -77.4% (VENDA) |
+| Graham | R$ 8.19 | -7.4% (AGUARDAR) |
 
 ---
 

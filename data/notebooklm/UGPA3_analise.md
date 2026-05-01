@@ -1,24 +1,24 @@
 # Análise Fundamentalista: UGPA3
 
-**Fonte:** Yahoo Finance | **Gerado:** 30/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 01/05/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 29.12 |
+| Cotação Atual | R$ 29.94 |
 | Nº Total de Ações | 1,068,767,319 |
 | LPA (TTM) | R$ 2.35 |
 | VPA | R$ 14.66 |
-| Dividend Yield | 5.94% |
+| Dividend Yield | 6.01% |
 | Proventos 12m | R$ 1.75 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 29.17 | +0.2% (AGUARDAR) |
-| Graham | R$ 27.84 | -4.4% (AGUARDAR) |
+| Bazin (6%) | R$ 29.17 | -2.6% (AGUARDAR) |
+| Graham | R$ 27.84 | -7.0% (AGUARDAR) |
 
 ---
 
@@ -59,8 +59,8 @@
 | Caixa e Equivalentes | 3.17512e+09 | 2.53405e+09 | 2.89742e+09 | 1.43609e+09 | 2.07159e+09 |      nan |
 | Passivo Total        | 3.16184e+10 | 2.68981e+10 | 2.72124e+10 | 2.18642e+10 | 2.37346e+10 |      nan |
 | Passivo Circulante   | 1.0881e+07  | 2.0508e+07  | 2.976e+07   | 4.892e+07   | 6.3135e+07  |      nan |
-| Dívida Bruta         | 2.18358e+10 | 1.84933e+10 | 1.8938e+10  | 1.50417e+10 | 1.53492e+10 |      nan |
-| Dívida Líquida       | 1.6921e+10  | 1.42514e+10 | 1.42915e+10 | 1.21234e+10 | 1.17924e+10 |      nan |
+| Dívida Bruta         | 2.18329e+10 | 1.84933e+10 | 1.8938e+10  | 1.50417e+10 | 1.53457e+10 |      nan |
+| Dívida Líquida       | 1.69181e+10 | 1.42514e+10 | 1.42915e+10 | 1.21234e+10 | 1.17889e+10 |      nan |
 | Patrimônio Líquido   | 1.56663e+10 | 1.63877e+10 | 1.60737e+10 | 1.51955e+10 | 1.51587e+10 |      nan |
 
 ### DRE - BILHOES

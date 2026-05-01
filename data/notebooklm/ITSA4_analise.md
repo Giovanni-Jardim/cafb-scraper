@@ -1,24 +1,24 @@
 # Análise Fundamentalista: ITSA4
 
-**Fonte:** Yahoo Finance | **Gerado:** 30/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 01/05/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 13.66 |
+| Cotação Atual | R$ 13.92 |
 | Nº Total de Ações | 7,357,712,522 |
 | LPA (TTM) | R$ 1.48 |
 | VPA | R$ 7.92 |
-| Dividend Yield | 69.00% |
+| Dividend Yield | 71.00% |
 | Proventos 12m | R$ 0.10 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 1.67 | -87.8% (VENDA) |
-| Graham | R$ 16.24 | +18.9% (COMPRA) |
+| Bazin (6%) | R$ 1.67 | -88.0% (VENDA) |
+| Graham | R$ 16.24 | +16.6% (COMPRA) |
 
 ---
 
@@ -46,7 +46,7 @@
 |-----------|-----|------------|-----------|-------------|
 | 4T2025 | 4.8% | 205.1% | 1.3x | 13.9% |
 | 3T2025 | 4.6% | 197.7% | 1.1x | -9.7% |
-| 2T2025 | 4.5% | 191.7% | 1.3x | 8.9% |
+| 2T2025 | 4.5% | 191.7% | 1.1x | 8.9% |
 | 1T2025 | 4.6% | 205.7% | 1.1x | -5.7% |
 
 ## Série Histórica Completa
@@ -60,8 +60,8 @@
 | Caixa e Equivalentes | 4.039e+09   | 3.613e+09   | 5.146e+09   | 5.536e+09   | 4.852e+09   |      nan |
 | Passivo Total        | 1.7808e+10  | 1.6565e+10  | 2.0072e+10  | 2.0198e+10  | 1.9628e+10  |      nan |
 | Passivo Circulante   | 1e+08       | 2.99e+08    | 2.89e+08    | 2.96e+08    | 2.91e+08    |      nan |
-| Dívida Bruta         | 1.1686e+10  | 9.755e+09   | 1.2286e+10  | 1.1632e+10  | 1.1885e+10  |      nan |
-| Dívida Líquida       | 6.746e+09   | 5.287e+09   | 6.288e+09   | 5.276e+09   | 6.259e+09   |      nan |
+| Dívida Bruta         | 1.1686e+10  | 9.755e+09   | 1.1482e+10  | 1.1632e+10  | 1.1885e+10  |      nan |
+| Dívida Líquida       | 6.746e+09   | 5.287e+09   | 5.484e+09   | 5.276e+09   | 6.259e+09   |      nan |
 | Patrimônio Líquido   | 8.8755e+10  | 9.2412e+10  | 8.9574e+10  | 8.5938e+10  | 9.0443e+10  |      nan |
 
 ### DRE - BILHOES

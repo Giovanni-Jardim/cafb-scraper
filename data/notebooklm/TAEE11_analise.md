@@ -1,24 +1,24 @@
 # Análise Fundamentalista: TAEE11
 
-**Fonte:** Yahoo Finance | **Gerado:** 30/04/2026
+**Fonte:** Yahoo Finance | **Gerado:** 01/05/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 42.57 |
+| Cotação Atual | R$ 42.52 |
 | Nº Total de Ações | 344,498,907 |
-| LPA (TTM) | R$ 1.10 |
+| LPA (TTM) | R$ 1.08 |
 | VPA | R$ 22.09 |
-| Dividend Yield | 7.41% |
+| Dividend Yield | 7.51% |
 | Proventos 12m | R$ 3.20 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 53.33 | +25.3% (COMPRA) |
-| Graham | R$ 23.38 | -45.1% (VENDA) |
+| Bazin (6%) | R$ 53.33 | +25.4% (COMPRA) |
+| Graham | R$ 23.17 | -45.5% (VENDA) |
 
 ---
 
@@ -31,9 +31,10 @@
 |  2023 |                 2.9145 |               4 |
 |  2024 |                 3.5325 |               5 |
 |  2025 |                 3.2293 |               4 |
+|  2026 |                 0.8428 |               1 |
 
-**Média Anual:** R$ 3.8069
-**Último Ano:** R$ 3.2293
+**Média Anual:** R$ 3.3129
+**Último Ano:** R$ 0.8428
 
 ---
 
