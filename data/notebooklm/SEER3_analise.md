@@ -1,6 +1,6 @@
 # Análise Fundamentalista: SEER3
 
-**Fonte:** Yahoo Finance | **Gerado:** 01/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 02/05/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 127,962,737 |
 | LPA (TTM) | R$ 1.68 |
 | VPA | R$ 10.41 |
-| Dividend Yield | 3.82% |
+| Dividend Yield | 3.76% |
 | Proventos 12m | R$ 0.48 |
 
 ### Valuation

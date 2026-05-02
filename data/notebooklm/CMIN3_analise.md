@@ -1,6 +1,6 @@
 # Análise Fundamentalista: CMIN3
 
-**Fonte:** Yahoo Finance | **Gerado:** 01/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 02/05/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 5,432,044,538 |
 | LPA (TTM) | R$ 0.30 |
 | VPA | R$ 1.23 |
-| Dividend Yield | 13.62% |
+| Dividend Yield | 13.39% |
 | Proventos 12m | R$ 0.63 |
 
 ### Valuation

@@ -1,6 +1,6 @@
 # Análise Fundamentalista: POMO4
 
-**Fonte:** Yahoo Finance | **Gerado:** 01/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 02/05/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 789,632,978 |
 | LPA (TTM) | R$ 0.98 |
 | VPA | R$ 3.09 |
-| Dividend Yield | 15.96% |
+| Dividend Yield | 15.76% |
 | Proventos 12m | R$ 1.02 |
 
 ### Valuation

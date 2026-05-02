@@ -1,6 +1,6 @@
 # Análise Fundamentalista: ASAI3
 
-**Fonte:** Yahoo Finance | **Gerado:** 01/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 02/05/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 1,341,749,942 |
 | LPA (TTM) | R$ 0.68 |
 | VPA | R$ 4.39 |
-| Dividend Yield | 1.36% |
+| Dividend Yield | 1.34% |
 | Proventos 12m | R$ 0.12 |
 
 ### Valuation
