@@ -1,6 +1,6 @@
 # Análise Fundamentalista: ALOS3
 
-**Fonte:** Yahoo Finance | **Gerado:** 02/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 03/05/2026
 
 ## 📊 Dados de Mercado
 
@@ -31,10 +31,10 @@
 |  2023 |                 0.519  |               1 |
 |  2024 |                 1.5274 |               5 |
 |  2025 |                 1.3804 |              10 |
-|  2026 |                 1.1699 |               4 |
+|  2026 |                 1.1694 |               4 |
 
 **Média Anual:** R$ 0.8678
-**Último Ano:** R$ 1.1699
+**Último Ano:** R$ 1.1694
 
 ---
 

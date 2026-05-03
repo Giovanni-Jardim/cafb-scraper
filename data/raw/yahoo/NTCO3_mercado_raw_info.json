@@ -6,10 +6,10 @@
   "triggerable": false,
   "customPriceAlertConfidence": "NONE",
   "hasPrePostMarketData": false,
+  "financialCurrency": "BRL",
+  "corporateActions": [],
+  "esgPopulated": false,
   "tradeable": false,
   "cryptoTradeable": false,
-  "financialCurrency": "BRL",
-  "esgPopulated": false,
-  "corporateActions": [],
   "trailingPegRatio": null
 }

@@ -1,6 +1,6 @@
 # Análise Fundamentalista: TAEE11
 
-**Fonte:** Yahoo Finance | **Gerado:** 02/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 03/05/2026
 
 ## 📊 Dados de Mercado
 
@@ -31,10 +31,10 @@
 |  2023 |                 2.9145 |               4 |
 |  2024 |                 3.5325 |               5 |
 |  2025 |                 3.2293 |               4 |
-|  2026 |                 0.8428 |               1 |
+|  2026 |                 0.9089 |               1 |
 
-**Média Anual:** R$ 3.3129
-**Último Ano:** R$ 0.8428
+**Média Anual:** R$ 3.3239
+**Último Ano:** R$ 0.9089
 
 ---
 

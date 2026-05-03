@@ -1,13 +1,13 @@
 # Análise Fundamentalista: RIAA3
 
-**Fonte:** Yahoo Finance | **Gerado:** 02/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 03/05/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
 | Cotação Atual | R$ 9.59 |
-| Nº Total de Ações | 501,588,745 |
+| Nº Total de Ações | 502,063,039 |
 | LPA (TTM) | R$ 2.95 |
 | VPA | R$ 10.70 |
 | Dividend Yield | 33.30% |

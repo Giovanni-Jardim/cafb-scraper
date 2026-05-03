@@ -1,6 +1,6 @@
 # Análise Fundamentalista: MRVE3
 
-**Fonte:** Yahoo Finance | **Gerado:** 02/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 03/05/2026
 
 ## 📊 Dados de Mercado
 
