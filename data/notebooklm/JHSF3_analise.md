@@ -1,6 +1,6 @@
 # Análise Fundamentalista: JHSF3
 
-**Fonte:** Yahoo Finance | **Gerado:** 03/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 04/05/2026
 
 ## 📊 Dados de Mercado
 
