@@ -1,12 +1,12 @@
 # Análise Fundamentalista: UGPA3
 
-**Fonte:** Yahoo Finance | **Gerado:** 04/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 05/05/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 29.94 |
+| Cotação Atual | R$ 29.93 |
 | Nº Total de Ações | 1,068,767,319 |
 | LPA (TTM) | R$ 2.35 |
 | VPA | R$ 14.66 |
