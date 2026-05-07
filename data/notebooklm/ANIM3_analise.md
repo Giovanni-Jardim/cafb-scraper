@@ -1,24 +1,24 @@
 # Análise Fundamentalista: ANIM3
 
-**Fonte:** Yahoo Finance | **Gerado:** 06/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 07/05/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 3.98 |
+| Cotação Atual | R$ 4.15 |
 | Nº Total de Ações | 377,859,942 |
 | LPA (TTM) | R$ 0.33 |
 | VPA | R$ 6.09 |
-| Dividend Yield | 1.99% |
+| Dividend Yield | 1.95% |
 | Proventos 12m | R$ 0.08 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 1.33 | -66.5% (VENDA) |
-| Graham | R$ 6.72 | +68.9% (COMPRA) |
+| Bazin (6%) | R$ 1.33 | -67.9% (VENDA) |
+| Graham | R$ 6.72 | +62.0% (COMPRA) |
 
 ---
 
