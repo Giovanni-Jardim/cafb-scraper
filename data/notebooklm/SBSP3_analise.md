@@ -1,24 +1,24 @@
 # Análise Fundamentalista: SBSP3
 
-**Fonte:** Yahoo Finance | **Gerado:** 08/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 09/05/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 31.66 |
-| Nº Total de Ações | 3,524,534,025 |
-| LPA (TTM) | R$ 2.47 |
+| Cotação Atual | R$ 31.13 |
+| Nº Total de Ações | 3,506,733,260 |
+| LPA (TTM) | R$ 2.43 |
 | VPA | R$ 60.46 |
-| Dividend Yield | 51.00% |
+| Dividend Yield | 53.00% |
 | Proventos 12m | R$ 0.17 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 2.83 | -91.1% (VENDA) |
-| Graham | R$ 57.96 | +83.1% (COMPRA) |
+| Bazin (6%) | R$ 2.83 | -90.9% (VENDA) |
+| Graham | R$ 57.49 | +84.7% (COMPRA) |
 
 ---
 

@@ -1,24 +1,24 @@
 # Análise Fundamentalista: ENGI11
 
-**Fonte:** Yahoo Finance | **Gerado:** 08/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 09/05/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 52.20 |
+| Cotação Atual | R$ 52.73 |
 | Nº Total de Ações | 457,130,457 |
 | LPA (TTM) | R$ 1.38 |
 | VPA | R$ 55.24 |
-| Dividend Yield | 6.06% |
+| Dividend Yield | 6.27% |
 | Proventos 12m | R$ 3.27 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 54.50 | +4.4% (AGUARDAR) |
-| Graham | R$ 41.41 | -20.7% (VENDA) |
+| Bazin (6%) | R$ 54.50 | +3.4% (AGUARDAR) |
+| Graham | R$ 41.41 | -21.5% (VENDA) |
 
 ---
 
@@ -58,7 +58,7 @@
 | Ativo Circulante     | 2.09319e+10 |      nan | 1.78572e+10 | 1.816e+10   | 1.8016e+10  | 1.86902e+10 |
 | Caixa e Equivalentes | 1.386e+09   |      nan | 1.25464e+09 | 9.85029e+08 | 8.99139e+08 | 1.09826e+09 |
 | Passivo Total        | 6.22871e+10 |      nan | 5.65077e+10 | 5.54823e+10 | 5.50384e+10 | 5.33266e+10 |
-| Passivo Circulante   | 1.37603e+08 |      nan | 7.11075e+08 | 7.05355e+08 | 6.56991e+08 | 4.55473e+08 |
+| Passivo Circulante   | 6.89947e+08 |      nan | 7.11075e+08 | 7.05355e+08 | 6.56991e+08 | 4.55473e+08 |
 | Dívida Bruta         | 4.47108e+10 |      nan | 3.79567e+10 | 3.68024e+10 | 3.52472e+10 | 3.34912e+10 |
 | Dívida Líquida       | 4.31767e+10 |      nan | 3.65597e+10 | 3.56785e+10 | 3.42184e+10 | 3.2266e+10  |
 | Patrimônio Líquido   | 1.91984e+10 |      nan | 1.82269e+10 | 1.79893e+10 | 1.72795e+10 | 1.62293e+10 |
