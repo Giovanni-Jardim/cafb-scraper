@@ -1,6 +1,6 @@
 # Análise Fundamentalista: GOAU4
 
-**Fonte:** Yahoo Finance | **Gerado:** 09/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 10/05/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 838,105,184 |
 | LPA (TTM) | R$ 0.44 |
 | VPA | R$ 14.44 |
-| Dividend Yield | 3.23% |
+| Dividend Yield | 3.18% |
 | Proventos 12m | R$ 0.33 |
 
 ### Valuation
