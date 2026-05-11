@@ -1,6 +1,6 @@
 # Análise Fundamentalista: EZTC3
 
-**Fonte:** Yahoo Finance | **Gerado:** 10/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 11/05/2026
 
 ## 📊 Dados de Mercado
 

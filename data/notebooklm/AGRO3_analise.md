@@ -1,6 +1,6 @@
 # Análise Fundamentalista: AGRO3
 
-**Fonte:** Yahoo Finance | **Gerado:** 10/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 11/05/2026
 
 ## 📊 Dados de Mercado
 
@@ -9,7 +9,7 @@
 | Cotação Atual | R$ 19.06 |
 | Nº Total de Ações | 99,615,457 |
 | LPA (TTM) | R$ -0.16 |
-| VPA | R$ 20.86 |
+| VPA | R$ 21.86 |
 | Dividend Yield | 3.95% |
 | Proventos 12m | R$ 0.75 |
 

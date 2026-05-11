@@ -1,6 +1,6 @@
 # Análise Fundamentalista: RAIL3
 
-**Fonte:** Yahoo Finance | **Gerado:** 10/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 11/05/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 1,855,814,028 |
 | LPA (TTM) | R$ 0.56 |
 | VPA | R$ 7.46 |
-| Dividend Yield | 67.00% |
+| Dividend Yield | 64.00% |
 | Proventos 12m | R$ 0.11 |
 
 ### Valuation
