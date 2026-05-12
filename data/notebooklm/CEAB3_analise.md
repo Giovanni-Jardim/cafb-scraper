@@ -1,14 +1,14 @@
 # Análise Fundamentalista: CEAB3
 
-**Fonte:** Yahoo Finance | **Gerado:** 11/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 12/05/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 12.23 |
+| Cotação Atual | R$ 11.29 |
 | Nº Total de Ações | 302,364,334 |
-| LPA (TTM) | R$ 1.88 |
+| LPA (TTM) | R$ 1.74 |
 | VPA | R$ 12.24 |
 | Dividend Yield | 7.39% |
 | Proventos 12m | R$ 0.90 |
@@ -17,8 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 15.00 | +22.6% (COMPRA) |
-| Graham | R$ 22.75 | +86.0% (COMPRA) |
+| Bazin (6%) | R$ 15.00 | +32.9% (COMPRA) |
+| Graham | R$ 21.89 | +93.9% (COMPRA) |
 
 ---
 

@@ -1,14 +1,14 @@
 # Análise Fundamentalista: DIRR3
 
-**Fonte:** Yahoo Finance | **Gerado:** 11/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 12/05/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 13.21 |
+| Cotação Atual | R$ 12.85 |
 | Nº Total de Ações | 520,350,861 |
-| LPA (TTM) | R$ 1.50 |
+| LPA (TTM) | R$ 1.46 |
 | VPA | R$ 3.69 |
 | Dividend Yield | 19.98% |
 | Proventos 12m | R$ 2.64 |
@@ -17,8 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 44.00 | +233.1% (COMPRA) |
-| Graham | R$ 11.16 | -15.5% (VENDA) |
+| Bazin (6%) | R$ 44.00 | +242.4% (COMPRA) |
+| Graham | R$ 11.01 | -14.3% (AGUARDAR) |
 
 ---
 
