@@ -1,15 +1,8 @@
 {
   "quoteType": "NONE",
   "symbol": "NTCO3.SA",
-  "language": "en-US",
-  "region": "US",
-  "triggerable": false,
-  "customPriceAlertConfidence": "NONE",
-  "corporateActions": [],
-  "hasPrePostMarketData": false,
-  "financialCurrency": "BRL",
-  "esgPopulated": false,
-  "tradeable": false,
-  "cryptoTradeable": false,
+  "underlyingSymbol": "NTCO3.SA",
+  "uuid": "1e826315-4356-3cc0-a788-1e0b110c80be",
+  "maxAge": 86400,
   "trailingPegRatio": null
 }
