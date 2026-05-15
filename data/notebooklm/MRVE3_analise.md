@@ -1,12 +1,12 @@
 # Análise Fundamentalista: MRVE3
 
-**Fonte:** Yahoo Finance | **Gerado:** 14/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 15/05/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 6.13 |
+| Cotação Atual | R$ 6.43 |
 | Nº Total de Ações | 562,834,423 |
 | LPA (TTM) | R$ -1.35 |
 | VPA | R$ 9.47 |

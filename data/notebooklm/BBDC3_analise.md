@@ -1,24 +1,24 @@
 # Análise Fundamentalista: BBDC3
 
-**Fonte:** Yahoo Finance | **Gerado:** 14/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 15/05/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 15.40 |
+| Cotação Atual | R$ 15.54 |
 | Nº Total de Ações | 5,293,220,781 |
 | LPA (TTM) | R$ 2.10 |
-| VPA | R$ 16.87 |
-| Dividend Yield | 1.32% |
+| VPA | R$ 17.01 |
+| Dividend Yield | 1.34% |
 | Proventos 12m | R$ 0.21 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 3.50 | -77.3% (VENDA) |
-| Graham | R$ 28.23 | +83.3% (COMPRA) |
+| Bazin (6%) | R$ 3.50 | -77.5% (VENDA) |
+| Graham | R$ 28.35 | +82.4% (COMPRA) |
 
 ---
 
