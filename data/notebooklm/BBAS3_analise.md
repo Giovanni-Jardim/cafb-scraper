@@ -1,6 +1,6 @@
 # Análise Fundamentalista: BBAS3
 
-**Fonte:** Yahoo Finance | **Gerado:** 16/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 17/05/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 5,708,689,674 |
 | LPA (TTM) | R$ 2.22 |
 | VPA | R$ 32.20 |
-| Dividend Yield | 1.35% |
+| Dividend Yield | 1.36% |
 | Proventos 12m | R$ 0.28 |
 
 ### Valuation

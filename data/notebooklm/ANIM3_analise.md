@@ -1,6 +1,6 @@
 # Análise Fundamentalista: ANIM3
 
-**Fonte:** Yahoo Finance | **Gerado:** 16/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 17/05/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 377,859,942 |
 | LPA (TTM) | R$ 0.36 |
 | VPA | R$ 6.09 |
-| Dividend Yield | 2.27% |
+| Dividend Yield | 2.35% |
 | Proventos 12m | R$ 0.08 |
 
 ### Valuation

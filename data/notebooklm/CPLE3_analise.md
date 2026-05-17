@@ -1,6 +1,6 @@
 # Análise Fundamentalista: CPLE3
 
-**Fonte:** Yahoo Finance | **Gerado:** 16/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 17/05/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 2,970,087,296 |
 | LPA (TTM) | R$ 0.91 |
 | VPA | R$ 7.79 |
-| Dividend Yield | 7.12% |
+| Dividend Yield | 7.16% |
 | Proventos 12m | R$ 1.06 |
 
 ### Valuation

@@ -1,6 +1,6 @@
 # Análise Fundamentalista: RENT3
 
-**Fonte:** Yahoo Finance | **Gerado:** 16/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 17/05/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 1,054,944,417 |
 | LPA (TTM) | R$ 2.07 |
 | VPA | R$ 23.32 |
-| Dividend Yield | 4.75% |
+| Dividend Yield | 4.86% |
 | Proventos 12m | R$ 2.09 |
 
 ### Valuation

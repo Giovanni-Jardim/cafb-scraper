@@ -1,6 +1,6 @@
 # Análise Fundamentalista: SLCE3
 
-**Fonte:** Yahoo Finance | **Gerado:** 16/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 17/05/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 496,558,224 |
 | LPA (TTM) | R$ 0.65 |
 | VPA | R$ 10.13 |
-| Dividend Yield | 7.44% |
+| Dividend Yield | 7.51% |
 | Proventos 12m | R$ 1.29 |
 
 ### Valuation
