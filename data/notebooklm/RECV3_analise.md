@@ -1,6 +1,6 @@
 # Análise Fundamentalista: RECV3
 
-**Fonte:** Yahoo Finance | **Gerado:** 17/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 18/05/2026
 
 ## 📊 Dados de Mercado
 
