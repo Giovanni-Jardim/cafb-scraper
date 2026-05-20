@@ -1,24 +1,24 @@
 # Análise Fundamentalista: MGLU3
 
-**Fonte:** Yahoo Finance | **Gerado:** 19/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 20/05/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 6.61 |
+| Cotação Atual | R$ 6.49 |
 | Nº Total de Ações | 774,905,918 |
 | LPA (TTM) | R$ 0.18 |
 | VPA | R$ 14.56 |
-| Dividend Yield | 38.00% |
+| Dividend Yield | 39.00% |
 | Proventos 12m | R$ 0.03 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 0.50 | -92.4% (VENDA) |
-| Graham | R$ 7.68 | +16.2% (COMPRA) |
+| Bazin (6%) | R$ 0.50 | -92.3% (VENDA) |
+| Graham | R$ 7.68 | +18.3% (COMPRA) |
 
 ---
 
