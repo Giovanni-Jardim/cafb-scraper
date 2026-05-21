@@ -1,6 +1,6 @@
 # Análise Fundamentalista: NEOE3
 
-**Fonte:** Yahoo Finance | **Gerado:** 20/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 21/05/2026
 
 ## 📊 Dados de Mercado
 

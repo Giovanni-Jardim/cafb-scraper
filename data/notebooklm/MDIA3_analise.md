@@ -1,12 +1,12 @@
 # Análise Fundamentalista: MDIA3
 
-**Fonte:** Yahoo Finance | **Gerado:** 20/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 21/05/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 19.41 |
+| Cotação Atual | R$ 19.71 |
 | Nº Total de Ações | 335,383,253 |
 | LPA (TTM) | R$ 2.06 |
 | VPA | R$ 24.56 |
@@ -17,8 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 6.00 | -69.1% (VENDA) |
-| Graham | R$ 33.74 | +73.8% (COMPRA) |
+| Bazin (6%) | R$ 6.00 | -69.6% (VENDA) |
+| Graham | R$ 33.74 | +71.2% (COMPRA) |
 
 ---
 
