@@ -1,6 +1,6 @@
 # Análise Fundamentalista: POSI3
 
-**Fonte:** Yahoo Finance | **Gerado:** 23/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 24/05/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 139,210,742 |
 | LPA (TTM) | R$ 0.07 |
 | VPA | R$ 11.32 |
-| Dividend Yield | 11.08% |
+| Dividend Yield | 11.17% |
 | Proventos 12m | R$ 0.45 |
 
 ### Valuation

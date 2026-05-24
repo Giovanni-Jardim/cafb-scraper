@@ -1,6 +1,6 @@
 # Análise Fundamentalista: RADL3
 
-**Fonte:** Yahoo Finance | **Gerado:** 23/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 24/05/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 1,748,536,237 |
 | LPA (TTM) | R$ 0.79 |
 | VPA | R$ 4.19 |
-| Dividend Yield | 2.14% |
+| Dividend Yield | 2.20% |
 | Proventos 12m | R$ 0.40 |
 
 ### Valuation
