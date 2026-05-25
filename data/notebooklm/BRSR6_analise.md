@@ -1,6 +1,6 @@
 # Análise Fundamentalista: BRSR6
 
-**Fonte:** Yahoo Finance | **Gerado:** 24/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 25/05/2026
 
 ## 📊 Dados de Mercado
 
