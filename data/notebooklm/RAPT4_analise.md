@@ -1,12 +1,12 @@
 # Análise Fundamentalista: RAPT4
 
-**Fonte:** Yahoo Finance | **Gerado:** 27/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 28/05/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 5.18 |
+| Cotação Atual | R$ 5.19 |
 | Nº Total de Ações | 222,845,833 |
 | LPA (TTM) | R$ -1.09 |
 | VPA | R$ 9.27 |
