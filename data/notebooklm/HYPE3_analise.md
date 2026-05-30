@@ -1,24 +1,24 @@
 # Análise Fundamentalista: HYPE3
 
-**Fonte:** Yahoo Finance | **Gerado:** 29/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 30/05/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 22.41 |
+| Cotação Atual | R$ 21.91 |
 | Nº Total de Ações | 703,992,255 |
-| LPA (TTM) | R$ 2.61 |
+| LPA (TTM) | R$ 2.62 |
 | VPA | R$ 19.78 |
-| Dividend Yield | 4.68% |
+| Dividend Yield | 4.70% |
 | Proventos 12m | R$ 1.05 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 17.50 | -21.9% (VENDA) |
-| Graham | R$ 34.08 | +52.1% (COMPRA) |
+| Bazin (6%) | R$ 17.50 | -20.1% (VENDA) |
+| Graham | R$ 34.15 | +55.9% (COMPRA) |
 
 ---
 
