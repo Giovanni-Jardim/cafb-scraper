@@ -1,6 +1,6 @@
 # Análise Fundamentalista: LREN3
 
-**Fonte:** Yahoo Finance | **Gerado:** 30/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 31/05/2026
 
 ## 📊 Dados de Mercado
 
@@ -8,9 +8,9 @@
 |---------|-------|
 | Cotação Atual | R$ 14.90 |
 | Nº Total de Ações | 976,325,259 |
-| LPA (TTM) | R$ 1.49 |
+| LPA (TTM) | R$ 1.48 |
 | VPA | R$ 10.62 |
-| Dividend Yield | 5.94% |
+| Dividend Yield | 5.98% |
 | Proventos 12m | R$ 0.89 |
 
 ### Valuation
@@ -18,7 +18,7 @@
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
 | Bazin (6%) | R$ 14.83 | -0.4% (AGUARDAR) |
-| Graham | R$ 18.87 | +26.6% (COMPRA) |
+| Graham | R$ 18.80 | +26.2% (COMPRA) |
 
 ---
 

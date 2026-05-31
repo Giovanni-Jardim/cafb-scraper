@@ -1,6 +1,6 @@
 # Análise Fundamentalista: BRSR6
 
-**Fonte:** Yahoo Finance | **Gerado:** 30/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 31/05/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 202,536,545 |
 | LPA (TTM) | R$ 4.31 |
 | VPA | R$ 28.02 |
-| Dividend Yield | 6.34% |
+| Dividend Yield | 6.33% |
 | Proventos 12m | R$ 0.93 |
 
 ### Valuation
