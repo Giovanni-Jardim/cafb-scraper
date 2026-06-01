@@ -1,6 +1,6 @@
 # Análise Fundamentalista: ITSA4
 
-**Fonte:** Yahoo Finance | **Gerado:** 31/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 01/06/2026
 
 ## 📊 Dados de Mercado
 
@@ -47,7 +47,7 @@
 | 1T2026 | 4.9% | 218.4% | 1.2x | 11.1% |
 | 4T2025 | 4.8% | 205.1% | 1.3x | 13.9% |
 | 3T2025 | 4.6% | 197.7% | 1.1x | -9.7% |
-| 2T2025 | 4.5% | 191.7% | 1.1x | 8.9% |
+| 2T2025 | 4.5% | 191.7% | 1.3x | 8.9% |
 
 ## Série Histórica Completa
 
@@ -60,8 +60,8 @@
 | Caixa e Equivalentes | 5.031e+09   | 4.039e+09   | 3.613e+09   | 5.146e+09   | 5.536e+09   |      nan |      nan |
 | Passivo Total        | 1.9545e+10  | 1.7808e+10  | 1.6565e+10  | 2.0072e+10  | 2.0198e+10  |      nan |      nan |
 | Passivo Circulante   | 7.5e+07     | 1e+08       | 2.99e+08    | 2.89e+08    | 2.96e+08    |      nan |      nan |
-| Dívida Bruta         | 1.2161e+10  | 1.1686e+10  | 9.755e+09   | 1.1482e+10  | 1.1632e+10  |      nan |      nan |
-| Dívida Líquida       | 6.19e+09    | 6.746e+09   | 5.287e+09   | 5.484e+09   | 5.276e+09   |      nan |      nan |
+| Dívida Bruta         | 1.2161e+10  | 1.1686e+10  | 9.755e+09   | 1.2286e+10  | 1.1632e+10  |      nan |      nan |
+| Dívida Líquida       | 6.19e+09    | 6.746e+09   | 5.287e+09   | 6.288e+09   | 5.276e+09   |      nan |      nan |
 | Patrimônio Líquido   | 9.0196e+10  | 8.8755e+10  | 9.2412e+10  | 8.9574e+10  | 8.5938e+10  |      nan |      nan |
 
 ### DRE - BILHOES

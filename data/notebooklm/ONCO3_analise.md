@@ -1,6 +1,6 @@
 # Análise Fundamentalista: ONCO3
 
-**Fonte:** Yahoo Finance | **Gerado:** 31/05/2026
+**Fonte:** Yahoo Finance | **Gerado:** 01/06/2026
 
 ## 📊 Dados de Mercado
 
