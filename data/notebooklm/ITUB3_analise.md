@@ -1,6 +1,6 @@
 # Análise Fundamentalista: ITUB3
 
-**Fonte:** Yahoo Finance | **Gerado:** 01/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 02/06/2026
 
 ## 📊 Dados de Mercado
 
@@ -31,10 +31,10 @@
 |  2023 |                 1.1091 |              16 |
 |  2024 |                 2.13   |              17 |
 |  2025 |                 4.4493 |              16 |
-|  2026 |                 0.4398 |               6 |
+|  2026 |                 0.458  |               7 |
 
-**Média Anual:** R$ 1.6378
-**Último Ano:** R$ 0.4398
+**Média Anual:** R$ 1.6409
+**Último Ano:** R$ 0.4580
 
 ---
 
