@@ -1,24 +1,24 @@
 # Análise Fundamentalista: VIVT3
 
-**Fonte:** Yahoo Finance | **Gerado:** 03/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 04/06/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 33.80 |
+| Cotação Atual | R$ 33.75 |
 | Nº Total de Ações | 3,195,606,352 |
 | LPA (TTM) | R$ 1.97 |
 | VPA | R$ 21.50 |
-| Dividend Yield | 7.16% |
+| Dividend Yield | 7.17% |
 | Proventos 12m | R$ 2.42 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 40.33 | +19.3% (COMPRA) |
-| Graham | R$ 30.87 | -8.7% (AGUARDAR) |
+| Bazin (6%) | R$ 40.33 | +19.5% (COMPRA) |
+| Graham | R$ 30.87 | -8.5% (AGUARDAR) |
 
 ---
 

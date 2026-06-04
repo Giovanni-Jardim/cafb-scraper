@@ -1,24 +1,24 @@
 # Análise Fundamentalista: CPFE3
 
-**Fonte:** Yahoo Finance | **Gerado:** 03/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 04/06/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 43.50 |
+| Cotação Atual | R$ 43.30 |
 | Nº Total de Ações | 1,152,254,440 |
 | LPA (TTM) | R$ 5.00 |
 | VPA | R$ 21.09 |
-| Dividend Yield | 8.58% |
+| Dividend Yield | 8.62% |
 | Proventos 12m | R$ 3.73 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 62.17 | +42.9% (COMPRA) |
-| Graham | R$ 48.71 | +12.0% (AGUARDAR) |
+| Bazin (6%) | R$ 62.17 | +43.6% (COMPRA) |
+| Graham | R$ 48.71 | +12.5% (AGUARDAR) |
 
 ---
 
