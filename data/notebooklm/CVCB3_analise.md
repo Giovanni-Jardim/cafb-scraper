@@ -1,12 +1,12 @@
 # Análise Fundamentalista: CVCB3
 
-**Fonte:** Yahoo Finance | **Gerado:** 05/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 06/06/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 1.48 |
+| Cotação Atual | R$ 1.45 |
 | Nº Total de Ações | 520,798,588 |
 | LPA (TTM) | R$ -0.20 |
 | VPA | R$ 0.92 |

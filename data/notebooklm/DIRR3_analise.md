@@ -1,12 +1,12 @@
 # Análise Fundamentalista: DIRR3
 
-**Fonte:** Yahoo Finance | **Gerado:** 05/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 06/06/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 12.43 |
+| Cotação Atual | R$ 12.35 |
 | Nº Total de Ações | 520,125,861 |
 | LPA (TTM) | R$ 1.59 |
 | VPA | R$ 3.69 |
@@ -17,8 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 44.00 | +254.0% (COMPRA) |
-| Graham | R$ 11.49 | -7.5% (AGUARDAR) |
+| Bazin (6%) | R$ 44.00 | +256.3% (COMPRA) |
+| Graham | R$ 11.49 | -6.9% (AGUARDAR) |
 
 ---
 

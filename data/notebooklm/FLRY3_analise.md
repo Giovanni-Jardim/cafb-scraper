@@ -1,12 +1,12 @@
 # Análise Fundamentalista: FLRY3
 
-**Fonte:** Yahoo Finance | **Gerado:** 05/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 06/06/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 14.70 |
+| Cotação Atual | R$ 14.75 |
 | Nº Total de Ações | 543,624,980 |
 | LPA (TTM) | R$ 1.16 |
 | VPA | R$ 9.53 |
@@ -17,8 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 31.50 | +114.3% (COMPRA) |
-| Graham | R$ 15.77 | +7.3% (AGUARDAR) |
+| Bazin (6%) | R$ 31.50 | +113.6% (COMPRA) |
+| Graham | R$ 15.77 | +6.9% (AGUARDAR) |
 
 ---
 
