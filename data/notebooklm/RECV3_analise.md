@@ -1,6 +1,6 @@
 # Análise Fundamentalista: RECV3
 
-**Fonte:** Yahoo Finance | **Gerado:** 06/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 07/06/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 293,009,070 |
 | LPA (TTM) | R$ 1.83 |
 | VPA | R$ 14.32 |
-| Dividend Yield | 12.55% |
+| Dividend Yield | 12.66% |
 | Proventos 12m | R$ 1.36 |
 
 ### Valuation

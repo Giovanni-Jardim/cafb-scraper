@@ -1,6 +1,6 @@
 # Análise Fundamentalista: SBSP3
 
-**Fonte:** Yahoo Finance | **Gerado:** 06/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 07/06/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 3,506,627,871 |
 | LPA (TTM) | R$ 2.54 |
 | VPA | R$ 12.46 |
-| Dividend Yield | 5.21% |
+| Dividend Yield | 5.19% |
 | Proventos 12m | R$ 1.42 |
 
 ### Valuation
