@@ -1,6 +1,6 @@
 # Análise Fundamentalista: MOVI3
 
-**Fonte:** Yahoo Finance | **Gerado:** 07/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 08/06/2026
 
 ## 📊 Dados de Mercado
 
