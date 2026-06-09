@@ -1,12 +1,12 @@
 # Análise Fundamentalista: SMTO3
 
-**Fonte:** Yahoo Finance | **Gerado:** 08/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 09/06/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 16.88 |
+| Cotação Atual | R$ 17.21 |
 | Nº Total de Ações | 322,773,291 |
 | LPA (TTM) | R$ 2.53 |
 | VPA | R$ 22.43 |
@@ -17,8 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 3.67 | -78.3% (VENDA) |
-| Graham | R$ 35.73 | +111.7% (COMPRA) |
+| Bazin (6%) | R$ 3.67 | -78.7% (VENDA) |
+| Graham | R$ 35.73 | +107.6% (COMPRA) |
 
 ---
 
@@ -55,10 +55,10 @@
 | Conta                |        1T2026 |        4T2025 |       3T2025 |        2T2025 |      1T2025 |       4T2024 |       3T2024 |
 |:---------------------|--------------:|--------------:|-------------:|--------------:|------------:|-------------:|-------------:|
 | Ativo Total          |   2.34182e+10 |   2.31394e+10 |  2.26571e+10 |   2.19122e+10 | 2.17694e+10 | nan          | nan          |
-| Ativo Circulante     |   4.24945e+08 |   1.91608e+08 | -7.17665e+08 | nan           | 3.6956e+08  |   3.6956e+08 | nan          |
+| Ativo Circulante     |   5.5385e+07  |   1.91608e+08 | -7.17665e+08 | nan           | 3.6956e+08  |   3.6956e+08 | nan          |
 | Caixa e Equivalentes |   9.5263e+07  |   4.5593e+07  |  1.13452e+08 |   1.90344e+08 | 8.98588e+08 | nan          | nan          |
 | Passivo Total        |   1.6054e+10  |   1.58407e+10 |  1.56857e+10 |   1.49779e+10 | 1.507e+10   | nan          | nan          |
-| Passivo Circulante   | nan           | nan           |  9.78985e+09 | nan           | 2.6168e+07  |   2.1636e+07 |   2.7552e+07 |
+| Passivo Circulante   | nan           | nan           |  9.78985e+09 | nan           | 2.6368e+07  |   2.1636e+07 |   2.7552e+07 |
 | Dívida Bruta         |   9.9446e+09  |   9.88597e+09 |  9.36131e+09 |   8.50284e+09 | 8.87505e+09 | nan          | nan          |
 | Dívida Líquida       |   9.28889e+09 |   9.27048e+09 |  8.64447e+09 |   7.67898e+09 | 7.33015e+09 | nan          | nan          |
 | Patrimônio Líquido   |   7.36422e+09 |   7.29862e+09 |  6.97148e+09 |   6.93432e+09 | 6.69936e+09 | nan          | nan          |

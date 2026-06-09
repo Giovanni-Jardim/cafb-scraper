@@ -1,12 +1,12 @@
 # Análise Fundamentalista: SANB11
 
-**Fonte:** Yahoo Finance | **Gerado:** 08/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 09/06/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 26.73 |
+| Cotação Atual | R$ 26.78 |
 | Nº Total de Ações | 3,735,435,525 |
 | LPA (TTM) | R$ 2.05 |
 | VPA | R$ 33.76 |
@@ -17,8 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 29.50 | +10.4% (COMPRA) |
-| Graham | R$ 39.42 | +47.5% (COMPRA) |
+| Bazin (6%) | R$ 29.50 | +10.2% (COMPRA) |
+| Graham | R$ 39.42 | +47.2% (COMPRA) |
 
 ---
 
