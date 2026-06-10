@@ -1,16 +1,16 @@
 # Análise Fundamentalista: RAIL3
 
-**Fonte:** Yahoo Finance | **Gerado:** 09/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 10/06/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 13.52 |
+| Cotação Atual | R$ 13.49 |
 | Nº Total de Ações | 1,855,685,680 |
 | LPA (TTM) | R$ 0.56 |
 | VPA | R$ 7.49 |
-| Dividend Yield | 78.00% |
+| Dividend Yield | 80.00% |
 | Proventos 12m | R$ 0.11 |
 
 ### Valuation
@@ -18,7 +18,7 @@
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
 | Bazin (6%) | R$ 1.83 | -86.4% (VENDA) |
-| Graham | R$ 9.71 | -28.2% (VENDA) |
+| Graham | R$ 9.71 | -28.0% (VENDA) |
 
 ---
 
