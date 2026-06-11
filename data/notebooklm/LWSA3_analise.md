@@ -1,23 +1,23 @@
 # Análise Fundamentalista: LWSA3
 
-**Fonte:** Yahoo Finance | **Gerado:** 10/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 11/06/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 3.83 |
+| Cotação Atual | R$ 3.72 |
 | Nº Total de Ações | 548,356,226 |
-| LPA (TTM) | R$ -0.42 |
+| LPA (TTM) | R$ -0.40 |
 | VPA | R$ 4.27 |
-| Dividend Yield | 6.94% |
+| Dividend Yield | 6.65% |
 | Proventos 12m | R$ 0.25 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 4.17 | +8.8% (AGUARDAR) |
+| Bazin (6%) | R$ 4.17 | +12.0% (COMPRA) |
 
 ---
 
@@ -55,10 +55,10 @@
 | Ativo Total          | 3.51989e+09 | 3.63838e+09 | 3.60178e+09 | 3.83146e+09 | 3.99563e+09 |      nan |      nan |
 | Ativo Circulante     | 2.3133e+07  | 2.3067e+07  | 5.265e+06   | 4.377e+06   | 5.365e+06   |      nan |      nan |
 | Caixa e Equivalentes | 2.88599e+08 | 3.71931e+08 | 3.0931e+08  | 2.77287e+08 | 3.99269e+08 |      nan |      nan |
-| Passivo Total        | 1.20859e+09 | 1.1705e+09  | 1.16318e+09 | 1.07736e+09 | 1.25916e+09 |      nan |      nan |
+| Passivo Total        | 1.17678e+09 | 1.1705e+09  | 1.16318e+09 | 1.07736e+09 | 1.25916e+09 |      nan |      nan |
 | Passivo Circulante   | 3.18182e+07 | 1.0048e+07  | 9.853e+06   | 1.801e+06   | 2.106e+06   |      nan |      nan |
 | Dívida Bruta         | 7.1203e+07  | 7.5473e+07  | 7.9117e+07  | 8.1473e+07  | 7.8246e+07  |      nan |      nan |
-| Patrimônio Líquido   | 2.3113e+09  | 2.46789e+09 | 2.4386e+09  | 2.7541e+09  | 2.73647e+09 |      nan |      nan |
+| Patrimônio Líquido   | 2.34311e+09 | 2.46789e+09 | 2.4386e+09  | 2.7541e+09  | 2.73647e+09 |      nan |      nan |
 
 ### DRE - BILHOES
 
