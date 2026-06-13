@@ -1,16 +1,16 @@
 # Análise Fundamentalista: SAPR11
 
-**Fonte:** Yahoo Finance | **Gerado:** 12/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 13/06/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 38.38 |
+| Cotação Atual | R$ 38.39 |
 | Nº Total de Ações | 302,241,103 |
 | LPA (TTM) | R$ 0.81 |
 | VPA | R$ 42.02 |
-| Dividend Yield | 2.97% |
+| Dividend Yield | 2.88% |
 | Proventos 12m | R$ 1.10 |
 
 ### Valuation
@@ -18,7 +18,7 @@
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
 | Bazin (6%) | R$ 18.33 | -52.2% (VENDA) |
-| Graham | R$ 27.66 | -27.9% (VENDA) |
+| Graham | R$ 27.66 | -28.0% (VENDA) |
 
 ---
 
