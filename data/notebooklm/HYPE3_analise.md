@@ -1,6 +1,6 @@
 # Análise Fundamentalista: HYPE3
 
-**Fonte:** Yahoo Finance | **Gerado:** 13/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 14/06/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 703,992,255 |
 | LPA (TTM) | R$ 2.62 |
 | VPA | R$ 22.28 |
-| Dividend Yield | 4.95% |
+| Dividend Yield | 4.90% |
 | Proventos 12m | R$ 1.05 |
 
 ### Valuation

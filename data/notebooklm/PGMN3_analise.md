@@ -1,6 +1,6 @@
 # Análise Fundamentalista: PGMN3
 
-**Fonte:** Yahoo Finance | **Gerado:** 13/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 14/06/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 721,142,565 |
 | LPA (TTM) | R$ 0.49 |
 | VPA | R$ 4.68 |
-| Dividend Yield | 12.75% |
+| Dividend Yield | 12.98% |
 | Proventos 12m | R$ 0.51 |
 
 ### Valuation
