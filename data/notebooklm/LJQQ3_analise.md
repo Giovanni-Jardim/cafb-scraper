@@ -1,14 +1,14 @@
 # Análise Fundamentalista: LJQQ3
 
-**Fonte:** Yahoo Finance | **Gerado:** 17/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 18/06/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 1.36 |
+| Cotação Atual | R$ 1.29 |
 | Nº Total de Ações | 206,917,263 |
-| LPA (TTM) | R$ -0.95 |
+| LPA (TTM) | R$ -0.93 |
 | VPA | R$ 1.66 |
 | Dividend Yield | 5.57% |
 | Proventos 12m | R$ 0.12 |
@@ -17,7 +17,7 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 2.00 | +47.1% (COMPRA) |
+| Bazin (6%) | R$ 2.00 | +55.0% (COMPRA) |
 
 ---
 
