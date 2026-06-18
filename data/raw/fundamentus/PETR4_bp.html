@@ -1,0 +1,170 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="pt-br">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<title>FUNDAMENTUS - Invista consciente</title>
+	
+	<link rel="stylesheet" href="css/estilo.css" type="text/css" media="screen, projection">
+	<link rel="stylesheet" href="css/print.css" type="text/css" media="print">
+	<link rel="shortcut icon" href="img/fundamentus.ico" type="image/x-icon">
+	<!--[if lte IE 6]>
+		<link rel="stylesheet" type="text/css" href="css/menu_ie6.css">
+		<script type="text/javascript" src="script/ADxMenu.js"></script>
+	<![endif]-->
+
+	<script type="text/javascript" src="script/Observer.js"></script>
+	<script type="text/javascript" src="script/Autocompleter.js"></script>
+	<script src="script/cmplte.php" type="text/javascript" language="JavaScript"></script>
+<!-- <script src="script/mootools.svn.js" type="text/javascript"></script>  -->
+<script src="//ajax.googleapis.com/ajax/libs/mootools/1.11/mootools-yui-compressed.js" type="text/javascript"></script>
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '180895865796070');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=180895865796070&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->	
+</head>
+
+<body class="historicos">
+
+	<!-- ClickTale Top part -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
+	
+
+	<div class="center">
+		<?php#  echo $trace_txt;?>	<script>		function validateForm() {			let form = document.createElement('form');			form.action = 'detalhes.php';			form.method = 'GET';			form.innerHTML = '<input name="papel" type="hidden" value="'+document.forms[0]["papel"].value.toUpperCase()+'">';			document.body.append(form);			form.submit();			return false;		}	</script>		
+<style>
+  #menu.institucional li a.fundamentus-mobile { 
+    background-image: url(img/bt_fundamentus_mobile2.png); 
+    width: 97px; 
+  }
+  #menu.institucional li a.fundamentus-mobile:active { 
+    background-position: 0 0 !important;
+  }  
+
+</style>
+<div class="topo">
+   <a href="index.php"><img class="logo" src="img/logo.gif" alt="FUNDAMENTUS - Invista consciente"></a>			
+   <div class="avancada"><span>Busca por <a href="buscaavancada.php">empresa</a> / <a href="fii_buscaavancada.php">fii</a></span></div>
+   <form class="busca" method="get" action="detalhes.php" onsubmit="return validateForm() ">
+      <fieldset>
+         <legend>Procurar por ação/empresa/fii</legend>
+         <input class="texto" autocomplete="off" id="completar" name="papel" type="text" spellcheck="false"><input type="image" src="img/bt_exibir.jpg" class="botao" value="Exibir"><br>				
+      </fieldset>
+   </form>
+   <div class="atual"><p>Você está vendo<strong>PETR4</strong></p></div>			
+   <div id="containerMenu">
+      <ul id="menu" class="institucional adxm menu">
+         <li><a class="home" href="index.php">Página inicial</a></li>
+         <!--- <li><a class="conheca" href="conheca.php">Conheça o sistema</a></li> --->					
+         <li><a class="consciente" href="consciente.php">Investimento consciente</a></li>
+         <li>
+            <a class="mais-opcoes" onClick="poApple()">Mais Opções</a>
+            <ul>
+               <li><a href="fr.php">Fatos Relevantes</a></li>
+               <li><a href="ultimos-resultados.php">Últimos Resultados</a></li>
+               <li><a href="fii_imoveis.php">FII - Pesquisar Imóveis</a></li>
+            </ul>
+         </li>
+         <li><a class="contato" href="contato.php">Entre em contato</a></li>
+         <li><a class="fundamentus-mobile" href="?papel=PETR4&tipo=1&interface=mobile">Fundamentus Mobile</a></li>
+      </ul>
+              <ul id="menu" class="software adxm menu">
+                      <li><a class="detalhes" href="detalhes.php?papel=PETR4">Detalhes</a></li>
+           <li>
+              <a class="graficos" onClick="poApple()" >Gráficos</a>						
+              <ul>
+                 <li><a href="graficos.php?papel=PETR4&tipo=1">Balanço patrimonial</a></li>
+                 <li><a href="graficos.php?papel=PETR4&tipo=2">Demonstrativos de resultados</a></li>
+                 <li><a href="graficos.php?papel=PETR4&tipo=4">Fluxo de caixa</a></li>
+                 <li><a href="graficos.php?papel=PETR4&tipo=3">Indicadores fundamentalistas</a></li>
+              </ul>
+           </li>
+           <li>
+              <a class="historicos" onClick="poApple()">Dados Históricos</a>						
+              <ul class="provetos">
+                 <li><a class="dh" href="acionistas.php?papel=PETR4">Acionistas</a></li>
+                 <li><a class="dh" href="principais_acionistas.php?papel=PETR4&tipo=1">Principais Acionistas</a></li>
+                 <li><a class="dh" href="administradores.php?papel=PETR4&tipo=1">Administração</a></li>
+                 <li><a class="dh" href="fatos_relevantes.php?papel=PETR4">Fatos Relevantes</a></li>
+                 <li><a class="dh" href="apresentacoes.php?papel=PETR4">Apresentações</a></li>
+                 <li><a class="dh" href="resultados_trimestrais.php?papel=PETR4&tipo=1">Resultados Trim.</a></li>
+                 <li><a class="dh" href="formularios_referencia.php?papel=PETR4&tipo=1">Form. Referência</a></li>
+                 <li><a class="dh" href="insiders.php?papel=PETR4&tipo=1">Insiders</a></li>
+                 <li><a class="dh" href="recompras.php?papel=PETR4&tipo=1">Recompras de Ações</a></li>
+                 <li><a class="dh" href="balancos.php?papel=PETR4&tipo=1">Balanços em Excel</a></li>
+                 <li><a class="dh" href="proventos.php?papel=PETR4&tipo=2">Proventos</a></li>
+              </ul>
+           </li>
+           <li><a class="cotacoes" href="cotacoes.php?papel=PETR4">Histórico de cotações</a></li>
+           </li>				
+             
+        </ul>
+         </div>
+</div>		<div class="conteudo clearfix">
+            <h3>Download do balanço histórico em planilha Excel</h3><br>
+      <h2>PETROBRAS</h2><br>
+      <img src="img/ico_excel.png" border="0">
+			<form class="default contato" action="balancos.php" method="POST" name="form_cadastro">
+				<label class="normal" for="codigo_captcha" class="importante">Digite os caracteres que você vê na figura abaixo</label><br>
+          <img src='visual.php' width='200' height='60' alt='Visual CAPTCHA' class="captcha" /><br><input class="normal" name="codigo_captcha" id="codigo_captcha" size="29" type="text"><span class="info">Não há diferença entre digitar maiúsculo ou minúsculo</span>
+          <br><br>
+					<input type="hidden" name="codcvm" value="9512">
+					<input type="hidden" name="submit_h" value="Continuar">
+					<input type="image" class="bt_ok" name="submit" value="Continuar" src="img/bt_ok.jpg">
+			</form>
+      		</div>
+	</div>
+		<div class="rodape">
+		<div class="center">
+			<ul>
+				<li><strong>Menu institucional:</strong></li>
+				<li><a class="home" href="index.php">Página inicial</a>|</li>
+				<li><a class="consciente" href="consciente.php">Investimento Consciente</a>|</li>
+				<li><a class="contato" href="contato.php">Entre em contato</a>|</li>
+				<li><a class="ultimos-resultados" href="ultimos-resultados.php">Últimos Resultados</a></li>
+			</ul>
+			<ul>
+				<li><strong>Menu software: </strong></li>
+				<li><a class="graficos" href="graficos.php?tipo=1">Gráficos</a>|</li>
+				<li><a class="detalhes" href="detalhes.php">Detalhes</a>|</li>
+				<li><a class="cotacoes" href="cotacoes.php">Histórico de cotações</a>|</li>
+				<li><a class="acionistas" href="acionistas.php">Acionistas</a>|</li>
+				<li><a class="principais-acionistas" href="principais_acionistas.php">Principais Acionistas</a>|</li>
+				<li><a class="administracao" href="administradores.php">Administração</a>|</li>
+				<li><a class="fatos-relevantes" href="fatos_relevantes.php">Fatos Relevantes</a>|</li>
+				<li><a class="apresentacoes" href="apresentacoes.php">Apresentações</a>|</li>
+				<li><a class="proventos" href="proventos.php">Proventos</a>|</li>
+				<li><a class="historicos" href="balancos.php">Balanços Históricos</a></li>
+			</ul>
+		</div>
+	</div>
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-MBRGJ9JF74"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-MBRGJ9JF74');
+	</script>	
+	
+	<script  type="text/javascript" src="script/pvt.php" language="JavaScript" async></script>
+</body>
+</html>
