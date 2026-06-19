@@ -1,6 +1,6 @@
 # Análise Fundamentalista: VAMO3
 
-**Fonte:** Yahoo Finance | **Gerado:** 18/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 19/06/2026
 
 ## 📊 Dados de Mercado
 

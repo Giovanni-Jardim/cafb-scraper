@@ -1,12 +1,12 @@
 # Análise Fundamentalista: TAEE11
 
-**Fonte:** Yahoo Finance | **Gerado:** 18/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 19/06/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 38.88 |
+| Cotação Atual | R$ 39.45 |
 | Nº Total de Ações | 344,498,907 |
 | LPA (TTM) | R$ 1.00 |
 | VPA | R$ 23.10 |
@@ -17,7 +17,7 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Graham | R$ 22.80 | -41.4% (VENDA) |
+| Graham | R$ 22.80 | -42.2% (VENDA) |
 
 ---
 
