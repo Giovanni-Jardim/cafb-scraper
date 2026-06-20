@@ -1,12 +1,12 @@
 # Análise Fundamentalista: TIMS3
 
-**Fonte:** Yahoo Finance | **Gerado:** 19/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 20/06/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 21.37 |
+| Cotação Atual | R$ 21.07 |
 | Nº Total de Ações | 2,388,668,322 |
 | LPA (TTM) | R$ 1.79 |
 | VPA | R$ 10.22 |
@@ -17,7 +17,7 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Graham | R$ 20.29 | -5.0% (AGUARDAR) |
+| Graham | R$ 20.29 | -3.7% (AGUARDAR) |
 
 ---
 

@@ -1,12 +1,12 @@
 # Análise Fundamentalista: ITSA4
 
-**Fonte:** Yahoo Finance | **Gerado:** 19/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 20/06/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 13.03 |
+| Cotação Atual | R$ 12.79 |
 | Nº Total de Ações | 7,353,398,785 |
 | LPA (TTM) | R$ 1.52 |
 | VPA | R$ 8.04 |
@@ -17,8 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 1.67 | -87.2% (VENDA) |
-| Graham | R$ 16.59 | +27.3% (COMPRA) |
+| Bazin (6%) | R$ 1.67 | -87.0% (VENDA) |
+| Graham | R$ 16.59 | +29.7% (COMPRA) |
 
 ---
 
@@ -31,10 +31,10 @@
 |  2023 |                 0.5212 |              10 |
 |  2024 |                 0.6216 |               9 |
 |  2025 |                 1.7232 |               8 |
-|  2026 |                 0.1645 |               3 |
+|  2026 |                 0.3025 |               4 |
 
-**Média Anual:** R$ 0.6407
-**Último Ano:** R$ 0.1645
+**Média Anual:** R$ 0.6637
+**Último Ano:** R$ 0.3025
 
 ---
 
@@ -47,7 +47,7 @@
 | 1T2026 | 4.9% | 218.4% | 1.2x | 11.1% |
 | 4T2025 | 4.8% | 205.1% | 1.3x | 13.9% |
 | 3T2025 | 4.6% | 197.7% | 1.1x | -9.7% |
-| 2T2025 | 4.5% | 191.7% | 1.3x | 8.9% |
+| 2T2025 | 4.5% | 191.7% | 1.1x | 8.9% |
 
 ## Série Histórica Completa
 
@@ -60,8 +60,8 @@
 | Caixa e Equivalentes | 5.031e+09   | 4.039e+09   | 3.613e+09   | 5.146e+09   | 5.536e+09   |      nan |      nan |
 | Passivo Total        | 1.9545e+10  | 1.7808e+10  | 1.6565e+10  | 2.0072e+10  | 2.0198e+10  |      nan |      nan |
 | Passivo Circulante   | 7.5e+07     | 1e+08       | 2.99e+08    | 2.89e+08    | 2.96e+08    |      nan |      nan |
-| Dívida Bruta         | 1.2161e+10  | 1.1686e+10  | 9.755e+09   | 1.2286e+10  | 1.1632e+10  |      nan |      nan |
-| Dívida Líquida       | 6.19e+09    | 6.746e+09   | 5.287e+09   | 6.288e+09   | 5.276e+09   |      nan |      nan |
+| Dívida Bruta         | 1.2161e+10  | 1.1686e+10  | 9.755e+09   | 1.1482e+10  | 1.1632e+10  |      nan |      nan |
+| Dívida Líquida       | 6.19e+09    | 6.746e+09   | 5.287e+09   | 5.484e+09   | 5.276e+09   |      nan |      nan |
 | Patrimônio Líquido   | 9.0196e+10  | 8.8755e+10  | 9.2412e+10  | 8.9574e+10  | 8.5938e+10  |      nan |      nan |
 
 ### DRE - BILHOES

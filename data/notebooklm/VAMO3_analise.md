@@ -1,12 +1,12 @@
 # Análise Fundamentalista: VAMO3
 
-**Fonte:** Yahoo Finance | **Gerado:** 19/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 20/06/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 2.71 |
+| Cotação Atual | R$ 2.68 |
 | Nº Total de Ações | 1,221,826,865 |
 | LPA (TTM) | R$ 0.29 |
 | VPA | R$ 2.40 |
@@ -17,7 +17,7 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Graham | R$ 3.96 | +46.1% (COMPRA) |
+| Graham | R$ 3.96 | +47.8% (COMPRA) |
 
 ---
 

@@ -1,12 +1,12 @@
 # Análise Fundamentalista: DIRR3
 
-**Fonte:** Yahoo Finance | **Gerado:** 19/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 20/06/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 13.45 |
+| Cotação Atual | R$ 13.59 |
 | Nº Total de Ações | 520,334,521 |
 | LPA (TTM) | R$ 1.59 |
 | VPA | R$ 3.69 |
@@ -17,7 +17,7 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Graham | R$ 11.49 | -14.5% (AGUARDAR) |
+| Graham | R$ 11.49 | -15.4% (VENDA) |
 
 ---
 

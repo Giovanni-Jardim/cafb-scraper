@@ -1,12 +1,12 @@
 # Análise Fundamentalista: GGPS3
 
-**Fonte:** Yahoo Finance | **Gerado:** 19/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 20/06/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 11.30 |
+| Cotação Atual | R$ 11.25 |
 | Nº Total de Ações | 752,350,487 |
 | LPA (TTM) | R$ 0.94 |
 | VPA | R$ 5.48 |
@@ -17,7 +17,7 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Graham | R$ 10.76 | -4.7% (AGUARDAR) |
+| Graham | R$ 10.76 | -4.3% (AGUARDAR) |
 
 ---
 
