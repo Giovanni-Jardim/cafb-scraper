@@ -1,6 +1,6 @@
 # Análise Fundamentalista: QUAL3
 
-**Fonte:** Yahoo Finance | **Gerado:** 20/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 21/06/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 281,500,215 |
 | LPA (TTM) | R$ 0.02 |
 | VPA | R$ 4.65 |
-| Dividend Yield | 57.00% |
+| Dividend Yield | 51.00% |
 | Proventos 12m | R$ 0.01 |
 
 ### Valuation

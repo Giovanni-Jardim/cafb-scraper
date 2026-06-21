@@ -1,6 +1,6 @@
 # Análise Fundamentalista: VIVT3
 
-**Fonte:** Yahoo Finance | **Gerado:** 20/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 21/06/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 3,195,606,352 |
 | LPA (TTM) | R$ 1.97 |
 | VPA | R$ 21.50 |
-| Dividend Yield | 2.57% |
+| Dividend Yield | 2.66% |
 | Proventos 12m | R$ 0.86 |
 
 ### Valuation

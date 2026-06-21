@@ -1,6 +1,6 @@
 # Análise Fundamentalista: SEER3
 
-**Fonte:** Yahoo Finance | **Gerado:** 20/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 21/06/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,13 +10,14 @@
 | Nº Total de Ações | 128,040,470 |
 | LPA (TTM) | R$ 7.28 |
 | VPA | R$ 11.08 |
-
-
+| Dividend Yield | 4.28% |
+| Proventos 12m | R$ 0.48 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
+| Bazin (6%) | R$ 8.00 | -28.3% (VENDA) |
 | Graham | R$ 42.60 | +282.0% (COMPRA) |
 
 ---

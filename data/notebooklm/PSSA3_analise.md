@@ -1,6 +1,6 @@
 # Análise Fundamentalista: PSSA3
 
-**Fonte:** Yahoo Finance | **Gerado:** 20/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 21/06/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,13 +10,14 @@
 | Nº Total de Ações | 640,992,323 |
 | LPA (TTM) | R$ 5.68 |
 | VPA | R$ 24.26 |
-
-
+| Dividend Yield | 3.91% |
+| Proventos 12m | R$ 2.05 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
+| Bazin (6%) | R$ 34.17 | -34.9% (VENDA) |
 | Graham | R$ 55.68 | +6.1% (AGUARDAR) |
 
 ---

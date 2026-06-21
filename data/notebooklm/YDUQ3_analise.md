@@ -1,6 +1,6 @@
 # Análise Fundamentalista: YDUQ3
 
-**Fonte:** Yahoo Finance | **Gerado:** 20/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 21/06/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 254,748,957 |
 | LPA (TTM) | R$ 0.44 |
 | VPA | R$ 11.45 |
-| Dividend Yield | 13.04% |
+| Dividend Yield | 14.19% |
 | Proventos 12m | R$ 1.14 |
 
 ### Valuation

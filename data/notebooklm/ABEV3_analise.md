@@ -1,6 +1,6 @@
 # Análise Fundamentalista: ABEV3
 
-**Fonte:** Yahoo Finance | **Gerado:** 20/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 21/06/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 15,515,697,304 |
 | LPA (TTM) | R$ 0.99 |
 | VPA | R$ 5.78 |
-| Dividend Yield | 1.09% |
+| Dividend Yield | 1.12% |
 | Proventos 12m | R$ 0.18 |
 
 ### Valuation

@@ -1,6 +1,6 @@
 # Análise Fundamentalista: CEAB3
 
-**Fonte:** Yahoo Finance | **Gerado:** 20/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 21/06/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 301,354,334 |
 | LPA (TTM) | R$ 1.88 |
 | VPA | R$ 12.25 |
-| Dividend Yield | 8.77% |
+| Dividend Yield | 9.12% |
 | Proventos 12m | R$ 0.90 |
 
 ### Valuation

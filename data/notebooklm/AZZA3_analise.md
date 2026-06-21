@@ -1,6 +1,6 @@
 # Análise Fundamentalista: AZZA3
 
-**Fonte:** Yahoo Finance | **Gerado:** 20/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 21/06/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 202,103,394 |
 | LPA (TTM) | R$ 4.05 |
 | VPA | R$ 39.63 |
-| Dividend Yield | 14.19% |
+| Dividend Yield | 14.10% |
 | Proventos 12m | R$ 2.48 |
 
 ### Valuation

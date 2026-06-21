@@ -1,6 +1,6 @@
 # Análise Fundamentalista: FLRY3
 
-**Fonte:** Yahoo Finance | **Gerado:** 20/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 21/06/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,13 +10,14 @@
 | Nº Total de Ações | 543,626,208 |
 | LPA (TTM) | R$ 1.16 |
 | VPA | R$ 9.53 |
-
-
+| Dividend Yield | 12.65% |
+| Proventos 12m | R$ 1.89 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
+| Bazin (6%) | R$ 31.50 | +111.0% (COMPRA) |
 | Graham | R$ 15.77 | +5.7% (AGUARDAR) |
 
 ---
