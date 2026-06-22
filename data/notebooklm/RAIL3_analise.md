@@ -1,6 +1,6 @@
 # Análise Fundamentalista: RAIL3
 
-**Fonte:** Yahoo Finance | **Gerado:** 21/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 22/06/2026
 
 ## 📊 Dados de Mercado
 
