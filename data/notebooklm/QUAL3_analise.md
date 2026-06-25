@@ -1,24 +1,24 @@
 # Análise Fundamentalista: QUAL3
 
-**Fonte:** Yahoo Finance | **Gerado:** 24/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 25/06/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 1.92 |
+| Cotação Atual | R$ 1.84 |
 | Nº Total de Ações | 281,500,215 |
 | LPA (TTM) | R$ 0.02 |
 | VPA | R$ 4.65 |
-| Dividend Yield | 48.00% |
+| Dividend Yield | 49.00% |
 | Proventos 12m | R$ 0.01 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 0.17 | -91.3% (VENDA) |
-| Graham | R$ 1.45 | -24.7% (VENDA) |
+| Bazin (6%) | R$ 0.17 | -90.9% (VENDA) |
+| Graham | R$ 1.45 | -21.4% (VENDA) |
 
 ---
 

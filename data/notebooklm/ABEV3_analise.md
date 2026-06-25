@@ -1,16 +1,16 @@
 # Análise Fundamentalista: ABEV3
 
-**Fonte:** Yahoo Finance | **Gerado:** 24/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 25/06/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 16.37 |
+| Cotação Atual | R$ 16.38 |
 | Nº Total de Ações | 15,515,697,304 |
 | LPA (TTM) | R$ 0.99 |
 | VPA | R$ 5.78 |
-| Dividend Yield | 1.11% |
+| Dividend Yield | 1.10% |
 | Proventos 12m | R$ 0.18 |
 
 ### Valuation

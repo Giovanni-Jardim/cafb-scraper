@@ -1,24 +1,24 @@
 # Análise Fundamentalista: CAML3
 
-**Fonte:** Yahoo Finance | **Gerado:** 24/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 25/06/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 4.95 |
+| Cotação Atual | R$ 5.03 |
 | Nº Total de Ações | 341,071,232 |
 | LPA (TTM) | R$ 0.41 |
 | VPA | R$ 8.84 |
-| Dividend Yield | 8.39% |
+| Dividend Yield | 8.29% |
 | Proventos 12m | R$ 0.41 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 6.83 | +38.0% (COMPRA) |
-| Graham | R$ 9.03 | +82.4% (COMPRA) |
+| Bazin (6%) | R$ 6.83 | +35.9% (COMPRA) |
+| Graham | R$ 9.03 | +79.5% (COMPRA) |
 
 ---
 
