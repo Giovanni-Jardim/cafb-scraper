@@ -1,6 +1,6 @@
 # Análise Fundamentalista: BBDC3
 
-**Fonte:** Yahoo Finance | **Gerado:** 27/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 28/06/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 5,293,220,781 |
 | LPA (TTM) | R$ 2.10 |
 | VPA | R$ 17.01 |
-| Dividend Yield | 1.35% |
+| Dividend Yield | 1.32% |
 | Proventos 12m | R$ 0.21 |
 
 ### Valuation

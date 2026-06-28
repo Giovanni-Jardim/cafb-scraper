@@ -1,6 +1,6 @@
 # Análise Fundamentalista: MOTV3
 
-**Fonte:** Yahoo Finance | **Gerado:** 27/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 28/06/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 2,010,925,355 |
 | LPA (TTM) | R$ 1.47 |
 | VPA | R$ 8.12 |
-| Dividend Yield | 1.45% |
+| Dividend Yield | 1.44% |
 | Proventos 12m | R$ 0.21 |
 
 ### Valuation

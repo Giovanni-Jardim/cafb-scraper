@@ -1,6 +1,6 @@
 # Análise Fundamentalista: PLPL3
 
-**Fonte:** Yahoo Finance | **Gerado:** 27/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 28/06/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 202,945,780 |
 | LPA (TTM) | R$ 1.68 |
 | VPA | R$ 5.04 |
-| Dividend Yield | 17.97% |
+| Dividend Yield | 17.55% |
 | Proventos 12m | R$ 1.50 |
 
 ### Valuation

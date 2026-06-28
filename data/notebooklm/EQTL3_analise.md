@@ -1,6 +1,6 @@
 # Análise Fundamentalista: EQTL3
 
-**Fonte:** Yahoo Finance | **Gerado:** 27/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 28/06/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 1,254,916,065 |
 | LPA (TTM) | R$ 0.94 |
 | VPA | R$ 20.43 |
-| Dividend Yield | 6.08% |
+| Dividend Yield | 5.97% |
 | Proventos 12m | R$ 2.37 |
 
 ### Valuation
