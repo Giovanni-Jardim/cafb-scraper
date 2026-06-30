@@ -5,10 +5,10 @@
   "region": "US",
   "triggerable": false,
   "customPriceAlertConfidence": "NONE",
-  "corporateActions": [],
-  "esgPopulated": false,
   "financialCurrency": "BRL",
   "hasPrePostMarketData": false,
+  "esgPopulated": false,
+  "corporateActions": [],
   "tradeable": false,
   "cryptoTradeable": false,
   "trailingPegRatio": null
