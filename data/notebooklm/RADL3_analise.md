@@ -1,24 +1,24 @@
 # Análise Fundamentalista: RADL3
 
-**Fonte:** Yahoo Finance | **Gerado:** 30/06/2026
+**Fonte:** Yahoo Finance | **Gerado:** 01/07/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 17.16 |
+| Cotação Atual | R$ 16.81 |
 | Nº Total de Ações | 1,748,536,237 |
 | LPA (TTM) | R$ 0.79 |
 | VPA | R$ 4.20 |
-| Dividend Yield | 2.30% |
+| Dividend Yield | 2.33% |
 | Proventos 12m | R$ 0.40 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 6.67 | -61.1% (VENDA) |
-| Graham | R$ 8.64 | -49.7% (VENDA) |
+| Bazin (6%) | R$ 6.67 | -60.3% (VENDA) |
+| Graham | R$ 8.64 | -48.6% (VENDA) |
 
 ---
 
