@@ -1,12 +1,12 @@
 # Análise Fundamentalista: PCAR3
 
-**Fonte:** Yahoo Finance | **Gerado:** 01/07/2026
+**Fonte:** Yahoo Finance | **Gerado:** 02/07/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 2.31 |
+| Cotação Atual | R$ 2.29 |
 | Nº Total de Ações | 492,547,121 |
 | LPA (TTM) | R$ -3.88 |
 | VPA | R$ 4.29 |
