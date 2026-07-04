@@ -1,6 +1,6 @@
 # Análise Fundamentalista: LREN3
 
-**Fonte:** Yahoo Finance | **Gerado:** 03/07/2026
+**Fonte:** Yahoo Finance | **Gerado:** 04/07/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 964,360,019 |
 | LPA (TTM) | R$ 1.48 |
 | VPA | R$ 10.62 |
-| Dividend Yield | 6.17% |
+| Dividend Yield | 6.20% |
 | Proventos 12m | R$ 0.92 |
 
 ### Valuation
