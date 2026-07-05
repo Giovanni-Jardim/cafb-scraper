@@ -1,6 +1,6 @@
 # Análise Fundamentalista: SIMH3
 
-**Fonte:** Yahoo Finance | **Gerado:** 04/07/2026
+**Fonte:** Yahoo Finance | **Gerado:** 05/07/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 583,759,291 |
 | LPA (TTM) | R$ -0.17 |
 | VPA | R$ 9.97 |
-| Dividend Yield | 2.17% |
+| Dividend Yield | 2.15% |
 | Proventos 12m | R$ 0.17 |
 
 ### Valuation

@@ -1,6 +1,6 @@
 # Análise Fundamentalista: GGBR4
 
-**Fonte:** Yahoo Finance | **Gerado:** 04/07/2026
+**Fonte:** Yahoo Finance | **Gerado:** 05/07/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 1,250,654,550 |
 | LPA (TTM) | R$ 0.83 |
 | VPA | R$ 26.82 |
-| Dividend Yield | 3.22% |
+| Dividend Yield | 3.17% |
 | Proventos 12m | R$ 0.68 |
 
 ### Valuation

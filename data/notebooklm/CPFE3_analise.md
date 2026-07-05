@@ -1,6 +1,6 @@
 # Análise Fundamentalista: CPFE3
 
-**Fonte:** Yahoo Finance | **Gerado:** 04/07/2026
+**Fonte:** Yahoo Finance | **Gerado:** 05/07/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 1,152,254,440 |
 | LPA (TTM) | R$ 5.00 |
 | VPA | R$ 21.09 |
-| Dividend Yield | 8.27% |
+| Dividend Yield | 8.17% |
 | Proventos 12m | R$ 3.73 |
 
 ### Valuation

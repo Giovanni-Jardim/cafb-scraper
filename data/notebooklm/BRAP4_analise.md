@@ -1,6 +1,6 @@
 # Análise Fundamentalista: BRAP4
 
-**Fonte:** Yahoo Finance | **Gerado:** 04/07/2026
+**Fonte:** Yahoo Finance | **Gerado:** 05/07/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 255,106,712 |
 | LPA (TTM) | R$ 1.87 |
 | VPA | R$ 19.90 |
-| Dividend Yield | 15.59% |
+| Dividend Yield | 15.55% |
 | Proventos 12m | R$ 3.49 |
 
 ### Valuation

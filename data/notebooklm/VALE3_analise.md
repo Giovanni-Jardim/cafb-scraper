@@ -1,6 +1,6 @@
 # Análise Fundamentalista: VALE3
 
-**Fonte:** Yahoo Finance | **Gerado:** 04/07/2026
+**Fonte:** Yahoo Finance | **Gerado:** 05/07/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 4,257,407,053 |
 | LPA (TTM) | R$ 3.42 |
 | VPA | R$ 44.84 |
-| Dividend Yield | 8.81% |
+| Dividend Yield | 8.75% |
 | Proventos 12m | R$ 6.90 |
 
 ### Valuation

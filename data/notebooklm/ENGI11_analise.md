@@ -1,6 +1,6 @@
 # Análise Fundamentalista: ENGI11
 
-**Fonte:** Yahoo Finance | **Gerado:** 04/07/2026
+**Fonte:** Yahoo Finance | **Gerado:** 05/07/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 457,130,457 |
 | LPA (TTM) | R$ 1.38 |
 | VPA | R$ 51.40 |
-| Dividend Yield | 6.77% |
+| Dividend Yield | 6.74% |
 | Proventos 12m | R$ 3.27 |
 
 ### Valuation

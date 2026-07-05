@@ -1,6 +1,6 @@
 # Análise Fundamentalista: COGN3
 
-**Fonte:** Yahoo Finance | **Gerado:** 04/07/2026
+**Fonte:** Yahoo Finance | **Gerado:** 05/07/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 2,000,275,847 |
 | LPA (TTM) | R$ 0.34 |
 | VPA | R$ 6.82 |
-| Dividend Yield | 8.25% |
+| Dividend Yield | 8.21% |
 | Proventos 12m | R$ 0.19 |
 
 ### Valuation

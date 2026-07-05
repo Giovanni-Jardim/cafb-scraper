@@ -1,6 +1,6 @@
 # Análise Fundamentalista: CURY3
 
-**Fonte:** Yahoo Finance | **Gerado:** 04/07/2026
+**Fonte:** Yahoo Finance | **Gerado:** 05/07/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 308,047,594 |
 | LPA (TTM) | R$ 3.58 |
 | VPA | R$ 5.01 |
-| Dividend Yield | 12.59% |
+| Dividend Yield | 12.51% |
 | Proventos 12m | R$ 4.37 |
 
 ### Valuation
