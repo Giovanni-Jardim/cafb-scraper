@@ -1,24 +1,24 @@
 # Análise Fundamentalista: AZZA3
 
-**Fonte:** Yahoo Finance | **Gerado:** 08/07/2026
+**Fonte:** Yahoo Finance | **Gerado:** 09/07/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 18.08 |
+| Cotação Atual | R$ 17.90 |
 | Nº Total de Ações | 202,103,394 |
 | LPA (TTM) | R$ 4.05 |
 | VPA | R$ 39.63 |
-| Dividend Yield | 14.19% |
+| Dividend Yield | 13.70% |
 | Proventos 12m | R$ 2.48 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 41.33 | +128.6% (COMPRA) |
-| Graham | R$ 60.10 | +232.4% (COMPRA) |
+| Bazin (6%) | R$ 41.33 | +130.9% (COMPRA) |
+| Graham | R$ 60.10 | +235.7% (COMPRA) |
 
 ---
 
