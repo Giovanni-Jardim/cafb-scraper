@@ -1,12 +1,12 @@
 # Análise Fundamentalista: PCAR3
 
-**Fonte:** Yahoo Finance | **Gerado:** 09/07/2026
+**Fonte:** Yahoo Finance | **Gerado:** 10/07/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 2.71 |
+| Cotação Atual | R$ 2.76 |
 | Nº Total de Ações | 492,547,121 |
 | LPA (TTM) | R$ -3.88 |
 | VPA | R$ 4.29 |
@@ -39,7 +39,7 @@
 | Trimestre | ROE | Margem Líq | DL/EBITDA | FCO/Receita |
 |-----------|-----|------------|-----------|-------------|
 | 1T2026 | -203.5% | -30.8% | 7.3x | -16.1% |
-| 4T2024 | -3.2% | -2.0% | 4.1x | -9.4% |
+| 4T2024 | N/A | N/A | N/A | N/A |
 
 ## Série Histórica Completa
 
@@ -58,13 +58,13 @@
 
 ### DRE - BILHOES
 
-| Conta           |     1T2026 |     1T2025 |     4T2024 |
-|:----------------|-----------:|-----------:|-----------:|
-| Receita Líquida |  4.374e+09 |  4.767e+09 |  5.22e+09  |
-| Lucro Bruto     |  1.332e+09 |  1.315e+09 |  1.417e+09 |
-| EBITDA          |  4.44e+08  |  3.44e+08  | -7.5e+07   |
-| EBIT            |  4.44e+08  |  3.44e+08  | -7.5e+07   |
-| Lucro Líquido   | -1.347e+09 | -9.4e+07   | -7.37e+08  |
+| Conta           |     1T2026 |   3T2025 |     1T2025 |     4T2024 |
+|:----------------|-----------:|---------:|-----------:|-----------:|
+| Receita Líquida |  4.374e+09 |      nan |  4.767e+09 |  5.22e+09  |
+| Lucro Bruto     |  1.332e+09 |      nan |  1.315e+09 |  1.417e+09 |
+| EBITDA          |  4.44e+08  |      nan |  3.44e+08  | -7.5e+07   |
+| EBIT            |  4.44e+08  |      nan |  3.44e+08  | -7.5e+07   |
+| Lucro Líquido   | -1.347e+09 |      nan | -9.4e+07   | -7.37e+08  |
 
 ### DFC - BILHOES
 
