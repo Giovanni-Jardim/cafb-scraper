@@ -1,6 +1,6 @@
 # Análise Fundamentalista: JHSF3
 
-**Fonte:** Yahoo Finance | **Gerado:** 10/07/2026
+**Fonte:** Yahoo Finance | **Gerado:** 11/07/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 666,712,156 |
 | LPA (TTM) | R$ 3.16 |
 | VPA | R$ 10.59 |
-| Dividend Yield | 8.02% |
+| Dividend Yield | 7.74% |
 | Proventos 12m | R$ 0.83 |
 
 ### Valuation

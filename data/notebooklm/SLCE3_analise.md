@@ -1,16 +1,16 @@
 # Análise Fundamentalista: SLCE3
 
-**Fonte:** Yahoo Finance | **Gerado:** 10/07/2026
+**Fonte:** Yahoo Finance | **Gerado:** 11/07/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
 | Cotação Atual | R$ 13.79 |
-| Nº Total de Ações | 496,561,422 |
+| Nº Total de Ações | 496,311,324 |
 | LPA (TTM) | R$ 0.65 |
 | VPA | R$ 10.70 |
-| Dividend Yield | 9.77% |
+| Dividend Yield | 9.36% |
 | Proventos 12m | R$ 1.29 |
 
 ### Valuation
