@@ -1,6 +1,6 @@
 # Análise Fundamentalista: SAPR11
 
-**Fonte:** Yahoo Finance | **Gerado:** 12/07/2026
+**Fonte:** Yahoo Finance | **Gerado:** 13/07/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 302,241,103 |
 | LPA (TTM) | R$ 0.81 |
 | VPA | R$ 42.02 |
-| Dividend Yield | 2.99% |
+| Dividend Yield | 2.92% |
 | Proventos 12m | R$ 1.10 |
 
 ### Valuation
