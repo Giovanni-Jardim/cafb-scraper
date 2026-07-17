@@ -1,24 +1,24 @@
 # Análise Fundamentalista: CAML3
 
-**Fonte:** Yahoo Finance | **Gerado:** 16/07/2026
+**Fonte:** Yahoo Finance | **Gerado:** 17/07/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 4.41 |
+| Cotação Atual | R$ 4.30 |
 | Nº Total de Ações | 341,071,232 |
 | LPA (TTM) | R$ 0.30 |
 | VPA | R$ 8.84 |
-| Dividend Yield | 7.62% |
+| Dividend Yield | 9.31% |
 | Proventos 12m | R$ 0.41 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 6.83 | +55.0% (COMPRA) |
-| Graham | R$ 7.73 | +75.2% (COMPRA) |
+| Bazin (6%) | R$ 6.83 | +58.9% (COMPRA) |
+| Graham | R$ 7.73 | +79.7% (COMPRA) |
 
 ---
 
@@ -44,7 +44,7 @@
 
 | Trimestre | ROE | Margem Líq | DL/EBITDA | FCO/Receita |
 |-----------|-----|------------|-----------|-------------|
-| 2T2026 | 0.9% | 1.0% | 23.7x | -34.6% |
+| 2T2026 | 0.9% | 1.0% | 19.3x | -34.6% |
 | 1T2026 | -1.3% | -1.6% | 399.0x | 39.5% |
 | 4T2025 | 1.3% | 1.5% | 13.7x | -3.1% |
 | 2T2025 | N/A | N/A | 10.1x | N/A |
@@ -70,8 +70,8 @@
 |:----------------|------------:|-------------:|------------:|--------------:|------------:|--------------:|---------:|
 | Receita Líquida | 2.66798e+09 |  2.50276e+09 | 2.94525e+09 | nan           | 2.68733e+09 |   2.99715e+09 |      nan |
 | Lucro Bruto     | 6.51796e+08 |  5.4327e+08  | 6.6915e+08  | nan           | 6.06084e+08 |   5.31479e+08 |      nan |
-| EBITDA          | 1.79061e+08 |  7.496e+06   | 2.80378e+08 |   3.57719e+08 | 2.04197e+08 | nan           |      nan |
-| EBIT            | 1.79061e+08 |  7.496e+06   | 2.80378e+08 |   3.57719e+08 | 2.04197e+08 | nan           |      nan |
+| EBITDA          | 2.19821e+08 |  7.496e+06   | 2.80378e+08 |   3.57719e+08 | 2.54115e+08 | nan           |      nan |
+| EBIT            | 2.19821e+08 |  7.496e+06   | 2.80378e+08 |   3.57719e+08 | 2.54115e+08 | nan           |      nan |
 | Lucro Líquido   | 2.7909e+07  | -4.0394e+07  | 4.4058e+07  | nan           | 6.6002e+07  |  -2.4629e+07  |      nan |
 
 ### DFC - BILHOES
