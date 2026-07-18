@@ -1,12 +1,12 @@
 # Análise Fundamentalista: VIVT3
 
-**Fonte:** Yahoo Finance | **Gerado:** 17/07/2026
+**Fonte:** Yahoo Finance | **Gerado:** 18/07/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 35.47 |
+| Cotação Atual | R$ 35.52 |
 | Nº Total de Ações | 3,195,606,352 |
 | LPA (TTM) | R$ 1.97 |
 | VPA | R$ 21.50 |
@@ -18,7 +18,7 @@
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
 | Bazin (6%) | R$ 14.33 | -59.6% (VENDA) |
-| Graham | R$ 30.87 | -13.0% (AGUARDAR) |
+| Graham | R$ 30.87 | -13.1% (AGUARDAR) |
 
 ---
 
@@ -58,7 +58,7 @@
 | Ativo Total          | 1.30485e+11 |   1.28072e+11 |   1.23899e+11 | 1.26476e+11 | 1.26605e+11 |      nan |
 | Ativo Circulante     | 3.35063e+09 |   3.34268e+09 |   3.49066e+09 | 3.28986e+09 | 3.2218e+09  |      nan |
 | Caixa e Equivalentes | 9.05401e+09 |   7.03234e+09 |   6.79656e+09 | 9.44387e+09 | 8.18511e+09 |      nan |
-| Passivo Total        | 6.07085e+10 |   5.9069e+10  |   5.5399e+10  | 5.83363e+10 | 5.84607e+10 |      nan |
+| Passivo Total        | 6.07085e+10 |   5.9069e+10  |   5.5399e+10  | 5.8336e+10  | 5.84607e+10 |      nan |
 | Passivo Circulante   | 1.79704e+09 |   1.74885e+09 |   1.59321e+09 | 1.66432e+09 | 1.6711e+09  |      nan |
 | Dívida Bruta         | 1.98704e+10 |   2.03467e+10 |   1.80766e+10 | 2.03157e+10 | 2.05594e+10 |      nan |
 | Dívida Líquida       | 1.0808e+10  | nan           | nan           | 1.0861e+10  | 1.2377e+10  |      nan |

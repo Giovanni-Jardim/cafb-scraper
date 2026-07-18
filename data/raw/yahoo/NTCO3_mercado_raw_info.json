@@ -7,9 +7,9 @@
   "customPriceAlertConfidence": "NONE",
   "tradeable": false,
   "cryptoTradeable": false,
+  "corporateActions": [],
   "esgPopulated": false,
   "hasPrePostMarketData": false,
   "financialCurrency": "BRL",
-  "corporateActions": [],
   "trailingPegRatio": null
 }
