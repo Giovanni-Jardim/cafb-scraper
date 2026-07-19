@@ -1,6 +1,6 @@
 # Análise Fundamentalista: PETR4
 
-**Fonte:** Yahoo Finance | **Gerado:** 18/07/2026
+**Fonte:** Yahoo Finance | **Gerado:** 19/07/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 5,446,501,379 |
 | LPA (TTM) | R$ 8.13 |
 | VPA | R$ 34.54 |
-| Dividend Yield | 9.77% |
+| Dividend Yield | 9.53% |
 | Proventos 12m | R$ 3.90 |
 
 ### Valuation
