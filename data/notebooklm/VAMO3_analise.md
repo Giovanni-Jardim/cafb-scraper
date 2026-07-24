@@ -1,24 +1,24 @@
 # Análise Fundamentalista: VAMO3
 
-**Fonte:** Yahoo Finance | **Gerado:** 23/07/2026
+**Fonte:** Yahoo Finance | **Gerado:** 24/07/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 3.23 |
+| Cotação Atual | R$ 3.21 |
 | Nº Total de Ações | 1,221,740,534 |
 | LPA (TTM) | R$ 0.29 |
 | VPA | R$ 2.44 |
-| Dividend Yield | 4.53% |
+| Dividend Yield | 4.34% |
 | Proventos 12m | R$ 0.14 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 2.33 | -27.8% (VENDA) |
-| Graham | R$ 3.99 | +23.6% (COMPRA) |
+| Bazin (6%) | R$ 2.33 | -27.3% (VENDA) |
+| Graham | R$ 3.99 | +24.4% (COMPRA) |
 
 ---
 

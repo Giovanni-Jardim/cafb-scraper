@@ -1,23 +1,23 @@
 # Análise Fundamentalista: SIMH3
 
-**Fonte:** Yahoo Finance | **Gerado:** 23/07/2026
+**Fonte:** Yahoo Finance | **Gerado:** 24/07/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 7.31 |
+| Cotação Atual | R$ 7.67 |
 | Nº Total de Ações | 583,759,291 |
 | LPA (TTM) | R$ -0.17 |
 | VPA | R$ 9.97 |
-| Dividend Yield | 2.36% |
+| Dividend Yield | 2.34% |
 | Proventos 12m | R$ 0.17 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 2.83 | -61.2% (VENDA) |
+| Bazin (6%) | R$ 2.83 | -63.1% (VENDA) |
 
 ---
 
