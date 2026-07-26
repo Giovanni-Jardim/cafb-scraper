@@ -1,6 +1,6 @@
 # Análise Fundamentalista: MGLU3
 
-**Fonte:** Yahoo Finance | **Gerado:** 25/07/2026
+**Fonte:** Yahoo Finance | **Gerado:** 26/07/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 775,658,438 |
 | LPA (TTM) | R$ 0.18 |
 | VPA | R$ 14.55 |
-| Dividend Yield | 55.00% |
+| Dividend Yield | 56.00% |
 | Proventos 12m | R$ 0.03 |
 
 ### Valuation

@@ -1,6 +1,6 @@
 # Análise Fundamentalista: CMIG4
 
-**Fonte:** Yahoo Finance | **Gerado:** 25/07/2026
+**Fonte:** Yahoo Finance | **Gerado:** 26/07/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 1,904,080,104 |
 | LPA (TTM) | R$ 1.71 |
 | VPA | R$ 10.10 |
-| Dividend Yield | 11.45% |
+| Dividend Yield | 11.67% |
 | Proventos 12m | R$ 1.28 |
 
 ### Valuation
