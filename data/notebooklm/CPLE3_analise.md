@@ -1,12 +1,12 @@
 # Análise Fundamentalista: CPLE3
 
-**Fonte:** Yahoo Finance | **Gerado:** 27/07/2026
+**Fonte:** Yahoo Finance | **Gerado:** 28/07/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 14.54 |
+| Cotação Atual | R$ 14.78 |
 | Nº Total de Ações | 2,969,610,592 |
 | LPA (TTM) | R$ 0.91 |
 | VPA | R$ 8.02 |
@@ -17,8 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 17.67 | +21.5% (COMPRA) |
-| Graham | R$ 12.82 | -11.8% (AGUARDAR) |
+| Bazin (6%) | R$ 17.67 | +19.5% (COMPRA) |
+| Graham | R$ 12.82 | -13.3% (AGUARDAR) |
 
 ---
 

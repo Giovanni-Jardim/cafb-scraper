@@ -1,12 +1,12 @@
 # Análise Fundamentalista: GOAU4
 
-**Fonte:** Yahoo Finance | **Gerado:** 27/07/2026
+**Fonte:** Yahoo Finance | **Gerado:** 28/07/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 10.52 |
+| Cotação Atual | R$ 10.67 |
 | Nº Total de Ações | 836,071,784 |
 | LPA (TTM) | R$ 0.37 |
 | VPA | R$ 14.28 |
@@ -17,8 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 5.50 | -47.7% (VENDA) |
-| Graham | R$ 10.90 | +3.6% (AGUARDAR) |
+| Bazin (6%) | R$ 5.50 | -48.5% (VENDA) |
+| Graham | R$ 10.90 | +2.2% (AGUARDAR) |
 
 ---
 
