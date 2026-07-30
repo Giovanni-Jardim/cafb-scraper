@@ -1,12 +1,12 @@
 # Análise Fundamentalista: POSI3
 
-**Fonte:** Yahoo Finance | **Gerado:** 29/07/2026
+**Fonte:** Yahoo Finance | **Gerado:** 30/07/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 3.60 |
+| Cotação Atual | R$ 3.55 |
 | Nº Total de Ações | 138,470,742 |
 | LPA (TTM) | R$ 0.07 |
 | VPA | R$ 11.18 |
@@ -17,8 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 7.50 | +108.3% (COMPRA) |
-| Graham | R$ 4.20 | +16.6% (COMPRA) |
+| Bazin (6%) | R$ 7.50 | +111.3% (COMPRA) |
+| Graham | R$ 4.20 | +18.2% (COMPRA) |
 
 ---
 
