@@ -1,24 +1,24 @@
 # Análise Fundamentalista: PLPL3
 
-**Fonte:** Yahoo Finance | **Gerado:** 31/07/2026
+**Fonte:** Yahoo Finance | **Gerado:** 01/08/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 7.50 |
+| Cotação Atual | R$ 7.36 |
 | Nº Total de Ações | 202,945,780 |
 | LPA (TTM) | R$ 1.68 |
 | VPA | R$ 5.24 |
-| Dividend Yield | 20.76% |
+| Dividend Yield | 19.98% |
 | Proventos 12m | R$ 1.50 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 25.00 | +233.3% (COMPRA) |
-| Graham | R$ 14.08 | +87.7% (COMPRA) |
+| Bazin (6%) | R$ 25.00 | +239.7% (COMPRA) |
+| Graham | R$ 14.08 | +91.3% (COMPRA) |
 
 ---
 

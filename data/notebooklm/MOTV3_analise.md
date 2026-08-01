@@ -1,24 +1,24 @@
 # Análise Fundamentalista: MOTV3
 
-**Fonte:** Yahoo Finance | **Gerado:** 31/07/2026
+**Fonte:** Yahoo Finance | **Gerado:** 01/08/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 14.89 |
+| Cotação Atual | R$ 14.76 |
 | Nº Total de Ações | 2,009,939,382 |
-| LPA (TTM) | R$ 1.47 |
+| LPA (TTM) | R$ 1.70 |
 | VPA | R$ 8.12 |
-| Dividend Yield | 1.47% |
+| Dividend Yield | 1.41% |
 | Proventos 12m | R$ 0.21 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 3.50 | -76.5% (VENDA) |
-| Graham | R$ 16.39 | +10.1% (AGUARDAR) |
+| Bazin (6%) | R$ 3.50 | -76.3% (VENDA) |
+| Graham | R$ 17.63 | +19.4% (COMPRA) |
 
 ---
 
@@ -44,10 +44,10 @@
 
 | Trimestre | ROE | Margem Líq | DL/EBITDA | FCO/Receita |
 |-----------|-----|------------|-----------|-------------|
-| 2T2026 | 7.5% | 27.6% | 26.7x | 44.4% |
-| 1T2026 | 2.9% | 10.8% | 17.7x | 24.9% |
-| 4T2025 | 1.6% | 7.7% | 19.5x | -4.2% |
-| 2T2025 | N/A | N/A | 9.8x | N/A |
+| 2T2026 | 7.5% | 27.6% | 13.7x | 44.4% |
+| 1T2026 | 2.9% | 10.8% | 14.9x | 24.9% |
+| 4T2025 | 1.6% | 7.7% | 35.9x | -4.2% |
+| 2T2025 | N/A | N/A | 9.4x | N/A |
 
 ## Série Histórica Completa
 
@@ -68,10 +68,10 @@
 
 | Conta           |    2T2026 |    1T2026 |      4T2025 |        3T2025 |    2T2025 |      1T2025 |   4T2024 |
 |:----------------|----------:|----------:|------------:|--------------:|----------:|------------:|---------:|
-| Receita Líquida | 4.827e+09 | 4.376e+09 | 3.24538e+09 | nan           | 4.027e+09 |   3.904e+09 |      nan |
-| Lucro Bruto     | 2.21e+09  | 2.144e+09 | 1.21087e+09 | nan           | 1.728e+09 |   1.943e+09 |      nan |
-| EBITDA          | 1.45e+09  | 1.973e+09 | 1.71889e+09 |   3.54963e+09 | 1.791e+09 | nan         |      nan |
-| EBIT            | 1.45e+09  | 1.973e+09 | 1.71889e+09 |   3.54963e+09 | 1.791e+09 | nan         |      nan |
+| Receita Líquida | 4.827e+09 | 4.376e+09 | 3.24538e+09 | nan           | 4.026e+09 |   3.904e+09 |      nan |
+| Lucro Bruto     | 2.21e+09  | 2.144e+09 | 1.21087e+09 | nan           | 1.727e+09 |   1.943e+09 |      nan |
+| EBITDA          | 2.818e+09 | 2.344e+09 | 9.35646e+08 |   3.69042e+09 | 1.83e+09  | nan         |      nan |
+| EBIT            | 2.818e+09 | 2.344e+09 | 9.35646e+08 |   3.69042e+09 | 1.83e+09  | nan         |      nan |
 | Lucro Líquido   | 1.332e+09 | 4.74e+08  | 2.48468e+08 | nan           | 8.89e+08  |   4.43e+08  |      nan |
 
 ### DFC - BILHOES

@@ -1,24 +1,24 @@
 # Análise Fundamentalista: VBBR3
 
-**Fonte:** Yahoo Finance | **Gerado:** 31/07/2026
+**Fonte:** Yahoo Finance | **Gerado:** 01/08/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 35.63 |
+| Cotação Atual | R$ 36.05 |
 | Nº Total de Ações | 1,192,979,286 |
 | LPA (TTM) | R$ 2.57 |
 | VPA | R$ 18.22 |
-| Dividend Yield | 4.51% |
+| Dividend Yield | 4.38% |
 | Proventos 12m | R$ 1.56 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 26.00 | -27.0% (VENDA) |
-| Graham | R$ 32.46 | -8.9% (AGUARDAR) |
+| Bazin (6%) | R$ 26.00 | -27.9% (VENDA) |
+| Graham | R$ 32.46 | -10.0% (AGUARDAR) |
 
 ---
 
