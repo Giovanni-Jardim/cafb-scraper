@@ -1,6 +1,6 @@
 # Análise Fundamentalista: UGPA3
 
-**Fonte:** Yahoo Finance | **Gerado:** 02/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 03/08/2026
 
 ## 📊 Dados de Mercado
 
