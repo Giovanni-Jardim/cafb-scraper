@@ -1,12 +1,12 @@
 # Análise Fundamentalista: ABCB4
 
-**Fonte:** Yahoo Finance | **Gerado:** 04/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 05/08/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 24.00 |
+| Cotação Atual | R$ 23.96 |
 | Nº Total de Ações | 126,609,076 |
 | LPA (TTM) | R$ 5.41 |
 | VPA | R$ 29.53 |
@@ -17,8 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 39.00 | +62.5% (COMPRA) |
-| Graham | R$ 59.96 | +149.8% (COMPRA) |
+| Bazin (6%) | R$ 39.00 | +62.8% (COMPRA) |
+| Graham | R$ 59.96 | +150.2% (COMPRA) |
 
 ---
 
