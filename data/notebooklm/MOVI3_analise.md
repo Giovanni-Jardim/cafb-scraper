@@ -1,24 +1,24 @@
 # Análise Fundamentalista: MOVI3
 
-**Fonte:** Yahoo Finance | **Gerado:** 07/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 08/08/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 7.71 |
+| Cotação Atual | R$ 7.76 |
 | Nº Total de Ações | 404,162,922 |
 | LPA (TTM) | R$ 1.04 |
 | VPA | R$ 9.04 |
-| Dividend Yield | 11.40% |
+| Dividend Yield | 11.77% |
 | Proventos 12m | R$ 0.91 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 15.17 | +96.7% (COMPRA) |
-| Graham | R$ 14.55 | +88.7% (COMPRA) |
+| Bazin (6%) | R$ 15.17 | +95.4% (COMPRA) |
+| Graham | R$ 14.55 | +87.5% (COMPRA) |
 
 ---
 
@@ -26,14 +26,14 @@
 
 |   Ano |   Total Proventos (R$) |   Nº Pagamentos |
 |------:|-----------------------:|----------------:|
-|  2021 |                 0.5101 |               5 |
-|  2022 |                 1.4152 |               5 |
-|  2023 |                 0.1188 |               1 |
-|  2024 |                 0.1512 |               1 |
-|  2025 |                 0.7631 |               2 |
+|  2021 |                 0.5082 |               5 |
+|  2022 |                 1.4141 |               5 |
+|  2023 |                 0.1179 |               1 |
+|  2024 |                 0.15   |               1 |
+|  2025 |                 0.7572 |               2 |
 
-**Média Anual:** R$ 0.5917
-**Último Ano:** R$ 0.7631
+**Média Anual:** R$ 0.5895
+**Último Ano:** R$ 0.7572
 
 ---
 
