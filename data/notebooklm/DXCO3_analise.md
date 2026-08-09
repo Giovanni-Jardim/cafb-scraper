@@ -1,13 +1,13 @@
 # Análise Fundamentalista: DXCO3
 
-**Fonte:** Yahoo Finance | **Gerado:** 08/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 09/08/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
 | Cotação Atual | R$ 5.22 |
-| Nº Total de Ações | 907,851,165 |
+| Nº Total de Ações | 907,870,672 |
 
 | VPA | R$ 7.62 |
 | Dividend Yield | 1.02% |

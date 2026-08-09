@@ -1,13 +1,13 @@
 # Análise Fundamentalista: ASAI3
 
-**Fonte:** Yahoo Finance | **Gerado:** 08/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 09/08/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
 | Cotação Atual | R$ 8.24 |
-| Nº Total de Ações | 1,338,381,276 |
+| Nº Total de Ações | 1,339,302,415 |
 | LPA (TTM) | R$ 0.37 |
 | VPA | R$ 4.39 |
 | Dividend Yield | 1.40% |
