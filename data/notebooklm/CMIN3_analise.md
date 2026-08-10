@@ -1,6 +1,6 @@
 # Análise Fundamentalista: CMIN3
 
-**Fonte:** Yahoo Finance | **Gerado:** 09/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 10/08/2026
 
 ## 📊 Dados de Mercado
 

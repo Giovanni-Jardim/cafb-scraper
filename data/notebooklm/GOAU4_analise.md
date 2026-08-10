@@ -1,13 +1,13 @@
 # Análise Fundamentalista: GOAU4
 
-**Fonte:** Yahoo Finance | **Gerado:** 09/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 10/08/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
 | Cotação Atual | R$ 11.01 |
-| Nº Total de Ações | 835,698,784 |
+| Nº Total de Ações | 836,071,784 |
 | LPA (TTM) | R$ 0.37 |
 | VPA | R$ 14.44 |
 | Dividend Yield | 4.00% |
