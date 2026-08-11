@@ -1,15 +1,15 @@
 # Análise Fundamentalista: GGBR4
 
-**Fonte:** Yahoo Finance | **Gerado:** 10/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 11/08/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 25.05 |
+| Cotação Atual | R$ 25.25 |
 | Nº Total de Ações | 1,246,169,819 |
 | LPA (TTM) | R$ 1.15 |
-| VPA | R$ 26.82 |
+| VPA | R$ 27.27 |
 | Dividend Yield | 3.67% |
 | Proventos 12m | R$ 0.92 |
 
@@ -17,8 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 15.33 | -38.8% (VENDA) |
-| Graham | R$ 26.34 | +5.2% (AGUARDAR) |
+| Bazin (6%) | R$ 15.33 | -39.3% (VENDA) |
+| Graham | R$ 26.57 | +5.2% (AGUARDAR) |
 
 ---
 
@@ -70,8 +70,8 @@
 |:----------------|--------------:|------------:|-------------:|------------:|------------:|--------------:|---------:|
 | Receita Líquida | nan           | 1.67157e+10 |  1.69743e+10 | 1.79831e+10 | 1.75258e+10 |   1.73753e+10 |      nan |
 | Lucro Bruto     | nan           | 2.29387e+09 |  1.8483e+09  | 2.14209e+09 | 2.03055e+09 |   1.94655e+09 |      nan |
-| EBITDA          |   3.38279e+09 | 2.64422e+09 |  2.05712e+09 | 2.5246e+09  | 2.56528e+09 | nan           |      nan |
-| EBIT            |   3.38279e+09 | 2.64422e+09 |  2.05712e+09 | 2.5246e+09  | 2.56528e+09 | nan           |      nan |
+| EBITDA          |   3.38464e+09 | 2.64422e+09 |  2.05712e+09 | 2.5246e+09  | 2.55798e+09 | nan           |      nan |
+| EBIT            |   3.38464e+09 | 2.64422e+09 |  2.05712e+09 | 2.5246e+09  | 2.55798e+09 | nan           |      nan |
 | Lucro Líquido   |   1.46605e+09 | 1.00205e+09 | -1.29815e+09 | 1.0794e+09  | 8.64497e+08 | nan           |      nan |
 
 ### DFC - BILHOES
