@@ -1,24 +1,24 @@
 # Análise Fundamentalista: GGBR4
 
-**Fonte:** Yahoo Finance | **Gerado:** 12/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 13/08/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 24.16 |
-| Nº Total de Ações | 1,246,169,819 |
+| Cotação Atual | R$ 24.88 |
+| Nº Total de Ações | 1,245,150,696 |
 | LPA (TTM) | R$ 1.15 |
 | VPA | R$ 27.27 |
-| Dividend Yield | 3.64% |
+| Dividend Yield | 3.81% |
 | Proventos 12m | R$ 0.92 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 15.33 | -36.5% (VENDA) |
-| Graham | R$ 26.57 | +10.0% (AGUARDAR) |
+| Bazin (6%) | R$ 15.33 | -38.4% (VENDA) |
+| Graham | R$ 26.57 | +6.8% (AGUARDAR) |
 
 ---
 
