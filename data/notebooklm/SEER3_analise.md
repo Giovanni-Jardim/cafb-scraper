@@ -1,12 +1,12 @@
 # Análise Fundamentalista: SEER3
 
-**Fonte:** Yahoo Finance | **Gerado:** 14/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 15/08/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 11.55 |
+| Cotação Atual | R$ 11.27 |
 | Nº Total de Ações | 128,040,470 |
 | LPA (TTM) | R$ 7.28 |
 | VPA | R$ 11.08 |
@@ -17,8 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 8.00 | -30.7% (VENDA) |
-| Graham | R$ 42.60 | +268.8% (COMPRA) |
+| Bazin (6%) | R$ 8.00 | -29.0% (VENDA) |
+| Graham | R$ 42.60 | +278.0% (COMPRA) |
 
 ---
 

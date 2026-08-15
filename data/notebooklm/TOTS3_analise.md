@@ -1,24 +1,24 @@
 # Análise Fundamentalista: TOTS3
 
-**Fonte:** Yahoo Finance | **Gerado:** 14/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 15/08/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 29.53 |
+| Cotação Atual | R$ 30.20 |
 | Nº Total de Ações | 573,195,003 |
 | LPA (TTM) | R$ 1.52 |
 | VPA | R$ 8.56 |
-| Dividend Yield | 2.83% |
+| Dividend Yield | 2.81% |
 | Proventos 12m | R$ 0.83 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 13.83 | -53.2% (VENDA) |
-| Graham | R$ 17.11 | -42.1% (VENDA) |
+| Bazin (6%) | R$ 13.83 | -54.2% (VENDA) |
+| Graham | R$ 17.11 | -43.3% (VENDA) |
 
 ---
 
