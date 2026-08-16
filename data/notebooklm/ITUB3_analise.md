@@ -1,6 +1,6 @@
 # Análise Fundamentalista: ITUB3
 
-**Fonte:** Yahoo Finance | **Gerado:** 15/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 16/08/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 5,617,742,977 |
 | LPA (TTM) | R$ 4.20 |
 | VPA | R$ 19.76 |
-| Dividend Yield | 53.00% |
+| Dividend Yield | 52.00% |
 | Proventos 12m | R$ 0.22 |
 
 ### Valuation

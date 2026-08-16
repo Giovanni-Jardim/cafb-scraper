@@ -1,6 +1,6 @@
 # Análise Fundamentalista: SANB11
 
-**Fonte:** Yahoo Finance | **Gerado:** 15/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 16/08/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 3,735,435,525 |
 | LPA (TTM) | R$ 2.05 |
 | VPA | R$ 34.00 |
-| Dividend Yield | 7.17% |
+| Dividend Yield | 7.15% |
 | Proventos 12m | R$ 2.14 |
 
 ### Valuation

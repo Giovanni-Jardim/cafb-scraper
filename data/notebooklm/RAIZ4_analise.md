@@ -1,6 +1,6 @@
 # Análise Fundamentalista: RAIZ4
 
-**Fonte:** Yahoo Finance | **Gerado:** 15/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 16/08/2026
 
 ## 📊 Dados de Mercado
 
@@ -8,7 +8,7 @@
 |---------|-------|
 | Cotação Atual | R$ 0.24 |
 | Nº Total de Ações | 1,349,543,297 |
-| LPA (TTM) | R$ -2.62 |
+| LPA (TTM) | R$ -2.53 |
 | VPA | R$ -0.84 |
 
 
