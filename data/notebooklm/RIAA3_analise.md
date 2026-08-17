@@ -1,6 +1,6 @@
 # Análise Fundamentalista: RIAA3
 
-**Fonte:** Yahoo Finance | **Gerado:** 16/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 17/08/2026
 
 ## 📊 Dados de Mercado
 

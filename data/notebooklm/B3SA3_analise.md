@@ -1,6 +1,6 @@
 # Análise Fundamentalista: B3SA3
 
-**Fonte:** Yahoo Finance | **Gerado:** 16/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 17/08/2026
 
 ## 📊 Dados de Mercado
 
@@ -18,7 +18,7 @@
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
 | Bazin (6%) | R$ 14.67 | -0.0% (AGUARDAR) |
-| Graham | R$ 9.17 | -37.5% (VENDA) |
+| Graham | R$ 9.18 | -37.5% (VENDA) |
 
 ---
 

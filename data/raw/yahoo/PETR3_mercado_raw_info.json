@@ -102,13 +102,13 @@
   "maxAge": 86400,
   "priceHint": 2,
   "previousClose": 46.73,
-  "open": 46.6,
-  "dayLow": 46.52,
-  "dayHigh": 47.27,
+  "open": 0.0,
+  "dayLow": 0.0,
+  "dayHigh": 0.0,
   "regularMarketPreviousClose": 46.73,
-  "regularMarketOpen": 46.6,
-  "regularMarketDayLow": 46.52,
-  "regularMarketDayHigh": 47.27,
+  "regularMarketOpen": 0.0,
+  "regularMarketDayLow": 0.0,
+  "regularMarketDayHigh": 0.0,
   "dividendRate": 4.34,
   "dividendYield": 9.26,
   "exDividendDate": 1787529600,
@@ -117,8 +117,8 @@
   "beta": -0.218,
   "trailingPE": 4.5466022,
   "forwardPE": 3.1661146,
-  "volume": 9578900,
-  "regularMarketVolume": 9578900,
+  "volume": 0,
+  "regularMarketVolume": 0,
   "averageVolume": 10541162,
   "averageVolume10days": 12031510,
   "averageDailyVolume10Day": 12031510,
@@ -128,7 +128,7 @@
   "askSize": 0,
   "marketCap": 603579351040,
   "nonDilutedMarketCap": 577762938661,
-  "fiftyTwoWeekLow": 30.96,
+  "fiftyTwoWeekLow": 0.0,
   "fiftyTwoWeekHigh": 56.14,
   "allTimeHigh": 63.9,
   "allTimeLow": 3.914062,
@@ -200,20 +200,6 @@
   "quoteSourceName": "Delayed Quote",
   "triggerable": false,
   "customPriceAlertConfidence": "LOW",
-  "corporateActions": [
-    {
-      "header": "Dividend",
-      "message": "PETR3.SA announced a cash dividend of BRL 1.348 with an ex-date of Aug. 24, 2026",
-      "meta": {
-        "eventType": "DIVIDEND",
-        "dateEpochMs": 1787540400000,
-        "amount": "1.348"
-      }
-    }
-  ],
-  "shortName": "PETROBRAS   ON      N2",
-  "longName": "Petr\u00f3leo Brasileiro S.A. - Petrobras",
-  "regularMarketTime": 1786737941,
   "exchange": "SAO",
   "messageBoardId": "finmb_409268",
   "exchangeTimezoneName": "America/Sao_Paulo",
@@ -223,17 +209,15 @@
   "esgPopulated": false,
   "regularMarketChangePercent": 0.21400018,
   "regularMarketPrice": 46.83,
-  "marketState": "CLOSED",
   "hasPrePostMarketData": false,
   "firstTradeDateMilliseconds": 946900800000,
   "regularMarketChange": 0.10000229,
   "fulldayPrice": 46.83,
-  "regularMarketDayRange": "46.52 - 47.27",
+  "regularMarketDayRange": "0.0 - 0.0",
   "fullExchangeName": "S\u00e3o Paulo",
   "averageDailyVolume3Month": 10541162,
-  "fiftyTwoWeekLowChange": 15.870003,
-  "fiftyTwoWeekLowChangePercent": 0.512597,
-  "fiftyTwoWeekRange": "30.96 - 56.14",
+  "fiftyTwoWeekLowChange": 46.83,
+  "fiftyTwoWeekRange": "0.0 - 56.14",
   "fiftyTwoWeekHighChange": -9.309998,
   "fiftyTwoWeekHighChangePercent": -0.16583537,
   "fiftyTwoWeekChangePercent": 42.51369,
@@ -253,5 +237,20 @@
   "exchangeDataDelayedBy": 15,
   "averageAnalystRating": "1.5 - Strong Buy",
   "cryptoTradeable": false,
+  "corporateActions": [
+    {
+      "header": "Dividend",
+      "message": "PETR3.SA announced a cash dividend of BRL 1.348 with an ex-date of Aug. 24, 2026",
+      "meta": {
+        "eventType": "DIVIDEND",
+        "dateEpochMs": 1787540400000,
+        "amount": "1.348"
+      }
+    }
+  ],
+  "regularMarketTime": 1786737941,
+  "longName": "Petr\u00f3leo Brasileiro S.A. - Petrobras",
+  "shortName": "PETROBRAS   ON      N2",
+  "marketState": "CLOSED",
   "trailingPegRatio": 4.505
 }

@@ -1,6 +1,6 @@
 # Análise Fundamentalista: LWSA3
 
-**Fonte:** Yahoo Finance | **Gerado:** 16/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 17/08/2026
 
 ## 📊 Dados de Mercado
 
@@ -9,7 +9,7 @@
 | Cotação Atual | R$ 4.03 |
 | Nº Total de Ações | 549,241,773 |
 | LPA (TTM) | R$ -0.37 |
-| VPA | R$ 4.27 |
+| VPA | R$ 4.48 |
 | Dividend Yield | 1.06% |
 | Proventos 12m | R$ 0.04 |
 
