@@ -1,24 +1,24 @@
 # Análise Fundamentalista: KEPL3
 
-**Fonte:** Yahoo Finance | **Gerado:** 21/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 22/08/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 5.80 |
+| Cotação Atual | R$ 6.13 |
 | Nº Total de Ações | 173,257,651 |
 | LPA (TTM) | R$ 0.81 |
 | VPA | R$ 4.60 |
-| Dividend Yield | 9.48% |
+| Dividend Yield | 9.30% |
 | Proventos 12m | R$ 0.54 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 9.00 | +55.2% (COMPRA) |
-| Graham | R$ 9.16 | +57.9% (COMPRA) |
+| Bazin (6%) | R$ 9.00 | +46.8% (COMPRA) |
+| Graham | R$ 9.16 | +49.4% (COMPRA) |
 
 ---
 

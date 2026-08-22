@@ -1,14 +1,14 @@
 # Análise Fundamentalista: PRIO3
 
-**Fonte:** Yahoo Finance | **Gerado:** 21/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 22/08/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 62.04 |
+| Cotação Atual | R$ 62.85 |
 | Nº Total de Ações | 797,488,501 |
-| LPA (TTM) | R$ 4.77 |
+| LPA (TTM) | R$ 4.78 |
 | VPA | R$ 35.35 |
 
 
@@ -17,7 +17,7 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Graham | R$ 61.59 | -0.7% (AGUARDAR) |
+| Graham | R$ 61.66 | -1.9% (AGUARDAR) |
 
 ---
 
