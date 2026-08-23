@@ -1,6 +1,6 @@
 # Análise Fundamentalista: ECOR3
 
-**Fonte:** Yahoo Finance | **Gerado:** 22/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 23/08/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 695,621,226 |
 | LPA (TTM) | R$ 0.79 |
 | VPA | R$ 5.91 |
-| Dividend Yield | 4.85% |
+| Dividend Yield | 4.52% |
 | Proventos 12m | R$ 0.30 |
 
 ### Valuation

@@ -1,6 +1,6 @@
 # Análise Fundamentalista: CASH3
 
-**Fonte:** Yahoo Finance | **Gerado:** 22/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 23/08/2026
 
 ## 📊 Dados de Mercado
 

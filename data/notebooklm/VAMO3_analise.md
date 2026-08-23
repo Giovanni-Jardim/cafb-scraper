@@ -1,6 +1,6 @@
 # Análise Fundamentalista: VAMO3
 
-**Fonte:** Yahoo Finance | **Gerado:** 22/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 23/08/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 1,221,740,534 |
 | LPA (TTM) | R$ 0.28 |
 | VPA | R$ 2.44 |
-| Dividend Yield | 5.65% |
+| Dividend Yield | 5.11% |
 | Proventos 12m | R$ 0.14 |
 
 ### Valuation

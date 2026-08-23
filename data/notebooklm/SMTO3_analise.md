@@ -1,6 +1,6 @@
 # Análise Fundamentalista: SMTO3
 
-**Fonte:** Yahoo Finance | **Gerado:** 22/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 23/08/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 322,773,291 |
 | LPA (TTM) | R$ 2.45 |
 | VPA | R$ 22.85 |
-| Dividend Yield | 1.22% |
+| Dividend Yield | 1.18% |
 | Proventos 12m | R$ 0.22 |
 
 ### Valuation
