@@ -1,13 +1,13 @@
 # Análise Fundamentalista: BBDC4
 
-**Fonte:** Yahoo Finance | **Gerado:** 23/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 24/08/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
 | Cotação Atual | R$ 16.24 |
-| Nº Total de Ações | 5,589,097,053 |
+| Nº Total de Ações | 5,579,467,604 |
 | LPA (TTM) | R$ 2.19 |
 | VPA | R$ 17.15 |
 | Dividend Yield | 1.40% |
