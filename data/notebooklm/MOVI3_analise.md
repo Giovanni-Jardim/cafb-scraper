@@ -1,12 +1,12 @@
 # Análise Fundamentalista: MOVI3
 
-**Fonte:** Yahoo Finance | **Gerado:** 24/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 25/08/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 7.12 |
+| Cotação Atual | R$ 7.03 |
 | Nº Total de Ações | 401,036,278 |
 | LPA (TTM) | R$ 1.21 |
 | VPA | R$ 9.73 |
@@ -17,8 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 15.17 | +113.0% (COMPRA) |
-| Graham | R$ 16.27 | +128.6% (COMPRA) |
+| Bazin (6%) | R$ 15.17 | +115.7% (COMPRA) |
+| Graham | R$ 16.27 | +131.5% (COMPRA) |
 
 ---
 

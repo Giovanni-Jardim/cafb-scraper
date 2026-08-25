@@ -1,12 +1,12 @@
 # Análise Fundamentalista: LJQQ3
 
-**Fonte:** Yahoo Finance | **Gerado:** 24/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 25/08/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 1.04 |
+| Cotação Atual | R$ 1.10 |
 | Nº Total de Ações | 206,917,263 |
 | LPA (TTM) | R$ -0.96 |
 | VPA | R$ 1.96 |
