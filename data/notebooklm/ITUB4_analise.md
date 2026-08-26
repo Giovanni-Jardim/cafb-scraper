@@ -1,24 +1,24 @@
 # Análise Fundamentalista: ITUB4
 
-**Fonte:** Yahoo Finance | **Gerado:** 25/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 26/08/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 38.73 |
+| Cotação Atual | R$ 39.44 |
 | Nº Total de Ações | 5,404,129,565 |
 | LPA (TTM) | R$ 4.20 |
 | VPA | R$ 19.76 |
-| Dividend Yield | 2.31% |
+| Dividend Yield | 2.30% |
 | Proventos 12m | R$ 0.89 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 14.83 | -61.7% (VENDA) |
-| Graham | R$ 43.21 | +11.6% (AGUARDAR) |
+| Bazin (6%) | R$ 14.83 | -62.4% (VENDA) |
+| Graham | R$ 43.21 | +9.6% (AGUARDAR) |
 
 ---
 

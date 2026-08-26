@@ -1,12 +1,12 @@
 # Análise Fundamentalista: CSAN3
 
-**Fonte:** Yahoo Finance | **Gerado:** 25/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 26/08/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 3.50 |
+| Cotação Atual | R$ 3.75 |
 | Nº Total de Ações | 3,944,366,465 |
 | LPA (TTM) | R$ -2.90 |
 | VPA | R$ 1.26 |
