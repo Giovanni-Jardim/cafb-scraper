@@ -1,24 +1,24 @@
 # Análise Fundamentalista: CMIG4
 
-**Fonte:** Yahoo Finance | **Gerado:** 26/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 27/08/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 10.51 |
+| Cotação Atual | R$ 10.50 |
 | Nº Total de Ações | 1,904,080,104 |
 | LPA (TTM) | R$ 1.62 |
 | VPA | R$ 10.20 |
-| Dividend Yield | 12.54% |
+| Dividend Yield | 12.20% |
 | Proventos 12m | R$ 1.28 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 21.33 | +103.0% (COMPRA) |
-| Graham | R$ 19.28 | +83.5% (COMPRA) |
+| Bazin (6%) | R$ 21.33 | +103.2% (COMPRA) |
+| Graham | R$ 19.28 | +83.6% (COMPRA) |
 
 ---
 
