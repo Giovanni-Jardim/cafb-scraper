@@ -1,6 +1,6 @@
 # Análise Fundamentalista: GMAT3
 
-**Fonte:** Yahoo Finance | **Gerado:** 30/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 31/08/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 2,302,987,204 |
 | LPA (TTM) | R$ 0.72 |
 | VPA | R$ 4.72 |
-| Dividend Yield | 5.24% |
+| Dividend Yield | 5.22% |
 | Proventos 12m | R$ 0.25 |
 
 ### Valuation

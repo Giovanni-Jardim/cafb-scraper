@@ -1,6 +1,6 @@
 # Análise Fundamentalista: ALPA4
 
-**Fonte:** Yahoo Finance | **Gerado:** 30/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 31/08/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 339,691,929 |
 | LPA (TTM) | R$ 0.99 |
 | VPA | R$ 5.33 |
-| Dividend Yield | 4.52% |
+| Dividend Yield | 4.50% |
 | Proventos 12m | R$ 0.65 |
 
 ### Valuation

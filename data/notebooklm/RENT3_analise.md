@@ -1,6 +1,6 @@
 # Análise Fundamentalista: RENT3
 
-**Fonte:** Yahoo Finance | **Gerado:** 30/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 31/08/2026
 
 ## 📊 Dados de Mercado
 
@@ -8,9 +8,9 @@
 |---------|-------|
 | Cotação Atual | R$ 34.81 |
 | Nº Total de Ações | 1,064,036,631 |
-| LPA (TTM) | R$ 3.15 |
+| LPA (TTM) | R$ 3.17 |
 | VPA | R$ 24.54 |
-| Dividend Yield | 6.11% |
+| Dividend Yield | 6.15% |
 | Proventos 12m | R$ 2.14 |
 
 ### Valuation
@@ -18,7 +18,7 @@
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
 | Bazin (6%) | R$ 35.67 | +2.5% (AGUARDAR) |
-| Graham | R$ 41.70 | +19.8% (COMPRA) |
+| Graham | R$ 41.83 | +20.2% (COMPRA) |
 
 ---
 

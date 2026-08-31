@@ -1,6 +1,6 @@
 # Análise Fundamentalista: TIMS3
 
-**Fonte:** Yahoo Finance | **Gerado:** 30/08/2026
+**Fonte:** Yahoo Finance | **Gerado:** 31/08/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 2,375,265,291 |
 | LPA (TTM) | R$ 1.80 |
 | VPA | R$ 10.22 |
-| Dividend Yield | 8.66% |
+| Dividend Yield | 8.67% |
 | Proventos 12m | R$ 1.59 |
 
 ### Valuation
