@@ -1,24 +1,24 @@
 # Análise Fundamentalista: ECOR3
 
-**Fonte:** Yahoo Finance | **Gerado:** 02/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 03/09/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 7.24 |
+| Cotação Atual | R$ 7.73 |
 | Nº Total de Ações | 695,621,226 |
 | LPA (TTM) | R$ 0.79 |
 | VPA | R$ 5.91 |
-| Dividend Yield | 4.15% |
+| Dividend Yield | 4.18% |
 | Proventos 12m | R$ 0.30 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 5.00 | -30.9% (VENDA) |
-| Graham | R$ 10.25 | +41.6% (COMPRA) |
+| Bazin (6%) | R$ 5.00 | -35.3% (VENDA) |
+| Graham | R$ 10.25 | +32.6% (COMPRA) |
 
 ---
 
