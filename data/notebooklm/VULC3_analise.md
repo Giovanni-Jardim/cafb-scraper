@@ -1,6 +1,6 @@
 # Análise Fundamentalista: VULC3
 
-**Fonte:** Yahoo Finance | **Gerado:** 04/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 05/09/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 314,112,921 |
 | LPA (TTM) | R$ 3.04 |
 | VPA | R$ 7.98 |
-| Dividend Yield | 58.65% |
+| Dividend Yield | 59.95% |
 | Proventos 12m | R$ 7.80 |
 
 ### Valuation
