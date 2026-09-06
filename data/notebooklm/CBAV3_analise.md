@@ -1,6 +1,6 @@
 # Análise Fundamentalista: CBAV3
 
-**Fonte:** Yahoo Finance | **Gerado:** 05/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 06/09/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 651,072,697 |
 | LPA (TTM) | R$ 0.92 |
 | VPA | R$ 7.78 |
-| Dividend Yield | 39.00% |
+| Dividend Yield | 40.00% |
 | Proventos 12m | R$ 0.04 |
 
 ### Valuation
