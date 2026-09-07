@@ -1,6 +1,6 @@
 # Análise Fundamentalista: BBDC3
 
-**Fonte:** Yahoo Finance | **Gerado:** 06/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 07/09/2026
 
 ## 📊 Dados de Mercado
 

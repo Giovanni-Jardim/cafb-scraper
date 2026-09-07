@@ -163,7 +163,7 @@
   "earningsQuarterlyGrowth": 0.076,
   "netIncomeToCommon": 46827999232,
   "trailingEps": 4.2,
-  "pegRatio": 1.41,
+  "pegRatio": 1.4,
   "lastSplitFactor": "103:100",
   "lastSplitDate": 1766707200,
   "enterpriseToRevenue": 7.973,
@@ -193,21 +193,8 @@
   "language": "en-US",
   "region": "US",
   "typeDisp": "Equity",
-  "quoteSourceName": "Delayed Quote",
   "triggerable": false,
   "customPriceAlertConfidence": "LOW",
-  "corporateActions": [
-    {
-      "header": "Dividend",
-      "message": "ITUB3.SA announced a cash dividend of BRL 0.018 with an ex-date of Oct. 1, 2026",
-      "meta": {
-        "eventType": "DIVIDEND",
-        "dateEpochMs": 1790823600000,
-        "amount": "0.018"
-      }
-    }
-  ],
-  "marketState": "CLOSED",
   "hasPrePostMarketData": false,
   "firstTradeDateMilliseconds": 946900800000,
   "regularMarketChange": -0.069999695,
@@ -222,6 +209,24 @@
   "fiftyTwoWeekHighChange": -2.079998,
   "fiftyTwoWeekHighChangePercent": -0.043514602,
   "fiftyTwoWeekChangePercent": 37.69474,
+  "earningsTimestamp": 1793736000,
+  "earningsTimestampStart": 1793736000,
+  "earningsTimestampEnd": 1793736000,
+  "earningsCallTimestampStart": 1785934800,
+  "earningsCallTimestampEnd": 1785934800,
+  "isEarningsDateEstimate": false,
+  "epsTrailingTwelveMonths": 4.2,
+  "corporateActions": [
+    {
+      "header": "Dividend",
+      "message": "ITUB3.SA announced a cash dividend of BRL 0.018 with an ex-date of Oct. 1, 2026",
+      "meta": {
+        "eventType": "DIVIDEND",
+        "dateEpochMs": 1790823600000,
+        "amount": "0.018"
+      }
+    }
+  ],
   "regularMarketTime": 1788552341,
   "exchange": "SAO",
   "messageBoardId": "finmb_873831",
@@ -230,17 +235,7 @@
   "gmtOffSetMilliseconds": -10800000,
   "market": "br_market",
   "esgPopulated": false,
-  "shortName": "ITAUUNIBANCOON  EJ  N1",
-  "longName": "Ita\u00fa Unibanco Holding S.A.",
-  "regularMarketChangePercent": -0.15287115,
-  "regularMarketPrice": 45.72,
-  "earningsTimestamp": 1793736000,
-  "earningsTimestampStart": 1793736000,
-  "earningsTimestampEnd": 1793736000,
-  "earningsCallTimestampStart": 1785934800,
-  "earningsCallTimestampEnd": 1785934800,
-  "isEarningsDateEstimate": false,
-  "epsTrailingTwelveMonths": 4.2,
+  "marketState": "CLOSED",
   "fiftyDayAverageChange": 1.7238007,
   "fiftyDayAverageChangePercent": 0.03918067,
   "twoHundredDayAverageChange": 4.0325584,
@@ -248,5 +243,9 @@
   "sourceInterval": 15,
   "exchangeDataDelayedBy": 15,
   "cryptoTradeable": false,
+  "shortName": "ITAUUNIBANCOON  EJ  N1",
+  "longName": "Ita\u00fa Unibanco Holding S.A.",
+  "regularMarketChangePercent": -0.15287115,
+  "regularMarketPrice": 45.72,
   "trailingPegRatio": 1.4068
 }
