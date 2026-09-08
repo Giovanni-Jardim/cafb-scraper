@@ -1,13 +1,13 @@
 # Análise Fundamentalista: COGN3
 
-**Fonte:** Yahoo Finance | **Gerado:** 07/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 08/09/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
 | Cotação Atual | R$ 2.44 |
-| Nº Total de Ações | 2,001,936,195 |
+| Nº Total de Ações | 2,004,221,538 |
 | LPA (TTM) | R$ 0.36 |
 | VPA | R$ 6.86 |
 | Dividend Yield | 7.77% |
