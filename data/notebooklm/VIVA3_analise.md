@@ -1,12 +1,12 @@
 # Análise Fundamentalista: VIVA3
 
-**Fonte:** Yahoo Finance | **Gerado:** 08/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 09/09/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 23.13 |
+| Cotação Atual | R$ 22.80 |
 | Nº Total de Ações | 235,135,052 |
 | LPA (TTM) | R$ 2.49 |
 | VPA | R$ 12.89 |
@@ -17,8 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 22.67 | -2.0% (AGUARDAR) |
-| Graham | R$ 26.87 | +16.2% (COMPRA) |
+| Bazin (6%) | R$ 22.67 | -0.6% (AGUARDAR) |
+| Graham | R$ 26.87 | +17.9% (COMPRA) |
 
 ---
 
