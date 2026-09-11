@@ -1,24 +1,24 @@
 # Análise Fundamentalista: ASAI3
 
-**Fonte:** Yahoo Finance | **Gerado:** 10/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 11/09/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 9.20 |
+| Cotação Atual | R$ 9.86 |
 | Nº Total de Ações | 1,338,457,015 |
-| LPA (TTM) | R$ 0.37 |
+| LPA (TTM) | R$ 0.72 |
 | VPA | R$ 4.74 |
-| Dividend Yield | 1.30% |
+| Dividend Yield | 1.29% |
 | Proventos 12m | R$ 0.12 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 2.00 | -78.3% (VENDA) |
-| Graham | R$ 6.28 | -31.7% (VENDA) |
+| Bazin (6%) | R$ 2.00 | -79.7% (VENDA) |
+| Graham | R$ 8.76 | -11.1% (AGUARDAR) |
 
 ---
 
@@ -77,7 +77,7 @@
 
 | Conta              |     2T2026 |    1T2026 |     4T2025 |     3T2025 |    2T2025 |   1T2025 |   4T2024 |
 |:-------------------|-----------:|----------:|-----------:|-----------:|----------:|---------:|---------:|
-| Ativo Circulante   | -4.4e+07   | -1.27e+08 |  6.28e+08  |  1.82e+08  | -1.15e+08 |      nan |      nan |
+| Ativo Circulante   | -4.4e+07   | -1.27e+08 |  8.98e+08  | -8.8e+07   | -1.15e+08 |      nan |      nan |
 | Passivo Circulante | -1.59e+08  |  6e+06    |  6e+06     |  1.8e+07   |  0        |      nan |      nan |
 | Lucro Líquido      |  4.84e+08  |  3.2e+08  |  9e+06     |  1.52e+08  |  2.19e+08 |      nan |      nan |
 | FCO                |  1.493e+09 | -4.01e+08 |  2.689e+09 |  1.578e+09 |  9.86e+08 |      nan |      nan |
