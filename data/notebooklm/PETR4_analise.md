@@ -1,24 +1,24 @@
 # Análise Fundamentalista: PETR4
 
-**Fonte:** Yahoo Finance | **Gerado:** 11/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 12/09/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 49.12 |
+| Cotação Atual | R$ 49.00 |
 | Nº Total de Ações | 5,446,501,379 |
-| LPA (TTM) | R$ 10.07 |
+| LPA (TTM) | R$ 10.11 |
 | VPA | R$ 37.32 |
-| Dividend Yield | 8.96% |
+| Dividend Yield | 8.83% |
 | Proventos 12m | R$ 4.34 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 72.33 | +47.3% (COMPRA) |
-| Graham | R$ 91.95 | +87.2% (COMPRA) |
+| Bazin (6%) | R$ 72.33 | +47.6% (COMPRA) |
+| Graham | R$ 92.13 | +88.0% (COMPRA) |
 
 ---
 
