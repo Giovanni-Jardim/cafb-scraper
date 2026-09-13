@@ -1,6 +1,6 @@
 # Análise Fundamentalista: WEGE3
 
-**Fonte:** Yahoo Finance | **Gerado:** 12/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 13/09/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 4,195,829,691 |
 | LPA (TTM) | R$ 1.49 |
 | VPA | R$ 4.50 |
-| Dividend Yield | 80.00% |
+| Dividend Yield | 81.00% |
 | Proventos 12m | R$ 0.42 |
 
 ### Valuation
