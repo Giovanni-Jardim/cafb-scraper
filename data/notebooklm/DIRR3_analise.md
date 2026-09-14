@@ -1,6 +1,6 @@
 # Análise Fundamentalista: DIRR3
 
-**Fonte:** Yahoo Finance | **Gerado:** 13/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 14/09/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 518,898,690 |
 | LPA (TTM) | R$ 1.63 |
 | VPA | R$ 4.48 |
-| Dividend Yield | 24.13% |
+| Dividend Yield | 25.21% |
 | Proventos 12m | R$ 2.64 |
 
 ### Valuation

@@ -1,6 +1,6 @@
 # Análise Fundamentalista: BBDC4
 
-**Fonte:** Yahoo Finance | **Gerado:** 13/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 14/09/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 5,277,491,247 |
 | LPA (TTM) | R$ 2.19 |
 | VPA | R$ 17.15 |
-| Dividend Yield | 1.23% |
+| Dividend Yield | 1.22% |
 | Proventos 12m | R$ 0.23 |
 
 ### Valuation

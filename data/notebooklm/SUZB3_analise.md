@@ -1,6 +1,6 @@
 # Análise Fundamentalista: SUZB3
 
-**Fonte:** Yahoo Finance | **Gerado:** 13/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 14/09/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 1,231,560,722 |
 | LPA (TTM) | R$ 6.56 |
 | VPA | R$ 35.45 |
-| Dividend Yield | 2.33% |
+| Dividend Yield | 2.34% |
 | Proventos 12m | R$ 1.12 |
 
 ### Valuation
