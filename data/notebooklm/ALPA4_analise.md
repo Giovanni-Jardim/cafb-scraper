@@ -1,12 +1,12 @@
 # Análise Fundamentalista: ALPA4
 
-**Fonte:** Yahoo Finance | **Gerado:** 14/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 15/09/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 13.33 |
+| Cotação Atual | R$ 13.02 |
 | Nº Total de Ações | 339,820,843 |
 | LPA (TTM) | R$ 0.99 |
 | VPA | R$ 5.33 |
@@ -17,8 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 10.83 | -18.7% (VENDA) |
-| Graham | R$ 10.90 | -18.3% (VENDA) |
+| Bazin (6%) | R$ 10.83 | -16.8% (VENDA) |
+| Graham | R$ 10.90 | -16.3% (VENDA) |
 
 ---
 
