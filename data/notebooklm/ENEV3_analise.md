@@ -1,13 +1,13 @@
 # Análise Fundamentalista: ENEV3
 
-**Fonte:** Yahoo Finance | **Gerado:** 15/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 16/09/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 26.94 |
-| Nº Total de Ações | 1,920,346,813 |
+| Cotação Atual | R$ 26.98 |
+| Nº Total de Ações | 1,913,005,058 |
 | LPA (TTM) | R$ 0.50 |
 | VPA | R$ 10.64 |
 
