@@ -1,24 +1,24 @@
 # Análise Fundamentalista: BRAV3
 
-**Fonte:** Yahoo Finance | **Gerado:** 16/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 17/09/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 17.91 |
+| Cotação Atual | R$ 17.73 |
 | Nº Total de Ações | 464,543,102 |
 | LPA (TTM) | R$ 0.10 |
 | VPA | R$ 26.44 |
-| Dividend Yield | 70.00% |
+| Dividend Yield | 69.00% |
 | Proventos 12m | R$ 0.12 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 2.00 | -88.8% (VENDA) |
-| Graham | R$ 7.71 | -56.9% (VENDA) |
+| Bazin (6%) | R$ 2.00 | -88.7% (VENDA) |
+| Graham | R$ 7.71 | -56.5% (VENDA) |
 
 ---
 

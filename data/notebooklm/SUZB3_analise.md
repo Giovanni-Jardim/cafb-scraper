@@ -1,24 +1,24 @@
 # Análise Fundamentalista: SUZB3
 
-**Fonte:** Yahoo Finance | **Gerado:** 16/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 17/09/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 47.56 |
+| Cotação Atual | R$ 46.70 |
 | Nº Total de Ações | 1,231,560,722 |
 | LPA (TTM) | R$ 6.57 |
 | VPA | R$ 35.45 |
-| Dividend Yield | 2.37% |
+| Dividend Yield | 2.36% |
 | Proventos 12m | R$ 1.12 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 18.67 | -60.8% (VENDA) |
-| Graham | R$ 72.39 | +52.2% (COMPRA) |
+| Bazin (6%) | R$ 18.67 | -60.0% (VENDA) |
+| Graham | R$ 72.39 | +55.0% (COMPRA) |
 
 ---
 
@@ -55,7 +55,7 @@
 | Conta                |      2T2026 |      1T2026 |      4T2025 |      2T2025 |      1T2025 |   4T2024 |
 |:---------------------|------------:|------------:|------------:|------------:|------------:|---------:|
 | Ativo Total          | 1.71046e+11 | 1.65825e+11 | 1.67936e+11 | 1.59423e+11 | 1.55245e+11 |      nan |
-| Ativo Circulante     | 2.82432e+10 | 2.74732e+10 | 2.70222e+10 | 2.44307e+10 | 2.35775e+10 |      nan |
+| Ativo Circulante     | 2.82432e+10 | 2.74732e+10 | 2.70222e+10 | 2.44307e+10 | 2.398e+10   |      nan |
 | Caixa e Equivalentes | 1.66456e+10 | 1.2176e+10  | 1.51798e+10 | 1.22836e+10 | 9.9145e+09  |      nan |
 | Passivo Total        | 1.21194e+11 | 1.17642e+11 | 1.23983e+11 | 1.16152e+11 | 1.16709e+11 |      nan |
 | Passivo Circulante   | 3.81817e+08 | 3.2952e+08  | 2.55805e+08 | 2.41245e+08 | 2.43758e+08 |      nan |
