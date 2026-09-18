@@ -1,24 +1,24 @@
 # Análise Fundamentalista: POSI3
 
-**Fonte:** Yahoo Finance | **Gerado:** 17/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 18/09/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 3.47 |
+| Cotação Atual | R$ 3.42 |
 | Nº Total de Ações | 138,470,742 |
 | LPA (TTM) | R$ 0.09 |
-| VPA | R$ 11.18 |
-| Dividend Yield | 13.10% |
+| VPA | R$ 11.27 |
+| Dividend Yield | 13.06% |
 | Proventos 12m | R$ 0.45 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 7.50 | +116.1% (COMPRA) |
-| Graham | R$ 4.76 | +37.1% (COMPRA) |
+| Bazin (6%) | R$ 7.50 | +119.3% (COMPRA) |
+| Graham | R$ 4.78 | +39.7% (COMPRA) |
 
 ---
 
