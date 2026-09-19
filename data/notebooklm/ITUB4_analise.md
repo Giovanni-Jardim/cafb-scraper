@@ -1,24 +1,24 @@
 # Análise Fundamentalista: ITUB4
 
-**Fonte:** Yahoo Finance | **Gerado:** 18/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 19/09/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 42.58 |
+| Cotação Atual | R$ 42.33 |
 | Nº Total de Ações | 5,404,129,565 |
 | LPA (TTM) | R$ 4.20 |
 | VPA | R$ 19.76 |
-| Dividend Yield | 2.09% |
+| Dividend Yield | 2.10% |
 | Proventos 12m | R$ 0.89 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 14.83 | -65.2% (VENDA) |
-| Graham | R$ 43.21 | +1.5% (AGUARDAR) |
+| Bazin (6%) | R$ 14.83 | -65.0% (VENDA) |
+| Graham | R$ 43.21 | +2.1% (AGUARDAR) |
 
 ---
 
@@ -64,10 +64,10 @@
 
 ### DRE - BILHOES
 
-| Conta           |     2T2026 |     1T2026 |     4T2025 |     3T2025 |     2T2025 |   1T2025 |
-|:----------------|-----------:|-----------:|-----------:|-----------:|-----------:|---------:|
-| Receita Líquida | 4.3954e+10 | 4.1132e+10 | 4.2119e+10 | 4.2166e+10 | 3.8367e+10 |      nan |
-| Lucro Líquido   | 1.1979e+10 | 1.1636e+10 | 1.1907e+10 | 1.1306e+10 | 1.1137e+10 |      nan |
+| Conta           |     2T2026 |     1T2026 |     4T2025 |     3T2025 |     2T2025 |   1T2025 |   4T2024 |
+|:----------------|-----------:|-----------:|-----------:|-----------:|-----------:|---------:|---------:|
+| Receita Líquida | 4.3954e+10 | 4.1132e+10 | 4.2119e+10 | 4.2166e+10 | 3.8367e+10 |      nan |      nan |
+| Lucro Líquido   | 1.1979e+10 | 1.1636e+10 | 1.1907e+10 | 1.1306e+10 | 1.1137e+10 |      nan |      nan |
 
 ### DFC - BILHOES
 

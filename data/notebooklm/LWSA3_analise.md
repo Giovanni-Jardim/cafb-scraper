@@ -1,6 +1,6 @@
 # Análise Fundamentalista: LWSA3
 
-**Fonte:** Yahoo Finance | **Gerado:** 18/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 19/09/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 565,420,606 |
 | LPA (TTM) | R$ -0.37 |
 | VPA | R$ 4.34 |
-| Dividend Yield | 1.06% |
+| Dividend Yield | 1.09% |
 | Proventos 12m | R$ 0.04 |
 
 ### Valuation
