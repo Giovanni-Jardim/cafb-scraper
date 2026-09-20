@@ -1,6 +1,6 @@
 # Análise Fundamentalista: PSSA3
 
-**Fonte:** Yahoo Finance | **Gerado:** 19/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 20/09/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 640,992,323 |
 | LPA (TTM) | R$ 5.68 |
 | VPA | R$ 25.16 |
-| Dividend Yield | 4.15% |
+| Dividend Yield | 4.18% |
 | Proventos 12m | R$ 2.05 |
 
 ### Valuation
