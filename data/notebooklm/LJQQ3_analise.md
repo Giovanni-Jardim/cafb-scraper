@@ -1,6 +1,6 @@
 # Análise Fundamentalista: LJQQ3
 
-**Fonte:** Yahoo Finance | **Gerado:** 20/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 21/09/2026
 
 ## 📊 Dados de Mercado
 
