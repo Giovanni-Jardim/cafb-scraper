@@ -1,12 +1,12 @@
 # Análise Fundamentalista: LREN3
 
-**Fonte:** Yahoo Finance | **Gerado:** 21/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 22/09/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 11.17 |
+| Cotação Atual | R$ 11.59 |
 | Nº Total de Ações | 947,858,690 |
 | LPA (TTM) | R$ 1.50 |
 | VPA | R$ 10.78 |
@@ -17,8 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 15.33 | +37.3% (COMPRA) |
-| Graham | R$ 19.08 | +70.8% (COMPRA) |
+| Bazin (6%) | R$ 15.33 | +32.3% (COMPRA) |
+| Graham | R$ 19.08 | +64.6% (COMPRA) |
 
 ---
 
