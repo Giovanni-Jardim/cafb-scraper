@@ -1,6 +1,6 @@
 # Análise Fundamentalista: KEPL3
 
-**Fonte:** Yahoo Finance | **Gerado:** 24/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 25/09/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 173,257,651 |
 | LPA (TTM) | R$ 0.80 |
 | VPA | R$ 4.60 |
-| Dividend Yield | 8.24% |
+| Dividend Yield | 8.30% |
 | Proventos 12m | R$ 0.54 |
 
 ### Valuation
