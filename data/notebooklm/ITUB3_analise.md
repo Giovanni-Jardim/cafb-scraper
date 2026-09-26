@@ -1,12 +1,12 @@
 # Análise Fundamentalista: ITUB3
 
-**Fonte:** Yahoo Finance | **Gerado:** 25/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 26/09/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 46.05 |
+| Cotação Atual | R$ 46.09 |
 | Nº Total de Ações | 5,617,742,977 |
 | LPA (TTM) | R$ 4.20 |
 | VPA | R$ 19.76 |
