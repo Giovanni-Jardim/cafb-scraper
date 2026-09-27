@@ -1,13 +1,13 @@
 # Análise Fundamentalista: BBAS3
 
-**Fonte:** Yahoo Finance | **Gerado:** 26/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 27/09/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
 | Cotação Atual | R$ 21.59 |
-| Nº Total de Ações | 5,708,873,346 |
+| Nº Total de Ações | 5,708,873,364 |
 | LPA (TTM) | R$ 2.15 |
 | VPA | R$ 31.88 |
 | Dividend Yield | 64.00% |

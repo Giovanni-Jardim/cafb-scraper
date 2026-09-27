@@ -85,7 +85,7 @@
   "regularMarketDayLow": 29.92,
   "regularMarketDayHigh": 30.45,
   "dividendRate": 1.88,
-  "dividendYield": 6.17,
+  "dividendYield": 6.24,
   "exDividendDate": 1790553600,
   "payoutRatio": 1.184,
   "fiveYearAvgDividendYield": 5.16,
@@ -122,10 +122,10 @@
   "floatShares": 703928167,
   "sharesOutstanding": 3195606352,
   "heldPercentInsiders": 0.77125,
-  "heldPercentInstitutions": 0.08899,
+  "heldPercentInstitutions": 0.08903,
   "impliedSharesOutstanding": 3195606352,
-  "bookValue": 21.835,
-  "priceToBook": 1.3789788,
+  "bookValue": 20.537,
+  "priceToBook": 1.4661343,
   "lastFiscalYearEnd": 1767139200,
   "nextFiscalYearEnd": 1798675200,
   "mostRecentQuarter": 1782777600,
@@ -133,7 +133,7 @@
   "netIncomeToCommon": 6598880256,
   "trailingEps": 2.05,
   "forwardEps": 3.0491,
-  "pegRatio": 0.83,
+  "pegRatio": 0.82,
   "lastSplitFactor": "80:40",
   "lastSplitDate": 1744675200,
   "enterpriseToRevenue": 1.741,
@@ -181,6 +181,25 @@
   "marketState": "CLOSED",
   "hasPrePostMarketData": false,
   "firstTradeDateMilliseconds": 946900800000,
+  "corporateActions": [
+    {
+      "header": "Dividend",
+      "message": "VIVT3.SA announced a cash dividend of BRL 0.156 with an ex-date of Sep. 28, 2026",
+      "meta": {
+        "eventType": "DIVIDEND",
+        "dateEpochMs": 1790564400000,
+        "amount": "0.156"
+      }
+    }
+  ],
+  "regularMarketTime": 1790366640,
+  "exchange": "SAO",
+  "messageBoardId": "finmb_402548",
+  "exchangeTimezoneName": "America/Sao_Paulo",
+  "exchangeTimezoneShortName": "BRT",
+  "gmtOffSetMilliseconds": -10800000,
+  "market": "br_market",
+  "esgPopulated": false,
   "regularMarketChange": -0.29999924,
   "regularMarketChangePercent": -0.9865151,
   "regularMarketPrice": 30.11,
@@ -196,8 +215,8 @@
   "earningsTimestamp": 1794340800,
   "earningsTimestampStart": 1794340800,
   "earningsTimestampEnd": 1794340800,
-  "earningsCallTimestampStart": 1794405600,
-  "earningsCallTimestampEnd": 1794405600,
+  "earningsCallTimestampStart": 1794427200,
+  "earningsCallTimestampEnd": 1794427200,
   "isEarningsDateEstimate": false,
   "epsTrailingTwelveMonths": 2.05,
   "epsForward": 3.0491,
@@ -213,24 +232,5 @@
   "cryptoTradeable": false,
   "shortName": "TELEF BRASILON",
   "longName": "Telef\u00f4nica Brasil S.A.",
-  "exchange": "SAO",
-  "messageBoardId": "finmb_402548",
-  "exchangeTimezoneName": "America/Sao_Paulo",
-  "exchangeTimezoneShortName": "BRT",
-  "gmtOffSetMilliseconds": -10800000,
-  "market": "br_market",
-  "esgPopulated": false,
-  "corporateActions": [
-    {
-      "header": "Dividend",
-      "message": "VIVT3.SA announced a cash dividend of BRL 0.156 with an ex-date of Sep. 28, 2026",
-      "meta": {
-        "eventType": "DIVIDEND",
-        "dateEpochMs": 1790564400000,
-        "amount": "0.156"
-      }
-    }
-  ],
-  "regularMarketTime": 1790366640,
   "trailingPegRatio": 0.8384
 }

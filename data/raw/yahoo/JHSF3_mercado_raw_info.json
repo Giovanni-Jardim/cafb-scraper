@@ -67,7 +67,7 @@
   "regularMarketDayLow": 11.57,
   "regularMarketDayHigh": 11.86,
   "dividendRate": 0.83,
-  "dividendYield": 7.03,
+  "dividendYield": 7.08,
   "exDividendDate": 1790812800,
   "payoutRatio": 0.2056,
   "fiveYearAvgDividendYield": 7.1,
@@ -155,14 +155,30 @@
   "language": "en-US",
   "region": "US",
   "typeDisp": "Equity",
-  "quoteSourceName": "Delayed Quote",
   "triggerable": false,
   "customPriceAlertConfidence": "LOW",
   "shortName": "JHSF PART   ON      NM",
   "longName": "JHSF Participa\u00e7\u00f5es S.A.",
   "marketState": "CLOSED",
-  "hasPrePostMarketData": false,
-  "firstTradeDateMilliseconds": 1176382800000,
+  "corporateActions": [
+    {
+      "header": "Dividend",
+      "message": "JHSF3.SA announced a cash dividend of BRL 0.069 with an ex-date of Oct. 1, 2026",
+      "meta": {
+        "eventType": "DIVIDEND",
+        "dateEpochMs": 1790823600000,
+        "amount": "0.069"
+      }
+    }
+  ],
+  "regularMarketTime": 1790366733,
+  "exchange": "SAO",
+  "messageBoardId": "finmb_33774899",
+  "exchangeTimezoneName": "America/Sao_Paulo",
+  "exchangeTimezoneShortName": "BRT",
+  "gmtOffSetMilliseconds": -10800000,
+  "market": "br_market",
+  "esgPopulated": false,
   "regularMarketChange": -0.09000015,
   "regularMarketChangePercent": -0.7620673,
   "regularMarketPrice": 11.72,
@@ -192,24 +208,7 @@
   "exchangeDataDelayedBy": 15,
   "averageAnalystRating": "2.0 - Buy",
   "cryptoTradeable": false,
-  "corporateActions": [
-    {
-      "header": "Dividend",
-      "message": "JHSF3.SA announced a cash dividend of BRL 0.069 with an ex-date of Oct. 1, 2026",
-      "meta": {
-        "eventType": "DIVIDEND",
-        "dateEpochMs": 1790823600000,
-        "amount": "0.069"
-      }
-    }
-  ],
-  "regularMarketTime": 1790366733,
-  "exchange": "SAO",
-  "messageBoardId": "finmb_33774899",
-  "exchangeTimezoneName": "America/Sao_Paulo",
-  "exchangeTimezoneShortName": "BRT",
-  "gmtOffSetMilliseconds": -10800000,
-  "market": "br_market",
-  "esgPopulated": false,
+  "hasPrePostMarketData": false,
+  "firstTradeDateMilliseconds": 1176382800000,
   "trailingPegRatio": null
 }

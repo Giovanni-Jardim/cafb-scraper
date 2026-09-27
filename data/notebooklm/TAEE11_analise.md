@@ -1,6 +1,6 @@
 # Análise Fundamentalista: TAEE11
 
-**Fonte:** Yahoo Finance | **Gerado:** 26/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 27/09/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 344,498,907 |
 | LPA (TTM) | R$ 1.04 |
 | VPA | R$ 23.43 |
-| Dividend Yield | 9.47% |
+| Dividend Yield | 9.50% |
 | Proventos 12m | R$ 3.88 |
 
 ### Valuation
