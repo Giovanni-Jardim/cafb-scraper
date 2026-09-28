@@ -1,6 +1,6 @@
 # Análise Fundamentalista: SMTO3
 
-**Fonte:** Yahoo Finance | **Gerado:** 27/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 28/09/2026
 
 ## 📊 Dados de Mercado
 
