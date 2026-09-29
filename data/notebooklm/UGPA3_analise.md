@@ -1,14 +1,14 @@
 # Análise Fundamentalista: UGPA3
 
-**Fonte:** Yahoo Finance | **Gerado:** 28/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 29/09/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 36.56 |
+| Cotação Atual | R$ 37.34 |
 | Nº Total de Ações | 1,064,018,280 |
-| LPA (TTM) | R$ 3.28 |
+| LPA (TTM) | R$ 3.35 |
 | VPA | R$ 15.41 |
 | Dividend Yield | 5.47% |
 | Proventos 12m | R$ 2.00 |
@@ -17,8 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 33.33 | -8.8% (AGUARDAR) |
-| Graham | R$ 33.72 | -7.8% (AGUARDAR) |
+| Bazin (6%) | R$ 33.33 | -10.7% (VENDA) |
+| Graham | R$ 34.08 | -8.7% (AGUARDAR) |
 
 ---
 

@@ -1,14 +1,14 @@
 # Análise Fundamentalista: ABCB4
 
-**Fonte:** Yahoo Finance | **Gerado:** 28/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 29/09/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 24.69 |
+| Cotação Atual | R$ 25.00 |
 | Nº Total de Ações | 126,773,836 |
-| LPA (TTM) | R$ 5.57 |
+| LPA (TTM) | R$ 5.64 |
 | VPA | R$ 28.17 |
 | Dividend Yield | 9.46% |
 | Proventos 12m | R$ 2.34 |
@@ -17,8 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 39.00 | +58.0% (COMPRA) |
-| Graham | R$ 59.42 | +140.6% (COMPRA) |
+| Bazin (6%) | R$ 39.00 | +56.0% (COMPRA) |
+| Graham | R$ 59.79 | +139.1% (COMPRA) |
 
 ---
 
@@ -26,14 +26,14 @@
 
 |   Ano |   Total Proventos (R$) |   Nº Pagamentos |
 |------:|-----------------------:|----------------:|
-|  2021 |                 0.9699 |               4 |
-|  2022 |                 1.2379 |               4 |
-|  2023 |                 1.1764 |               2 |
-|  2024 |                 2.3539 |               3 |
-|  2025 |                 2.6034 |               2 |
+|  2021 |                 0.9627 |               4 |
+|  2022 |                 1.2287 |               4 |
+|  2023 |                 1.1677 |               2 |
+|  2024 |                 2.3363 |               3 |
+|  2025 |                 2.584  |               2 |
 |  2026 |                 1.168  |               1 |
 
-**Média Anual:** R$ 1.5849
+**Média Anual:** R$ 1.5746
 **Último Ano:** R$ 1.1680
 
 ---
