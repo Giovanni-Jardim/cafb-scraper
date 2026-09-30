@@ -1,24 +1,24 @@
 # Análise Fundamentalista: BBSE3
 
-**Fonte:** Yahoo Finance | **Gerado:** 29/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 30/09/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 38.38 |
+| Cotação Atual | R$ 38.76 |
 | Nº Total de Ações | 1,941,248,544 |
 | LPA (TTM) | R$ 4.73 |
 | VPA | R$ 5.61 |
-| Dividend Yield | 11.77% |
+| Dividend Yield | 11.96% |
 | Proventos 12m | R$ 4.59 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 76.50 | +99.3% (COMPRA) |
-| Graham | R$ 24.43 | -36.3% (VENDA) |
+| Bazin (6%) | R$ 76.50 | +97.4% (COMPRA) |
+| Graham | R$ 24.43 | -37.0% (VENDA) |
 
 ---
 

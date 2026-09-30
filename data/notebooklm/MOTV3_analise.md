@@ -1,24 +1,24 @@
 # Análise Fundamentalista: MOTV3
 
-**Fonte:** Yahoo Finance | **Gerado:** 29/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 30/09/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 16.49 |
+| Cotação Atual | R$ 16.60 |
 | Nº Total de Ações | 2,009,939,382 |
-| LPA (TTM) | R$ 1.67 |
+| LPA (TTM) | R$ 1.68 |
 | VPA | R$ 8.83 |
-| Dividend Yield | 4.72% |
+| Dividend Yield | 4.76% |
 | Proventos 12m | R$ 0.79 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 13.17 | -20.2% (VENDA) |
-| Graham | R$ 18.21 | +10.4% (AGUARDAR) |
+| Bazin (6%) | R$ 13.17 | -20.7% (VENDA) |
+| Graham | R$ 18.27 | +10.0% (AGUARDAR) |
 
 ---
 
