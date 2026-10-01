@@ -1,24 +1,24 @@
 # Análise Fundamentalista: TAEE11
 
-**Fonte:** Yahoo Finance | **Gerado:** 30/09/2026
+**Fonte:** Yahoo Finance | **Gerado:** 01/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 40.56 |
+| Cotação Atual | R$ 41.81 |
 | Nº Total de Ações | 344,498,907 |
-| LPA (TTM) | R$ 1.02 |
+| LPA (TTM) | R$ 1.03 |
 | VPA | R$ 23.43 |
-| Dividend Yield | 9.64% |
+| Dividend Yield | 9.56% |
 | Proventos 12m | R$ 3.88 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 64.67 | +59.4% (COMPRA) |
-| Graham | R$ 23.19 | -42.8% (VENDA) |
+| Bazin (6%) | R$ 64.67 | +54.7% (COMPRA) |
+| Graham | R$ 23.30 | -44.3% (VENDA) |
 
 ---
 
@@ -76,13 +76,13 @@
 
 ### DFC - BILHOES
 
-| Conta              |        2T2026 |       1T2026 |        4T2025 |        3T2025 |        2T2025 |       1T2025 |   4T2024 |
-|:-------------------|--------------:|-------------:|--------------:|--------------:|--------------:|-------------:|---------:|
-| Ativo Circulante   | nan           |  1.6633e+07  | nan           | nan           | nan           |   2.1148e+07 |      nan |
-| Passivo Circulante |   4.056e+06   |  2.781e+06   |   2.839e+06   |   1.888e+06   |   2.376e+06   | nan          |      nan |
-| Lucro Líquido      |   5.67144e+08 |  3.53646e+08 |   3.64077e+08 |   3.5085e+08  |   4.99775e+08 | nan          |      nan |
-| FCO                |   5.34474e+08 |  2.64559e+08 |   2.45454e+08 |   6.57876e+08 |   4.9697e+08  | nan          |      nan |
-| Capex              |  -1.1701e+07  | -6.74e+06    |  -1.7643e+07  |  -1.3769e+07  |  -8.35e+06    | nan          |      nan |
+| Conta              |        2T2026 |       1T2026 |        4T2025 |        3T2025 |        2T2025 |       1T2025 |
+|:-------------------|--------------:|-------------:|--------------:|--------------:|--------------:|-------------:|
+| Ativo Circulante   | nan           |  1.6633e+07  | nan           | nan           | nan           |   2.1148e+07 |
+| Passivo Circulante |   4.056e+06   |  2.781e+06   |   2.839e+06   |   1.888e+06   |   2.376e+06   | nan          |
+| Lucro Líquido      |   5.67144e+08 |  3.53646e+08 |   3.64077e+08 |   3.5085e+08  |   4.99775e+08 | nan          |
+| FCO                |   5.34474e+08 |  2.64559e+08 |   2.45454e+08 |   6.57876e+08 |   4.9697e+08  | nan          |
+| Capex              |  -1.1701e+07  | -6.74e+06    |  -1.7643e+07  |  -1.3769e+07  |  -8.35e+06    | nan          |
 
 
 ---
