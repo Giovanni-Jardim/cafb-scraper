@@ -1,24 +1,24 @@
 # Análise Fundamentalista: CYRE3
 
-**Fonte:** Yahoo Finance | **Gerado:** 02/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 03/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 27.25 |
+| Cotação Atual | R$ 27.99 |
 | Nº Total de Ações | 360,872,839 |
-| LPA (TTM) | R$ 4.65 |
+| LPA (TTM) | R$ 4.64 |
 | VPA | R$ 25.63 |
-| Dividend Yield | 13.98% |
+| Dividend Yield | 14.00% |
 | Proventos 12m | R$ 3.80 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 63.33 | +132.4% (COMPRA) |
-| Graham | R$ 51.78 | +90.0% (COMPRA) |
+| Bazin (6%) | R$ 63.33 | +126.3% (COMPRA) |
+| Graham | R$ 51.73 | +84.8% (COMPRA) |
 
 ---
 
