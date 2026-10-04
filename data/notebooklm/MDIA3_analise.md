@@ -1,6 +1,6 @@
 # Análise Fundamentalista: MDIA3
 
-**Fonte:** Yahoo Finance | **Gerado:** 03/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 04/10/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 335,572,016 |
 | LPA (TTM) | R$ 1.92 |
 | VPA | R$ 25.29 |
-| Dividend Yield | 2.17% |
+| Dividend Yield | 2.11% |
 | Proventos 12m | R$ 0.36 |
 
 ### Valuation

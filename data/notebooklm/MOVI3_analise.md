@@ -1,6 +1,6 @@
 # Análise Fundamentalista: MOVI3
 
-**Fonte:** Yahoo Finance | **Gerado:** 03/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 04/10/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 423,965,629 |
 | LPA (TTM) | R$ 1.21 |
 | VPA | R$ 9.73 |
-| Dividend Yield | 8.95% |
+| Dividend Yield | 8.36% |
 | Proventos 12m | R$ 0.91 |
 
 ### Valuation
