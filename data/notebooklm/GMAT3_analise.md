@@ -1,6 +1,6 @@
 # Análise Fundamentalista: GMAT3
 
-**Fonte:** Yahoo Finance | **Gerado:** 04/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 05/10/2026
 
 ## 📊 Dados de Mercado
 
@@ -8,17 +8,17 @@
 |---------|-------|
 | Cotação Atual | R$ 4.94 |
 | Nº Total de Ações | 2,300,487,204 |
-| LPA (TTM) | R$ 0.72 |
+| LPA (TTM) | R$ 0.73 |
 | VPA | R$ 4.86 |
-| Dividend Yield | 5.05% |
-| Proventos 12m | R$ 0.25 |
+| Dividend Yield | 2.47% |
+| Proventos 12m | R$ 0.12 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 4.17 | -15.7% (VENDA) |
-| Graham | R$ 8.87 | +79.6% (COMPRA) |
+| Bazin (6%) | R$ 2.00 | -59.5% (VENDA) |
+| Graham | R$ 8.93 | +80.8% (COMPRA) |
 
 ---
 
