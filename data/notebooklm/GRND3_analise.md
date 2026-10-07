@@ -1,24 +1,24 @@
 # Análise Fundamentalista: GRND3
 
-**Fonte:** Yahoo Finance | **Gerado:** 06/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 07/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 4.16 |
+| Cotação Atual | R$ 4.28 |
 | Nº Total de Ações | 902,160,000 |
-| LPA (TTM) | R$ 0.64 |
+| LPA (TTM) | R$ 0.62 |
 | VPA | R$ 3.50 |
-| Dividend Yield | 32.38% |
+| Dividend Yield | 30.49% |
 | Proventos 12m | R$ 1.31 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 21.83 | +424.8% (COMPRA) |
-| Graham | R$ 7.10 | +70.6% (COMPRA) |
+| Bazin (6%) | R$ 21.83 | +410.1% (COMPRA) |
+| Graham | R$ 6.98 | +63.2% (COMPRA) |
 
 ---
 
