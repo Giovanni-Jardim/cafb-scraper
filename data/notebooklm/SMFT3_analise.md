@@ -1,24 +1,24 @@
 # Análise Fundamentalista: SMFT3
 
-**Fonte:** Yahoo Finance | **Gerado:** 08/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 09/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 22.34 |
+| Cotação Atual | R$ 23.57 |
 | Nº Total de Ações | 612,078,938 |
-| LPA (TTM) | R$ 1.11 |
+| LPA (TTM) | R$ 1.05 |
 | VPA | R$ 9.86 |
-| Dividend Yield | 4.64% |
+| Dividend Yield | 4.40% |
 | Proventos 12m | R$ 1.04 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 17.33 | -22.4% (VENDA) |
-| Graham | R$ 15.69 | -29.7% (VENDA) |
+| Bazin (6%) | R$ 17.33 | -26.5% (VENDA) |
+| Graham | R$ 15.26 | -35.2% (VENDA) |
 
 ---
 
