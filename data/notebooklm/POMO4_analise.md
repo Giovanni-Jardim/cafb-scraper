@@ -1,14 +1,14 @@
 # Análise Fundamentalista: POMO4
 
-**Fonte:** Yahoo Finance | **Gerado:** 09/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 10/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 4.83 |
+| Cotação Atual | R$ 4.94 |
 | Nº Total de Ações | 790,454,364 |
-| LPA (TTM) | R$ 0.95 |
+| LPA (TTM) | R$ 0.96 |
 | VPA | R$ 3.42 |
 | Dividend Yield | 22.61% |
 | Proventos 12m | R$ 1.07 |
@@ -17,8 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 17.83 | +269.2% (COMPRA) |
-| Graham | R$ 8.54 | +76.9% (COMPRA) |
+| Bazin (6%) | R$ 17.83 | +261.0% (COMPRA) |
+| Graham | R$ 8.59 | +73.9% (COMPRA) |
 
 ---
 
