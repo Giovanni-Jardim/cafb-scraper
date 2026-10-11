@@ -1,6 +1,6 @@
 # Análise Fundamentalista: CAML3
 
-**Fonte:** Yahoo Finance | **Gerado:** 10/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 11/10/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 341,071,232 |
 | LPA (TTM) | R$ 0.19 |
 | VPA | R$ 8.76 |
-| Dividend Yield | 4.22% |
+| Dividend Yield | 4.14% |
 | Proventos 12m | R$ 0.29 |
 
 ### Valuation

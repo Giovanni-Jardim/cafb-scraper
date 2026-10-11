@@ -1,6 +1,6 @@
 # Análise Fundamentalista: BBAS3
 
-**Fonte:** Yahoo Finance | **Gerado:** 10/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 11/10/2026
 
 ## 📊 Dados de Mercado
 
@@ -8,7 +8,7 @@
 |---------|-------|
 | Cotação Atual | R$ 24.64 |
 | Nº Total de Ações | 5,708,873,346 |
-| LPA (TTM) | R$ 2.12 |
+| LPA (TTM) | R$ 2.15 |
 | VPA | R$ 31.88 |
 | Dividend Yield | 57.00% |
 | Proventos 12m | R$ 0.14 |
@@ -18,7 +18,7 @@
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
 | Bazin (6%) | R$ 2.33 | -90.5% (VENDA) |
-| Graham | R$ 38.99 | +58.3% (COMPRA) |
+| Graham | R$ 39.27 | +59.4% (COMPRA) |
 
 ---
 
