@@ -1,6 +1,6 @@
 # Análise Fundamentalista: CSMG3
 
-**Fonte:** Yahoo Finance | **Gerado:** 11/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 12/10/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 379,181,429 |
 | LPA (TTM) | R$ 3.40 |
 | VPA | R$ 23.35 |
-| Dividend Yield | 1.61% |
+| Dividend Yield | 1.58% |
 | Proventos 12m | R$ 1.02 |
 
 ### Valuation

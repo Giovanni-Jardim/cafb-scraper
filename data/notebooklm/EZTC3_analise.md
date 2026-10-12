@@ -1,6 +1,6 @@
 # Análise Fundamentalista: EZTC3
 
-**Fonte:** Yahoo Finance | **Gerado:** 11/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 12/10/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 277,359,027 |
 | LPA (TTM) | R$ 1.87 |
 | VPA | R$ 18.86 |
-| Dividend Yield | 2.07% |
+| Dividend Yield | 1.91% |
 | Proventos 12m | R$ 0.38 |
 
 ### Valuation

@@ -1,6 +1,6 @@
 # Análise Fundamentalista: ALOS3
 
-**Fonte:** Yahoo Finance | **Gerado:** 11/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 12/10/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 500,139,358 |
 | LPA (TTM) | R$ 1.88 |
 | VPA | R$ 25.70 |
-| Dividend Yield | 10.17% |
+| Dividend Yield | 9.78% |
 | Proventos 12m | R$ 3.50 |
 
 ### Valuation

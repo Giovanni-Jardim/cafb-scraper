@@ -1,6 +1,6 @@
 # Análise Fundamentalista: GGPS3
 
-**Fonte:** Yahoo Finance | **Gerado:** 11/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 12/10/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 752,350,487 |
 | LPA (TTM) | R$ 1.31 |
 | VPA | R$ 5.98 |
-| Dividend Yield | 1.99% |
+| Dividend Yield | 1.82% |
 | Proventos 12m | R$ 0.32 |
 
 ### Valuation
