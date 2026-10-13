@@ -1,13 +1,13 @@
 # Análise Fundamentalista: VIVA3
 
-**Fonte:** Yahoo Finance | **Gerado:** 12/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 13/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
 | Cotação Atual | R$ 29.45 |
-| Nº Total de Ações | 235,135,052 |
+| Nº Total de Ações | 234,935,052 |
 | LPA (TTM) | R$ 2.49 |
 | VPA | R$ 13.54 |
 | Dividend Yield | 2.37% |
