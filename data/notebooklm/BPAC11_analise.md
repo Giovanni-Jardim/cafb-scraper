@@ -1,24 +1,23 @@
 # Análise Fundamentalista: BPAC11
 
-**Fonte:** Yahoo Finance | **Gerado:** 13/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 14/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 81.50 |
+| Cotação Atual | R$ 80.56 |
 | Nº Total de Ações | 3,342,095,256 |
 | LPA (TTM) | R$ 0.61 |
 | VPA | R$ 16.69 |
-| Dividend Yield | 1.14% |
-| Proventos 12m | R$ 0.93 |
+| Dividend Yield | 1.15% |
+
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 15.50 | -81.0% (VENDA) |
-| Graham | R$ 15.18 | -81.4% (VENDA) |
+| Graham | R$ 15.18 | -81.2% (VENDA) |
 
 ---
 

@@ -1,24 +1,23 @@
 # Análise Fundamentalista: SLCE3
 
-**Fonte:** Yahoo Finance | **Gerado:** 13/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 14/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 17.60 |
-| Nº Total de Ações | 495,960,305 |
-| LPA (TTM) | R$ 0.78 |
+| Cotação Atual | R$ 18.00 |
+| Nº Total de Ações | 496,007,234 |
+| LPA (TTM) | R$ 0.76 |
 | VPA | R$ 10.93 |
-| Dividend Yield | 4.57% |
-| Proventos 12m | R$ 0.81 |
+| Dividend Yield | 4.47% |
+
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 13.50 | -23.3% (VENDA) |
-| Graham | R$ 13.85 | -21.3% (VENDA) |
+| Graham | R$ 13.67 | -24.0% (VENDA) |
 
 ---
 

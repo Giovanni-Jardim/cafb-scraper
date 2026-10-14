@@ -1,24 +1,23 @@
 # Análise Fundamentalista: PETR3
 
-**Fonte:** Yahoo Finance | **Gerado:** 13/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 14/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 63.06 |
+| Cotação Atual | R$ 63.78 |
 | Nº Total de Ações | 7,442,231,382 |
 | LPA (TTM) | R$ 10.49 |
 | VPA | R$ 37.32 |
-| Dividend Yield | 5.81% |
-| Proventos 12m | R$ 3.66 |
+| Dividend Yield | 5.75% |
+
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 61.00 | -3.3% (AGUARDAR) |
-| Graham | R$ 93.85 | +48.8% (COMPRA) |
+| Graham | R$ 93.85 | +47.1% (COMPRA) |
 
 ---
 

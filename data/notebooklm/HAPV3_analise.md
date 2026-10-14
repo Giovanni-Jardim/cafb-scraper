@@ -1,14 +1,14 @@
 # Análise Fundamentalista: HAPV3
 
-**Fonte:** Yahoo Finance | **Gerado:** 13/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 14/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 8.89 |
+| Cotação Atual | R$ 8.73 |
 | Nº Total de Ações | 475,087,930 |
-| LPA (TTM) | R$ -0.36 |
+| LPA (TTM) | R$ -0.37 |
 | VPA | R$ 101.16 |
 
 

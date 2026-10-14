@@ -1,14 +1,14 @@
 # Análise Fundamentalista: USIM5
 
-**Fonte:** Yahoo Finance | **Gerado:** 13/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 14/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 7.30 |
+| Cotação Atual | R$ 7.15 |
 | Nº Total de Ações | 528,130,869 |
-| LPA (TTM) | R$ -1.91 |
+| LPA (TTM) | R$ -1.95 |
 | VPA | R$ 16.86 |
 
 
