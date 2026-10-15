@@ -1,12 +1,12 @@
 # Análise Fundamentalista: ENGI11
 
-**Fonte:** Yahoo Finance | **Gerado:** 14/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 15/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 67.11 |
+| Cotação Atual | R$ 66.76 |
 | Nº Total de Ações | 457,130,457 |
 | LPA (TTM) | R$ 1.38 |
 | VPA | R$ 51.04 |
@@ -17,7 +17,7 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Graham | R$ 39.81 | -40.7% (VENDA) |
+| Graham | R$ 39.81 | -40.4% (VENDA) |
 
 ---
 

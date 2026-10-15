@@ -1,12 +1,12 @@
 # Análise Fundamentalista: COGN3
 
-**Fonte:** Yahoo Finance | **Gerado:** 14/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 15/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 2.99 |
+| Cotação Atual | R$ 2.93 |
 | Nº Total de Ações | 2,004,484,745 |
 | LPA (TTM) | R$ 0.36 |
 | VPA | R$ 6.86 |
@@ -17,7 +17,7 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Graham | R$ 7.46 | +149.3% (COMPRA) |
+| Graham | R$ 7.46 | +154.4% (COMPRA) |
 
 ---
 

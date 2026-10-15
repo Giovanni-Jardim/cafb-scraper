@@ -1,12 +1,12 @@
 # Análise Fundamentalista: CMIN3
 
-**Fonte:** Yahoo Finance | **Gerado:** 14/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 15/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 4.97 |
+| Cotação Atual | R$ 5.02 |
 | Nº Total de Ações | 5,371,491,738 |
 | LPA (TTM) | R$ 0.39 |
 | VPA | R$ 1.36 |
@@ -17,7 +17,7 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Graham | R$ 3.45 | -30.5% (VENDA) |
+| Graham | R$ 3.45 | -31.2% (VENDA) |
 
 ---
 

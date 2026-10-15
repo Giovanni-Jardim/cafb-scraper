@@ -1,12 +1,12 @@
 # Análise Fundamentalista: RENT3
 
-**Fonte:** Yahoo Finance | **Gerado:** 14/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 15/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 51.39 |
+| Cotação Atual | R$ 50.29 |
 | Nº Total de Ações | 1,064,229,448 |
 | LPA (TTM) | R$ 3.15 |
 | VPA | R$ 24.54 |
@@ -17,7 +17,7 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Graham | R$ 41.70 | -18.9% (VENDA) |
+| Graham | R$ 41.70 | -17.1% (VENDA) |
 
 ---
 
