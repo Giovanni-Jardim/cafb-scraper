@@ -1,23 +1,23 @@
 # Análise Fundamentalista: MOVI3
 
-**Fonte:** Yahoo Finance | **Gerado:** 15/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 16/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 17.02 |
+| Cotação Atual | R$ 16.20 |
 | Nº Total de Ações | 423,965,629 |
-| LPA (TTM) | R$ 1.22 |
+| LPA (TTM) | R$ 1.18 |
 | VPA | R$ 9.73 |
-| Dividend Yield | 4.19% |
+| Dividend Yield | 4.31% |
 
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Graham | R$ 16.34 | -4.0% (AGUARDAR) |
+| Graham | R$ 16.07 | -0.8% (AGUARDAR) |
 
 ---
 
