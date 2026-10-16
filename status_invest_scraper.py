@@ -83,6 +83,34 @@ class StatusInvestScraper:
 
         return html
 
+    def _parse_pvp(self, html: str) -> Optional[float]:
+        """Extrai P/VP da página de detalhes, sem confundir com P/L ou VPA."""
+        soup = BeautifulSoup(html, "html.parser")
+        for cell in soup.find_all(["td", "th"]):
+            label = re.sub(r"\s+", "", cell.get_text()).upper()
+            if label == "P/VP":
+                value_cell = cell.find_next_sibling(["td", "th"])
+                if value_cell is not None:
+                    value = self._parse_valor(value_cell.get_text(strip=True))
+                    if value is not None and not pd.isna(value) and abs(value) != float("inf"):
+                        return value
+        return None
+
+    @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=2, max=10))
+    def coletar_pvp(self, ticker: str) -> Optional[float]:
+        """Coleta o múltiplo atual publicado pelo Fundamentus (não histórico)."""
+        response = self.session.get(
+            "https://www.fundamentus.com.br/detalhes.php",
+            params={"papel": ticker.upper()}, timeout=45,
+        )
+        response.raise_for_status()
+        html = response.text
+        self._save_raw(html, ticker, "indicadores")
+        pvp = self._parse_pvp(html)
+        if pvp is None:
+            print(f"⚠️ P/VP indisponível para {ticker.upper()}")
+        return pvp
+
     def _parse_demonstrativo(self, html: str, ticker: str, tipo: str) -> Demonstrativo:
         tables = self._extract_tables(html)
         if not tables:
