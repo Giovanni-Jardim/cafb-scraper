@@ -8,15 +8,16 @@
 |---------|-------|
 | Cotação Atual | R$ 18.41 |
 | Nº Total de Ações | 99,615,457 |
-| LPA (TTM) | R$ -0.92 |
+| LPA (TTM) | R$ -0.90 |
 | VPA | R$ 20.33 |
-| Dividend Yield | 1.61% |
-
+| Dividend Yield | 1.64% |
+| Proventos 12m | R$ 0.30 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
+| Bazin (6%) | R$ 5.00 | -72.8% (VENDA) |
 
 ---
 

@@ -10,7 +10,7 @@
 | Nº Total de Ações | 4,976,128,681 |
 | LPA (TTM) | R$ 0.98 |
 | VPA | R$ 3.74 |
-| Dividend Yield | 3.37% |
+| Dividend Yield | 3.38% |
 
 
 ### Valuation

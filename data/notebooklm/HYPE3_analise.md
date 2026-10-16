@@ -6,18 +6,18 @@
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 25.45 |
+| Cotação Atual | R$ 25.39 |
 | Nº Total de Ações | 703,995,955 |
-| LPA (TTM) | R$ 2.68 |
+| LPA (TTM) | R$ 2.65 |
 | VPA | R$ 20.50 |
-| Dividend Yield | 4.08% |
+| Dividend Yield | 4.13% |
 
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Graham | R$ 35.16 | +38.1% (COMPRA) |
+| Graham | R$ 34.96 | +37.7% (COMPRA) |
 
 ---
 

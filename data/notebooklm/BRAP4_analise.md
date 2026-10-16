@@ -10,13 +10,14 @@
 | Nº Total de Ações | 255,106,712 |
 | LPA (TTM) | R$ 1.40 |
 | VPA | R$ 20.48 |
-| Dividend Yield | 11.70% |
-
+| Dividend Yield | 11.76% |
+| Proventos 12m | R$ 2.36 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
+| Bazin (6%) | R$ 39.33 | +96.3% (COMPRA) |
 | Graham | R$ 25.40 | +26.7% (COMPRA) |
 
 ---
