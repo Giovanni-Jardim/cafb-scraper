@@ -196,6 +196,7 @@ class DemonstrativoNormalizer:
         dre: Demonstrativo,
         dfc: Demonstrativo,
         indicadores: List[IndicadoresCalculados],
+        pvp: Optional[float] = None,
     ) -> str:
         """Gera documento final para NotebookLM"""
 
@@ -206,6 +207,17 @@ class DemonstrativoNormalizer:
             "",
             "### Últimos 4 Trimestres",
             "",
+        ]
+
+        # Indicador atual: não replicar como se fosse uma série trimestral.
+        pvp_texto = f"{pvp:.2f}".replace(".", ",") + "x" if pvp is not None else "N/A"
+        posicao = lines.index("### Últimos 4 Trimestres")
+        lines[posicao:posicao] = [
+            "### Indicador de mercado atual", "",
+            "| Indicador | Valor |", "|-----------|-------|",
+            f"| P/VP | {pvp_texto} |", "",
+            "Fonte: Fundamentus — página de detalhes, consultada na geração do relatório.",
+            "P/VP é o múltiplo preço/valor patrimonial; não é um percentual nem uma série histórica.", "",
         ]
 
         recentes = indicadores[:4]
@@ -287,7 +299,12 @@ def processar_ticker(ticker: str):
     dfc_pad = normalizer.padronizar_contas(dados["dfc"])
 
     indicadores = normalizer.calcular_indicadores(bp_pad, dre_pad, dfc_pad)
-    markdown = normalizer.gerar_markdown_analitico(bp_pad, dre_pad, dfc_pad, indicadores)
+    try:
+        pvp = scraper.coletar_pvp(ticker)
+    except Exception as e:
+        print(f"⚠️ Falha na coleta de P/VP para {ticker}: {e}")
+        pvp = None
+    markdown = normalizer.gerar_markdown_analitico(bp_pad, dre_pad, dfc_pad, indicadores, pvp=pvp)
 
     output_path = Path(f"data/notebooklm/{ticker}_analise.md")
     output_path.parent.mkdir(parents=True, exist_ok=True)
