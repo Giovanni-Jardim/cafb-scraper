@@ -1,12 +1,12 @@
 # Análise Fundamentalista: ITSA4
 
-**Fonte:** Yahoo Finance | **Gerado:** 16/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 17/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 15.58 |
+| Cotação Atual | R$ 15.43 |
 | Nº Total de Ações | 7,353,715,964 |
 | LPA (TTM) | R$ 1.62 |
 | VPA | R$ 8.37 |
@@ -17,8 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 1.67 | -89.3% (VENDA) |
-| Graham | R$ 17.47 | +12.1% (AGUARDAR) |
+| Bazin (6%) | R$ 1.67 | -89.2% (VENDA) |
+| Graham | R$ 17.47 | +13.2% (AGUARDAR) |
 
 ---
 

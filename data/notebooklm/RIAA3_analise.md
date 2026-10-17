@@ -1,12 +1,12 @@
 # Análise Fundamentalista: RIAA3
 
-**Fonte:** Yahoo Finance | **Gerado:** 16/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 17/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 9.97 |
+| Cotação Atual | R$ 10.00 |
 | Nº Total de Ações | 502,607,879 |
 | LPA (TTM) | R$ 3.06 |
 | VPA | R$ 10.76 |
@@ -17,8 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 55.17 | +453.3% (COMPRA) |
-| Graham | R$ 27.22 | +173.0% (COMPRA) |
+| Bazin (6%) | R$ 55.17 | +451.7% (COMPRA) |
+| Graham | R$ 27.22 | +172.2% (COMPRA) |
 
 ---
 
