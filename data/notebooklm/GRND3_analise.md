@@ -1,6 +1,6 @@
 # Análise Fundamentalista: GRND3
 
-**Fonte:** Yahoo Finance | **Gerado:** 17/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 18/10/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 902,160,000 |
 | LPA (TTM) | R$ 0.64 |
 | VPA | R$ 3.56 |
-| Dividend Yield | 29.13% |
+| Dividend Yield | 29.00% |
 | Proventos 12m | R$ 1.31 |
 
 ### Valuation

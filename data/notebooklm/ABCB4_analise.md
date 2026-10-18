@@ -1,6 +1,6 @@
 # Análise Fundamentalista: ABCB4
 
-**Fonte:** Yahoo Finance | **Gerado:** 17/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 18/10/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 127,195,732 |
 | LPA (TTM) | R$ 4.30 |
 | VPA | R$ 28.17 |
-| Dividend Yield | 8.07% |
+| Dividend Yield | 8.15% |
 | Proventos 12m | R$ 2.34 |
 
 ### Valuation

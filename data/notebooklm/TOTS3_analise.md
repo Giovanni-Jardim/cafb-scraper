@@ -1,6 +1,6 @@
 # Análise Fundamentalista: TOTS3
 
-**Fonte:** Yahoo Finance | **Gerado:** 17/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 18/10/2026
 
 ## 📊 Dados de Mercado
 
@@ -10,7 +10,7 @@
 | Nº Total de Ações | 562,853,832 |
 | LPA (TTM) | R$ 1.49 |
 | VPA | R$ 9.52 |
-| Dividend Yield | 1.50% |
+| Dividend Yield | 1.49% |
 | Proventos 12m | R$ 0.60 |
 
 ### Valuation
