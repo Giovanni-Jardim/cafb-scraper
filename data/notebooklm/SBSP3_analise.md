@@ -1,12 +1,12 @@
 # Análise Fundamentalista: SBSP3
 
-**Fonte:** Yahoo Finance | **Gerado:** 19/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 20/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 32.20 |
+| Cotação Atual | R$ 32.19 |
 | Nº Total de Ações | 3,516,593,233 |
 | LPA (TTM) | R$ 2.35 |
 | VPA | R$ 12.82 |
