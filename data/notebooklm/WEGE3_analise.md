@@ -1,24 +1,24 @@
 # Análise Fundamentalista: WEGE3
 
-**Fonte:** Yahoo Finance | **Gerado:** 21/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 22/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 48.79 |
+| Cotação Atual | R$ 45.21 |
 | Nº Total de Ações | 4,195,829,691 |
-| LPA (TTM) | R$ 1.46 |
+| LPA (TTM) | R$ 1.49 |
 | VPA | R$ 4.50 |
-| Dividend Yield | 3.18% |
+| Dividend Yield | 3.43% |
 | Proventos 12m | R$ 1.55 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 25.83 | -47.1% (VENDA) |
-| Graham | R$ 12.15 | -75.1% (VENDA) |
+| Bazin (6%) | R$ 25.83 | -42.9% (VENDA) |
+| Graham | R$ 12.28 | -72.8% (VENDA) |
 
 ---
 

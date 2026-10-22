@@ -1,12 +1,12 @@
 # Análise Fundamentalista: CVCB3
 
-**Fonte:** Yahoo Finance | **Gerado:** 21/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 22/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 1.67 |
+| Cotação Atual | R$ 1.61 |
 | Nº Total de Ações | 520,798,588 |
 | LPA (TTM) | R$ 0.03 |
 | VPA | R$ 0.62 |
@@ -17,7 +17,7 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Graham | R$ 0.65 | -61.3% (VENDA) |
+| Graham | R$ 0.65 | -59.8% (VENDA) |
 
 ---
 
