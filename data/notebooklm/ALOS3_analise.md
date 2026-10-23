@@ -1,24 +1,24 @@
 # Análise Fundamentalista: ALOS3
 
-**Fonte:** Yahoo Finance | **Gerado:** 22/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 23/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 35.26 |
+| Cotação Atual | R$ 34.85 |
 | Nº Total de Ações | 500,139,358 |
 | LPA (TTM) | R$ 1.90 |
 | VPA | R$ 25.70 |
-| Dividend Yield | 9.93% |
+| Dividend Yield | 10.05% |
 | Proventos 12m | R$ 3.50 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 58.33 | +65.4% (COMPRA) |
-| Graham | R$ 33.15 | -6.0% (AGUARDAR) |
+| Bazin (6%) | R$ 58.33 | +67.4% (COMPRA) |
+| Graham | R$ 33.15 | -4.9% (AGUARDAR) |
 
 ---
 

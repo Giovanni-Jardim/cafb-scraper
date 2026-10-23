@@ -1,14 +1,14 @@
 # Análise Fundamentalista: ITUB3
 
-**Fonte:** Yahoo Finance | **Gerado:** 22/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 23/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 53.31 |
+| Cotação Atual | R$ 52.83 |
 | Nº Total de Ações | 5,617,742,977 |
-| LPA (TTM) | R$ 4.10 |
+| LPA (TTM) | R$ 4.18 |
 | VPA | R$ 19.76 |
 | Dividend Yield | 41.00% |
 | Proventos 12m | R$ 0.22 |
@@ -18,7 +18,7 @@
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
 | Bazin (6%) | R$ 3.67 | -93.1% (VENDA) |
-| Graham | R$ 42.69 | -19.9% (VENDA) |
+| Graham | R$ 43.11 | -18.4% (VENDA) |
 
 ---
 

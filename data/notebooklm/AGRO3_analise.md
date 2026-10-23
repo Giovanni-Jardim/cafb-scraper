@@ -1,12 +1,12 @@
 # Análise Fundamentalista: AGRO3
 
-**Fonte:** Yahoo Finance | **Gerado:** 22/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 23/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 18.53 |
+| Cotação Atual | R$ 18.50 |
 | Nº Total de Ações | 99,615,457 |
 | LPA (TTM) | R$ -0.91 |
 | VPA | R$ 20.33 |
@@ -30,9 +30,10 @@
 |  2023 |                 3.2124 |               1 |
 |  2024 |                 1.556  |               1 |
 |  2025 |                 0.7529 |               1 |
+|  2026 |                 0.3012 |               1 |
 
-**Média Anual:** R$ 2.6795
-**Último Ano:** R$ 0.7529
+**Média Anual:** R$ 2.2831
+**Último Ano:** R$ 0.3012
 
 ---
 

@@ -1,12 +1,12 @@
 # Análise Fundamentalista: CPFE3
 
-**Fonte:** Yahoo Finance | **Gerado:** 22/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 23/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 49.51 |
+| Cotação Atual | R$ 49.49 |
 | Nº Total de Ações | 1,152,254,440 |
 | LPA (TTM) | R$ 5.21 |
 | VPA | R$ 19.72 |
