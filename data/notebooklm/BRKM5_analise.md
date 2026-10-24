@@ -1,14 +1,14 @@
 # Análise Fundamentalista: BRKM5
 
-**Fonte:** Yahoo Finance | **Gerado:** 23/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 24/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 4.00 |
+| Cotação Atual | R$ 4.16 |
 | Nº Total de Ações | 345,060,365 |
-| LPA (TTM) | R$ -6.96 |
+| LPA (TTM) | R$ -6.61 |
 | VPA | R$ -15.79 |
 
 
