@@ -1,6 +1,6 @@
 # Análise Fundamentalista: YDUQ3
 
-**Fonte:** Yahoo Finance | **Gerado:** 25/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 26/10/2026
 
 ## 📊 Dados de Mercado
 
