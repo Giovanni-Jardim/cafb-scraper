@@ -1,24 +1,24 @@
 # Análise Fundamentalista: PGMN3
 
-**Fonte:** Yahoo Finance | **Gerado:** 25/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 27/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 5.43 |
+| Cotação Atual | R$ 2.81 |
 | Nº Total de Ações | 717,066,829 |
-| LPA (TTM) | R$ 0.50 |
+| LPA (TTM) | R$ 0.96 |
 | VPA | R$ 4.75 |
-| Dividend Yield | 4.72% |
+| Dividend Yield | 9.13% |
 | Proventos 12m | R$ 0.26 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 4.33 | -20.2% (VENDA) |
-| Graham | R$ 7.31 | +34.6% (COMPRA) |
+| Bazin (6%) | R$ 4.33 | +54.2% (COMPRA) |
+| Graham | R$ 10.12 | +260.3% (COMPRA) |
 
 ---
 

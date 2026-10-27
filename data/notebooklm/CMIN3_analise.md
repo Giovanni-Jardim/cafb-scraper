@@ -1,24 +1,24 @@
 # Análise Fundamentalista: CMIN3
 
-**Fonte:** Yahoo Finance | **Gerado:** 25/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 27/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 4.99 |
+| Cotação Atual | R$ 4.68 |
 | Nº Total de Ações | 5,367,528,538 |
-| LPA (TTM) | R$ 0.39 |
+| LPA (TTM) | R$ 0.41 |
 | VPA | R$ 1.36 |
-| Dividend Yield | 7.73% |
+| Dividend Yield | 8.24% |
 | Proventos 12m | R$ 0.39 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 6.50 | +30.3% (COMPRA) |
-| Graham | R$ 3.45 | -30.8% (VENDA) |
+| Bazin (6%) | R$ 6.50 | +38.9% (COMPRA) |
+| Graham | R$ 3.54 | -24.3% (VENDA) |
 
 ---
 

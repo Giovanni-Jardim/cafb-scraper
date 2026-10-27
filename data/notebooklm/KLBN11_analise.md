@@ -1,24 +1,24 @@
 # Análise Fundamentalista: KLBN11
 
-**Fonte:** Yahoo Finance | **Gerado:** 25/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 27/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 18.22 |
+| Cotação Atual | R$ 18.81 |
 | Nº Total de Ações | 1,214,936,096 |
 | LPA (TTM) | R$ 0.66 |
 | VPA | R$ 7.71 |
-| Dividend Yield | 6.37% |
+| Dividend Yield | 6.17% |
 | Proventos 12m | R$ 1.16 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 19.33 | +6.1% (AGUARDAR) |
-| Graham | R$ 10.71 | -41.2% (VENDA) |
+| Bazin (6%) | R$ 19.33 | +2.8% (AGUARDAR) |
+| Graham | R$ 10.71 | -43.1% (VENDA) |
 
 ---
 

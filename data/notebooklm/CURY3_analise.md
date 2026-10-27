@@ -1,24 +1,24 @@
 # Análise Fundamentalista: CURY3
 
-**Fonte:** Yahoo Finance | **Gerado:** 25/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 27/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 32.50 |
+| Cotação Atual | R$ 27.08 |
 | Nº Total de Ações | 308,047,594 |
-| LPA (TTM) | R$ 3.65 |
+| LPA (TTM) | R$ 4.39 |
 | VPA | R$ 5.37 |
-| Dividend Yield | 13.24% |
+| Dividend Yield | 15.90% |
 | Proventos 12m | R$ 4.30 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 71.67 | +120.5% (COMPRA) |
-| Graham | R$ 21.01 | -35.4% (VENDA) |
+| Bazin (6%) | R$ 71.67 | +164.6% (COMPRA) |
+| Graham | R$ 23.04 | -14.9% (AGUARDAR) |
 
 ---
 
