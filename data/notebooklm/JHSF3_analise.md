@@ -1,14 +1,14 @@
 # Análise Fundamentalista: JHSF3
 
-**Fonte:** Yahoo Finance | **Gerado:** 27/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 28/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 10.69 |
+| Cotação Atual | R$ 10.40 |
 | Nº Total de Ações | 657,580,356 |
-| LPA (TTM) | R$ 3.10 |
+| LPA (TTM) | R$ 3.19 |
 | VPA | R$ 11.32 |
 | Dividend Yield | 7.76% |
 | Proventos 12m | R$ 0.83 |
@@ -17,8 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 13.83 | +29.4% (COMPRA) |
-| Graham | R$ 28.11 | +162.9% (COMPRA) |
+| Bazin (6%) | R$ 13.83 | +33.0% (COMPRA) |
+| Graham | R$ 28.51 | +174.1% (COMPRA) |
 
 ---
 

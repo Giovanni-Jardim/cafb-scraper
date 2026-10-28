@@ -1,14 +1,14 @@
 # Análise Fundamentalista: CASH3
 
-**Fonte:** Yahoo Finance | **Gerado:** 27/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 28/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 4.05 |
+| Cotação Atual | R$ 4.31 |
 | Nº Total de Ações | 104,419,387 |
-| LPA (TTM) | R$ -1.16 |
+| LPA (TTM) | R$ -0.88 |
 | VPA | R$ 3.79 |
 
 

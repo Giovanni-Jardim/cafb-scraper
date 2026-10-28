@@ -1,14 +1,14 @@
 # Análise Fundamentalista: EZTC3
 
-**Fonte:** Yahoo Finance | **Gerado:** 27/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 28/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 11.20 |
+| Cotação Atual | R$ 10.50 |
 | Nº Total de Ações | 277,359,027 |
-| LPA (TTM) | R$ 3.25 |
+| LPA (TTM) | R$ 2.00 |
 | VPA | R$ 18.86 |
 | Dividend Yield | 3.38% |
 | Proventos 12m | R$ 0.38 |
@@ -17,8 +17,8 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 6.33 | -43.5% (VENDA) |
-| Graham | R$ 37.14 | +231.6% (COMPRA) |
+| Bazin (6%) | R$ 6.33 | -39.7% (VENDA) |
+| Graham | R$ 29.14 | +177.5% (COMPRA) |
 
 ---
 
