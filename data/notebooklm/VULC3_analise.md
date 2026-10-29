@@ -1,24 +1,24 @@
 # Análise Fundamentalista: VULC3
 
-**Fonte:** Yahoo Finance | **Gerado:** 28/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 29/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 12.29 |
+| Cotação Atual | R$ 11.98 |
 | Nº Total de Ações | 314,112,921 |
-| LPA (TTM) | R$ 3.21 |
+| LPA (TTM) | R$ 3.22 |
 | VPA | R$ 8.44 |
-| Dividend Yield | 62.00% |
+| Dividend Yield | 63.47% |
 | Proventos 12m | R$ 7.80 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 130.00 | +957.8% (COMPRA) |
-| Graham | R$ 24.69 | +100.9% (COMPRA) |
+| Bazin (6%) | R$ 130.00 | +985.1% (COMPRA) |
+| Graham | R$ 24.73 | +106.4% (COMPRA) |
 
 ---
 
