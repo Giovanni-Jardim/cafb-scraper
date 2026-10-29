@@ -6,19 +6,19 @@
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 34.06 |
+| Cotação Atual | R$ 32.90 |
 | Nº Total de Ações | 1,256,298,711 |
-| LPA (TTM) | R$ 0.39 |
+| LPA (TTM) | R$ 0.38 |
 | VPA | R$ 20.82 |
-| Dividend Yield | 4.49% |
+| Dividend Yield | 4.65% |
 | Proventos 12m | R$ 1.58 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 26.33 | -22.7% (VENDA) |
-| Graham | R$ 13.52 | -60.3% (VENDA) |
+| Bazin (6%) | R$ 26.33 | -20.0% (VENDA) |
+| Graham | R$ 13.34 | -59.4% (VENDA) |
 
 ---
 

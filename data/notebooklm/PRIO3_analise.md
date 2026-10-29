@@ -6,9 +6,9 @@
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 71.70 |
+| Cotação Atual | R$ 70.47 |
 | Nº Total de Ações | 792,016,001 |
-| LPA (TTM) | R$ 4.69 |
+| LPA (TTM) | R$ 4.77 |
 | VPA | R$ 35.35 |
 
 
@@ -17,7 +17,7 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Graham | R$ 61.07 | -14.8% (AGUARDAR) |
+| Graham | R$ 61.59 | -12.6% (AGUARDAR) |
 
 ---
 
