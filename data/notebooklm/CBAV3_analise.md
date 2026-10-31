@@ -1,6 +1,6 @@
 # Análise Fundamentalista: CBAV3
 
-**Fonte:** Yahoo Finance | **Gerado:** 30/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 31/10/2026
 
 ## 📊 Dados de Mercado
 

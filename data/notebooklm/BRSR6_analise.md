@@ -1,24 +1,24 @@
 # Análise Fundamentalista: BRSR6
 
-**Fonte:** Yahoo Finance | **Gerado:** 30/10/2026
+**Fonte:** Yahoo Finance | **Gerado:** 31/10/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 12.55 |
+| Cotação Atual | R$ 12.36 |
 | Nº Total de Ações | 202,536,545 |
-| LPA (TTM) | R$ 4.16 |
+| LPA (TTM) | R$ 4.07 |
 | VPA | R$ 28.96 |
-| Dividend Yield | 6.76% |
+| Dividend Yield | 7.12% |
 | Proventos 12m | R$ 0.88 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 14.67 | +16.9% (COMPRA) |
-| Graham | R$ 52.06 | +314.9% (COMPRA) |
+| Bazin (6%) | R$ 14.67 | +18.7% (COMPRA) |
+| Graham | R$ 51.50 | +316.7% (COMPRA) |
 
 ---
 
