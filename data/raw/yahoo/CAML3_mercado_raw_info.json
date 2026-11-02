@@ -70,8 +70,8 @@
   "beta": 0.311,
   "trailingPE": 20.947369,
   "forwardPE": 4.7709813,
-  "volume": 2764200,
-  "regularMarketVolume": 2764200,
+  "volume": 2765000,
+  "regularMarketVolume": 2765000,
   "averageVolume": 1243074,
   "averageVolume10days": 2262880,
   "averageDailyVolume10Day": 2262880,
@@ -153,7 +153,6 @@
   "quoteSourceName": "Delayed Quote",
   "triggerable": false,
   "customPriceAlertConfidence": "LOW",
-  "cryptoTradeable": false,
   "marketState": "CLOSED",
   "corporateActions": [
     {
@@ -174,9 +173,9 @@
   "gmtOffSetMilliseconds": -10800000,
   "market": "br_market",
   "esgPopulated": false,
-  "hasPrePostMarketData": false,
   "shortName": "CAMIL       ON      NM",
   "longName": "Camil Alimentos S.A.",
+  "hasPrePostMarketData": false,
   "firstTradeDateMilliseconds": 1506603600000,
   "regularMarketChange": -0.05000019,
   "regularMarketChangePercent": -1.2406994,
@@ -206,5 +205,6 @@
   "sourceInterval": 15,
   "exchangeDataDelayedBy": 15,
   "averageAnalystRating": "2.0 - Buy",
+  "cryptoTradeable": false,
   "trailingPegRatio": null
 }

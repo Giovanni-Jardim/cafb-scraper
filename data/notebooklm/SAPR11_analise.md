@@ -1,6 +1,6 @@
 # Análise Fundamentalista: SAPR11
 
-**Fonte:** Yahoo Finance | **Gerado:** 01/11/2026
+**Fonte:** Yahoo Finance | **Gerado:** 02/11/2026
 
 ## 📊 Dados de Mercado
 

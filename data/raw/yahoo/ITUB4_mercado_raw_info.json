@@ -111,13 +111,13 @@
   "beta": 0.114,
   "trailingPE": 9.34541,
   "forwardPE": 7.6828213,
-  "volume": 51118900,
-  "regularMarketVolume": 51118900,
+  "volume": 51157200,
+  "regularMarketVolume": 51157200,
   "averageVolume": 33378626,
   "averageVolume10days": 47559660,
   "averageDailyVolume10Day": 47559660,
   "bid": 38.69,
-  "ask": 38.71,
+  "ask": 38.94,
   "bidSize": 0,
   "askSize": 0,
   "marketCap": 426442162176,
@@ -191,18 +191,6 @@
   "quoteSourceName": "Delayed Quote",
   "triggerable": false,
   "customPriceAlertConfidence": "LOW",
-  "corporateActions": [
-    {
-      "header": "Dividend",
-      "message": "ITUB4.SA announced a cash dividend of BRL 0.018 with an ex-date of Nov. 3, 2026",
-      "meta": {
-        "eventType": "DIVIDEND",
-        "dateEpochMs": 1793674800000,
-        "amount": "0.018"
-      }
-    }
-  ],
-  "regularMarketTime": 1793390759,
   "exchange": "SAO",
   "messageBoardId": "finmb_873831",
   "exchangeTimezoneName": "America/Sao_Paulo",
@@ -213,18 +201,6 @@
   "marketState": "CLOSED",
   "shortName": "ITAUUNIBANCOPN      N1",
   "longName": "Ita\u00fa Unibanco Holding S.A.",
-  "epsTrailingTwelveMonths": 4.14,
-  "epsForward": 5.03591,
-  "epsCurrentYear": 4.59773,
-  "priceEpsCurrentYear": 8.415022,
-  "fiftyDayAverageChange": -5.0685997,
-  "fiftyDayAverageChangePercent": -0.11583094,
-  "twoHundredDayAverageChange": -4.4327507,
-  "twoHundredDayAverageChangePercent": -0.10279379,
-  "sourceInterval": 15,
-  "exchangeDataDelayedBy": 15,
-  "averageAnalystRating": "1.6 - Buy",
-  "cryptoTradeable": false,
   "hasPrePostMarketData": false,
   "firstTradeDateMilliseconds": 977400000000,
   "regularMarketChange": -0.8500023,
@@ -244,5 +220,29 @@
   "earningsCallTimestampStart": 1762340340,
   "earningsCallTimestampEnd": 1762340340,
   "isEarningsDateEstimate": false,
+  "epsTrailingTwelveMonths": 4.14,
+  "epsForward": 5.03591,
+  "epsCurrentYear": 4.59773,
+  "priceEpsCurrentYear": 8.415022,
+  "fiftyDayAverageChange": -5.0685997,
+  "fiftyDayAverageChangePercent": -0.11583094,
+  "twoHundredDayAverageChange": -4.4327507,
+  "twoHundredDayAverageChangePercent": -0.10279379,
+  "sourceInterval": 15,
+  "exchangeDataDelayedBy": 15,
+  "averageAnalystRating": "1.6 - Buy",
+  "cryptoTradeable": false,
+  "corporateActions": [
+    {
+      "header": "Dividend",
+      "message": "ITUB4.SA announced a cash dividend of BRL 0.018 with an ex-date of Nov. 3, 2026",
+      "meta": {
+        "eventType": "DIVIDEND",
+        "dateEpochMs": 1793674800000,
+        "amount": "0.018"
+      }
+    }
+  ],
+  "regularMarketTime": 1793390759,
   "trailingPegRatio": 1.1886
 }
