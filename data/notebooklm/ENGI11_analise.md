@@ -1,6 +1,6 @@
 # Análise Fundamentalista: ENGI11
 
-**Fonte:** Yahoo Finance | **Gerado:** 02/11/2026
+**Fonte:** Yahoo Finance | **Gerado:** 03/11/2026
 
 ## 📊 Dados de Mercado
 
