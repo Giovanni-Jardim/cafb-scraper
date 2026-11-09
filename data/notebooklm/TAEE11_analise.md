@@ -1,6 +1,6 @@
 # Análise Fundamentalista: TAEE11
 
-**Fonte:** Yahoo Finance | **Gerado:** 08/11/2026
+**Fonte:** Yahoo Finance | **Gerado:** 09/11/2026
 
 ## 📊 Dados de Mercado
 
