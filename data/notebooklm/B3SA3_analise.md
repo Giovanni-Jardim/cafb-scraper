@@ -1,24 +1,24 @@
 # Análise Fundamentalista: B3SA3
 
-**Fonte:** Yahoo Finance | **Gerado:** 12/11/2026
+**Fonte:** Yahoo Finance | **Gerado:** 13/11/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 14.80 |
+| Cotação Atual | R$ 14.76 |
 | Nº Total de Ações | 4,973,779,255 |
-| LPA (TTM) | R$ 0.98 |
+| LPA (TTM) | R$ 1.00 |
 | VPA | R$ 3.74 |
-| Dividend Yield | 5.08% |
+| Dividend Yield | 5.09% |
 | Proventos 12m | R$ 0.75 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 12.50 | -15.5% (VENDA) |
-| Graham | R$ 9.08 | -38.6% (VENDA) |
+| Bazin (6%) | R$ 12.50 | -15.3% (VENDA) |
+| Graham | R$ 9.18 | -37.8% (VENDA) |
 
 ---
 

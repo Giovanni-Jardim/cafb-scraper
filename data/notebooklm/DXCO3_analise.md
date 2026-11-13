@@ -1,14 +1,14 @@
 # Análise Fundamentalista: DXCO3
 
-**Fonte:** Yahoo Finance | **Gerado:** 12/11/2026
+**Fonte:** Yahoo Finance | **Gerado:** 13/11/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 5.01 |
+| Cotação Atual | R$ 4.74 |
 | Nº Total de Ações | 907,870,672 |
-| LPA (TTM) | R$ -0.22 |
+| LPA (TTM) | R$ -0.24 |
 | VPA | R$ 7.54 |
 
 
