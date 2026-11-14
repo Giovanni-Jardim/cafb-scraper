@@ -1,12 +1,12 @@
 # Análise Fundamentalista: SANB11
 
-**Fonte:** Yahoo Finance | **Gerado:** 13/11/2026
+**Fonte:** Yahoo Finance | **Gerado:** 14/11/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 28.39 |
+| Cotação Atual | R$ 28.40 |
 | Nº Total de Ações | 3,735,435,525 |
 | LPA (TTM) | R$ 2.05 |
 | VPA | R$ 34.27 |
