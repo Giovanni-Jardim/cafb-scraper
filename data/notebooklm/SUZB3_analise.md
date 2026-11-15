@@ -1,6 +1,6 @@
 # Análise Fundamentalista: SUZB3
 
-**Fonte:** Yahoo Finance | **Gerado:** 14/11/2026
+**Fonte:** Yahoo Finance | **Gerado:** 15/11/2026
 
 ## 📊 Dados de Mercado
 
@@ -8,7 +8,7 @@
 |---------|-------|
 | Cotação Atual | R$ 54.77 |
 | Nº Total de Ações | 1,230,310,722 |
-| LPA (TTM) | R$ 6.88 |
+| LPA (TTM) | R$ 6.73 |
 | VPA | R$ 41.92 |
 | Dividend Yield | 2.05% |
 | Proventos 12m | R$ 1.12 |
@@ -18,7 +18,7 @@
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
 | Bazin (6%) | R$ 18.67 | -65.9% (VENDA) |
-| Graham | R$ 80.56 | +47.1% (COMPRA) |
+| Graham | R$ 79.67 | +45.5% (COMPRA) |
 
 ---
 

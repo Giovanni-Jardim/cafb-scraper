@@ -1,6 +1,6 @@
 # Análise Fundamentalista: CSNA3
 
-**Fonte:** Yahoo Finance | **Gerado:** 14/11/2026
+**Fonte:** Yahoo Finance | **Gerado:** 15/11/2026
 
 ## 📊 Dados de Mercado
 
@@ -8,7 +8,7 @@
 |---------|-------|
 | Cotação Atual | R$ 3.72 |
 | Nº Total de Ações | 1,326,093,947 |
-| LPA (TTM) | R$ -2.25 |
+| LPA (TTM) | R$ -1.98 |
 | VPA | R$ 9.71 |
 
 
