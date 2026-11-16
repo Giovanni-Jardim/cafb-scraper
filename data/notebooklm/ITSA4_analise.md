@@ -1,6 +1,6 @@
 # Análise Fundamentalista: ITSA4
 
-**Fonte:** Yahoo Finance | **Gerado:** 15/11/2026
+**Fonte:** Yahoo Finance | **Gerado:** 16/11/2026
 
 ## 📊 Dados de Mercado
 
