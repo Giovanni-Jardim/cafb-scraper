@@ -1,24 +1,24 @@
 # Análise Fundamentalista: RECV3
 
-**Fonte:** Yahoo Finance | **Gerado:** 16/11/2026
+**Fonte:** Yahoo Finance | **Gerado:** 17/11/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 10.74 |
+| Cotação Atual | R$ 10.38 |
 | Nº Total de Ações | 293,009,070 |
-| LPA (TTM) | R$ 2.09 |
+| LPA (TTM) | R$ 2.16 |
 | VPA | R$ 15.07 |
-| Dividend Yield | 6.35% |
+| Dividend Yield | 6.57% |
 | Proventos 12m | R$ 0.68 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 11.33 | +5.5% (AGUARDAR) |
-| Graham | R$ 26.62 | +147.9% (COMPRA) |
+| Bazin (6%) | R$ 11.33 | +9.2% (AGUARDAR) |
+| Graham | R$ 27.07 | +160.8% (COMPRA) |
 
 ---
 
