@@ -1,24 +1,24 @@
 # Análise Fundamentalista: BBDC4
 
-**Fonte:** Yahoo Finance | **Gerado:** 17/11/2026
+**Fonte:** Yahoo Finance | **Gerado:** 18/11/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 14.23 |
+| Cotação Atual | R$ 14.41 |
 | Nº Total de Ações | 5,574,075,304 |
-| LPA (TTM) | R$ 2.41 |
+| LPA (TTM) | R$ 2.33 |
 | VPA | R$ 18.45 |
-| Dividend Yield | 1.60% |
+| Dividend Yield | 1.58% |
 | Proventos 12m | R$ 0.23 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 3.83 | -73.1% (VENDA) |
-| Graham | R$ 31.63 | +122.3% (COMPRA) |
+| Bazin (6%) | R$ 3.83 | -73.4% (VENDA) |
+| Graham | R$ 31.10 | +115.8% (COMPRA) |
 
 ---
 

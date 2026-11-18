@@ -1,24 +1,24 @@
 # Análise Fundamentalista: TIMS3
 
-**Fonte:** Yahoo Finance | **Gerado:** 17/11/2026
+**Fonte:** Yahoo Finance | **Gerado:** 18/11/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 21.87 |
+| Cotação Atual | R$ 22.51 |
 | Nº Total de Ações | 2,376,799,012 |
-| LPA (TTM) | R$ 1.68 |
+| LPA (TTM) | R$ 1.66 |
 | VPA | R$ 10.62 |
-| Dividend Yield | 6.73% |
+| Dividend Yield | 6.54% |
 | Proventos 12m | R$ 1.47 |
 
 ### Valuation
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Bazin (6%) | R$ 24.50 | +12.0% (COMPRA) |
-| Graham | R$ 20.04 | -8.4% (AGUARDAR) |
+| Bazin (6%) | R$ 24.50 | +8.8% (AGUARDAR) |
+| Graham | R$ 19.92 | -11.5% (AGUARDAR) |
 
 ---
 
