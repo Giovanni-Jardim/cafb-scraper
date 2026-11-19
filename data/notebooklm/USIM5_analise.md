@@ -1,14 +1,14 @@
 # Análise Fundamentalista: USIM5
 
-**Fonte:** Yahoo Finance | **Gerado:** 18/11/2026
+**Fonte:** Yahoo Finance | **Gerado:** 19/11/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 4.97 |
+| Cotação Atual | R$ 5.01 |
 | Nº Total de Ações | 528,142,371 |
-| LPA (TTM) | R$ 1.10 |
+| LPA (TTM) | R$ 1.12 |
 | VPA | R$ 17.10 |
 
 
@@ -17,7 +17,7 @@
 
 | Método | Preço Calculado | Margem Segurança |
 |--------|-----------------|------------------|
-| Graham | R$ 20.57 | +314.0% (COMPRA) |
+| Graham | R$ 20.76 | +314.4% (COMPRA) |
 
 ---
 
