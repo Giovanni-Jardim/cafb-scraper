@@ -1,12 +1,12 @@
 # Análise Fundamentalista: ITUB4
 
-**Fonte:** Yahoo Finance | **Gerado:** 24/11/2026
+**Fonte:** Yahoo Finance | **Gerado:** 25/11/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
-| Cotação Atual | R$ 39.73 |
+| Cotação Atual | R$ 39.74 |
 | Nº Total de Ações | 5,404,282,925 |
 | LPA (TTM) | R$ 4.23 |
 | VPA | R$ 20.80 |
