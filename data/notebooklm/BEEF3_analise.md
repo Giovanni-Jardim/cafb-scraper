@@ -1,14 +1,14 @@
 # Análise Fundamentalista: BEEF3
 
-**Fonte:** Yahoo Finance | **Gerado:** 27/11/2026
+**Fonte:** Yahoo Finance | **Gerado:** 28/11/2026
 
 ## 📊 Dados de Mercado
 
 | Métrica | Valor |
 |---------|-------|
 | Cotação Atual | R$ 3.89 |
-| Nº Total de Ações | 955,154,811 |
-| LPA (TTM) | R$ -0.39 |
+| Nº Total de Ações | 955,154,952 |
+| LPA (TTM) | R$ -0.40 |
 | VPA | R$ 0.73 |
 | Dividend Yield | 3.20% |
 | Proventos 12m | R$ 0.12 |
